@@ -1,0 +1,246 @@
+﻿text,expected_intents,standard_semantics,classes,sources,source_cells,audio_exists
+定时,定时,wu shu zi ding shi fan ji,intent_negative,TCL意图表（对比公版自由说）,B329:C329,True
+定时开机,定时开机,,intent_negative,TCL意图表（对比公版自由说）,B330:C330,True
+定时关机,定时关机,,intent_negative,TCL意图表（对比公版自由说）,B331:C331,True
+分钟定时,分钟定时,gu ding shu zi ding shi fan ji,intent_negative,TCL意图表（对比公版自由说）,B332:C332 | B333:C333,True
+一点开机,一点开机,zheng dian ding shi fan ji,intent_negative,TCL意图表（对比公版自由说）,B334:C334 | B335:C335,True
+二点开机,二点开机,,intent_negative,TCL意图表（对比公版自由说）,B336:C336 | B337:C337,True
+三点开机,三点开机,,intent_negative,TCL意图表（对比公版自由说）,B338:C338 | B339:C339,True
+四点开机,四点开机,,intent_negative,TCL意图表（对比公版自由说）,B340:C340 | B341:C341,True
+五点开机,五点开机,,intent_negative,TCL意图表（对比公版自由说）,B342:C342 | B343:C343,True
+六点开机,六点开机,,intent_negative,TCL意图表（对比公版自由说）,B344:C344 | B345:C345,True
+七点开机,七点开机,,intent_negative,TCL意图表（对比公版自由说）,B346:C346 | B347:C347,True
+八点开机,八点开机,,intent_negative,TCL意图表（对比公版自由说）,B348:C348 | B349:C349,True
+九点开机,九点开机,,intent_negative,TCL意图表（对比公版自由说）,B350:C350 | B351:C351,True
+十点开机,十点开机,,intent_negative,TCL意图表（对比公版自由说）,B352:C352 | B353:C353,True
+十一点开机,十一点开机,,intent_negative,TCL意图表（对比公版自由说）,B354:C354 | B355:C355,True
+十二点开机,十二点开机,,intent_negative,TCL意图表（对比公版自由说）,B356:C356 | B357:C357,True
+十三点开机,十三点开机,,intent_negative,TCL意图表（对比公版自由说）,B358:C358 | B359:C359,True
+十四点开机,十四点开机,,intent_negative,TCL意图表（对比公版自由说）,B360:C360 | B361:C361,True
+十五点开机,十五点开机,,intent_negative,TCL意图表（对比公版自由说）,B362:C362 | B363:C363,True
+十六点开机,十六点开机,,intent_negative,TCL意图表（对比公版自由说）,B364:C364 | B365:C365,True
+十七点开机,十七点开机,,intent_negative,TCL意图表（对比公版自由说）,B366:C366 | B367:C367,True
+十八点开机,十八点开机,,intent_negative,TCL意图表（对比公版自由说）,B368:C368 | B369:C369,True
+十九点开机,十九点开机,,intent_negative,TCL意图表（对比公版自由说）,B370:C370 | B371:C371,True
+二十点开机,二十点开机,,intent_negative,TCL意图表（对比公版自由说）,B372:C372 | B373:C373,True
+二十一点开机,二十一点开机,,intent_negative,TCL意图表（对比公版自由说）,B374:C374 | B375:C375,True
+二十二点开机,二十二点开机,,intent_negative,TCL意图表（对比公版自由说）,B376:C376 | B377:C377,True
+二十三点开机,二十三点开机,,intent_negative,TCL意图表（对比公版自由说）,B378:C378 | B379:C379,True
+二十四点开机,二十四点开机,,intent_negative,TCL意图表（对比公版自由说）,B380:C380 | B381:C381,True
+一点关机,一点关机,,intent_negative,TCL意图表（对比公版自由说）,B382:C382 | B383:C383,True
+二点关机,二点关机,,intent_negative,TCL意图表（对比公版自由说）,B384:C384 | B385:C385,True
+三点关机,三点关机,,intent_negative,TCL意图表（对比公版自由说）,B386:C386 | B387:C387,True
+四点关机,四点关机,,intent_negative,TCL意图表（对比公版自由说）,B388:C388 | B389:C389,True
+五点关机,五点关机,,intent_negative,TCL意图表（对比公版自由说）,B390:C390 | B391:C391,True
+六点关机,六点关机,,intent_negative,TCL意图表（对比公版自由说）,B392:C392 | B393:C393,True
+七点关机,七点关机,,intent_negative,TCL意图表（对比公版自由说）,B394:C394 | B395:C395,True
+八点关机,八点关机,,intent_negative,TCL意图表（对比公版自由说）,B396:C396 | B397:C397,True
+九点关机,九点关机,,intent_negative,TCL意图表（对比公版自由说）,B398:C398 | B399:C399,True
+十点关机,十点关机,,intent_negative,TCL意图表（对比公版自由说）,B400:C400 | B401:C401,True
+十一点关机,十一点关机,,intent_negative,TCL意图表（对比公版自由说）,B402:C402 | B403:C403,True
+十二点关机,十二点关机,,intent_negative,TCL意图表（对比公版自由说）,B404:C404 | B405:C405,True
+十三点关机,十三点关机,,intent_negative,TCL意图表（对比公版自由说）,B406:C406 | B407:C407,True
+十四点关机,十四点关机,,intent_negative,TCL意图表（对比公版自由说）,B408:C408 | B409:C409,True
+十五点关机,十五点关机,,intent_negative,TCL意图表（对比公版自由说）,B410:C410 | B411:C411,True
+十六点关机,十六点关机,,intent_negative,TCL意图表（对比公版自由说）,B412:C412 | B413:C413,True
+十七点关机,十七点关机,,intent_negative,TCL意图表（对比公版自由说）,B414:C414 | B415:C415,True
+十八点关机,十八点关机,,intent_negative,TCL意图表（对比公版自由说）,B416:C416 | B417:C417,True
+十九点关机,十九点关机,,intent_negative,TCL意图表（对比公版自由说）,B418:C418 | B419:C419,True
+二十点关机,二十点关机,,intent_negative,TCL意图表（对比公版自由说）,B420:C420 | B421:C421,True
+二十一点关机,二十一点关机,,intent_negative,TCL意图表（对比公版自由说）,B422:C422 | B423:C423,True
+二十二点关机,二十二点关机,,intent_negative,TCL意图表（对比公版自由说）,B424:C424 | B425:C425,True
+二十三点关机,二十三点关机,,intent_negative,TCL意图表（对比公版自由说）,B426:C426 | B427:C427,True
+二十四点关机,二十四点关机,,intent_negative,TCL意图表（对比公版自由说）,B428:C428 | B429:C429,True
+风速百分之二,风速百分之二,feng su bai fen bi fan ji,intent_negative,TCL意图表（对比公版自由说）,B430:C430,True
+风速百分之三,风速百分之三,,intent_negative,TCL意图表（对比公版自由说）,B431:C431,True
+风速百分之四,风速百分之四,,intent_negative,TCL意图表（对比公版自由说）,B432:C432,True
+风速百分之五,风速百分之五,,intent_negative,TCL意图表（对比公版自由说）,B433:C433,True
+风速百分之六,风速百分之六,,intent_negative,TCL意图表（对比公版自由说）,B434:C434,True
+风速百分之七,风速百分之七,,intent_negative,TCL意图表（对比公版自由说）,B435:C435,True
+风速百分之八,风速百分之八,,intent_negative,TCL意图表（对比公版自由说）,B436:C436,True
+风速百分之九,风速百分之九,,intent_negative,TCL意图表（对比公版自由说）,B437:C437,True
+风速百分之十一,风速百分之十一,,intent_negative,TCL意图表（对比公版自由说）,B438:C438,True
+风速百分之十二,风速百分之十二,,intent_negative,TCL意图表（对比公版自由说）,B439:C439,True
+风速百分之十三,风速百分之十三,,intent_negative,TCL意图表（对比公版自由说）,B440:C440,True
+风速百分之十四,风速百分之十四,,intent_negative,TCL意图表（对比公版自由说）,B441:C441,True
+风速百分之十五,风速百分之十五,,intent_negative,TCL意图表（对比公版自由说）,B442:C442,True
+风速百分之十六,风速百分之十六,,intent_negative,TCL意图表（对比公版自由说）,B443:C443,True
+风速百分之十七,风速百分之十七,,intent_negative,TCL意图表（对比公版自由说）,B444:C444,True
+风速百分之十九,风速百分之十九,,intent_negative,TCL意图表（对比公版自由说）,B445:C445,True
+风速百分之二十一,风速百分之二十一,,intent_negative,TCL意图表（对比公版自由说）,B446:C446,True
+风速百分之二十二,风速百分之二十二,,intent_negative,TCL意图表（对比公版自由说）,B447:C447,True
+风速百分之二十三,风速百分之二十三,,intent_negative,TCL意图表（对比公版自由说）,B448:C448,True
+风速百分之二十四,风速百分之二十四,,intent_negative,TCL意图表（对比公版自由说）,B449:C449,True
+风速百分之二十五,风速百分之二十五,,intent_negative,TCL意图表（对比公版自由说）,B450:C450,True
+风速百分之二十六,风速百分之二十六,,intent_negative,TCL意图表（对比公版自由说）,B451:C451,True
+风速百分之二十七,风速百分之二十七,,intent_negative,TCL意图表（对比公版自由说）,B452:C452,True
+风速百分之二十九,风速百分之二十九,,intent_negative,TCL意图表（对比公版自由说）,B453:C453,True
+风速百分之三十一,风速百分之三十一,,intent_negative,TCL意图表（对比公版自由说）,B454:C454,True
+风速百分之三十二,风速百分之三十二,,intent_negative,TCL意图表（对比公版自由说）,B455:C455,True
+风速百分之三十三,风速百分之三十三,,intent_negative,TCL意图表（对比公版自由说）,B456:C456,True
+风速百分之三十四,风速百分之三十四,,intent_negative,TCL意图表（对比公版自由说）,B457:C457,True
+风速百分之三十五,风速百分之三十五,,intent_negative,TCL意图表（对比公版自由说）,B458:C458,True
+风速百分之三十六,风速百分之三十六,,intent_negative,TCL意图表（对比公版自由说）,B459:C459,True
+风速百分之三十七,风速百分之三十七,,intent_negative,TCL意图表（对比公版自由说）,B460:C460,True
+风速百分之三十九,风速百分之三十九,,intent_negative,TCL意图表（对比公版自由说）,B461:C461,True
+风速百分之四十一,风速百分之四十一,,intent_negative,TCL意图表（对比公版自由说）,B462:C462,True
+风速百分之四十二,风速百分之四十二,,intent_negative,TCL意图表（对比公版自由说）,B463:C463,True
+风速百分之四十三,风速百分之四十三,,intent_negative,TCL意图表（对比公版自由说）,B464:C464,True
+风速百分之四十四,风速百分之四十四,,intent_negative,TCL意图表（对比公版自由说）,B465:C465,True
+风速百分之四十五,风速百分之四十五,,intent_negative,TCL意图表（对比公版自由说）,B466:C466,True
+风速百分之四十六,风速百分之四十六,,intent_negative,TCL意图表（对比公版自由说）,B467:C467,True
+风速百分之四十七,风速百分之四十七,,intent_negative,TCL意图表（对比公版自由说）,B468:C468,True
+风速百分之四十九,风速百分之四十九,,intent_negative,TCL意图表（对比公版自由说）,B469:C469,True
+风速百分之五十一,风速百分之五十一,,intent_negative,TCL意图表（对比公版自由说）,B470:C470,True
+风速百分之五十二,风速百分之五十二,,intent_negative,TCL意图表（对比公版自由说）,B471:C471,True
+风速百分之五十三,风速百分之五十三,,intent_negative,TCL意图表（对比公版自由说）,B472:C472,True
+风速百分之五十四,风速百分之五十四,,intent_negative,TCL意图表（对比公版自由说）,B473:C473,True
+风速百分之五十五,风速百分之五十五,,intent_negative,TCL意图表（对比公版自由说）,B474:C474,True
+风速百分之五十六,风速百分之五十六,,intent_negative,TCL意图表（对比公版自由说）,B475:C475,True
+风速百分之五十七,风速百分之五十七,,intent_negative,TCL意图表（对比公版自由说）,B476:C476,True
+风速百分之五十九,风速百分之五十九,,intent_negative,TCL意图表（对比公版自由说）,B477:C477,True
+风速百分之六十一,风速百分之六十一,,intent_negative,TCL意图表（对比公版自由说）,B478:C478,True
+风速百分之六十二,风速百分之六十二,,intent_negative,TCL意图表（对比公版自由说）,B479:C479,True
+风速百分之六十三,风速百分之六十三,,intent_negative,TCL意图表（对比公版自由说）,B480:C480,True
+风速百分之六十四,风速百分之六十四,,intent_negative,TCL意图表（对比公版自由说）,B481:C481,True
+风速百分之六十五,风速百分之六十五,,intent_negative,TCL意图表（对比公版自由说）,B482:C482,True
+风速百分之六十六,风速百分之六十六,,intent_negative,TCL意图表（对比公版自由说）,B483:C483,True
+风速百分之六十七,风速百分之六十七,,intent_negative,TCL意图表（对比公版自由说）,B484:C484,True
+风速百分之六十九,风速百分之六十九,,intent_negative,TCL意图表（对比公版自由说）,B485:C485,True
+风速百分之七十一,风速百分之七十一,,intent_negative,TCL意图表（对比公版自由说）,B486:C486,True
+风速百分之七十二,风速百分之七十二,,intent_negative,TCL意图表（对比公版自由说）,B487:C487,True
+风速百分之七十三,风速百分之七十三,,intent_negative,TCL意图表（对比公版自由说）,B488:C488,True
+风速百分之七十四,风速百分之七十四,,intent_negative,TCL意图表（对比公版自由说）,B489:C489,True
+风速百分之七十五,风速百分之七十五,,intent_negative,TCL意图表（对比公版自由说）,B490:C490,True
+风速百分之七十六,风速百分之七十六,,intent_negative,TCL意图表（对比公版自由说）,B491:C491,True
+风速百分之七十七,风速百分之七十七,,intent_negative,TCL意图表（对比公版自由说）,B492:C492,True
+风速百分之七十九,风速百分之七十九,,intent_negative,TCL意图表（对比公版自由说）,B493:C493,True
+风速百分之八十一,风速百分之八十一,,intent_negative,TCL意图表（对比公版自由说）,B494:C494,True
+风速百分之八十二,风速百分之八十二,,intent_negative,TCL意图表（对比公版自由说）,B495:C495,True
+风速百分之八十三,风速百分之八十三,,intent_negative,TCL意图表（对比公版自由说）,B496:C496,True
+风速百分之八十四,风速百分之八十四,,intent_negative,TCL意图表（对比公版自由说）,B497:C497,True
+风速百分之八十五,风速百分之八十五,,intent_negative,TCL意图表（对比公版自由说）,B498:C498,True
+风速百分之八十六,风速百分之八十六,,intent_negative,TCL意图表（对比公版自由说）,B499:C499,True
+风速百分之八十七,风速百分之八十七,,intent_negative,TCL意图表（对比公版自由说）,B500:C500,True
+风速百分之八十九,风速百分之八十九,,intent_negative,TCL意图表（对比公版自由说）,B501:C501,True
+风速百分之九十一,风速百分之九十一,,intent_negative,TCL意图表（对比公版自由说）,B502:C502,True
+风速百分之九十二,风速百分之九十二,,intent_negative,TCL意图表（对比公版自由说）,B503:C503,True
+风速百分之九十三,风速百分之九十三,,intent_negative,TCL意图表（对比公版自由说）,B504:C504,True
+风速百分之九十四,风速百分之九十四,,intent_negative,TCL意图表（对比公版自由说）,B505:C505,True
+风速百分之九十五,风速百分之九十五,,intent_negative,TCL意图表（对比公版自由说）,B506:C506,True
+风速百分之九十六,风速百分之九十六,,intent_negative,TCL意图表（对比公版自由说）,B507:C507,True
+风速百分之九十七,风速百分之九十七,,intent_negative,TCL意图表（对比公版自由说）,B508:C508,True
+风速百分之九十九,风速百分之九十九,,intent_negative,TCL意图表（对比公版自由说）,B509:C509,True
+音量百分之二,音量百分之二,yin liang bai fen bi fan ji,intent_negative,TCL意图表（对比公版自由说）,B510:C510,True
+音量百分之三,音量百分之三,,intent_negative,TCL意图表（对比公版自由说）,B511:C511,True
+音量百分之四,音量百分之四,,intent_negative,TCL意图表（对比公版自由说）,B512:C512,True
+音量百分之五,音量百分之五,,intent_negative,TCL意图表（对比公版自由说）,B513:C513,True
+音量百分之六,音量百分之六,,intent_negative,TCL意图表（对比公版自由说）,B514:C514,True
+音量百分之七,音量百分之七,,intent_negative,TCL意图表（对比公版自由说）,B515:C515,True
+音量百分之八,音量百分之八,,intent_negative,TCL意图表（对比公版自由说）,B516:C516,True
+音量百分之九,音量百分之九,,intent_negative,TCL意图表（对比公版自由说）,B517:C517,True
+音量百分之十一,音量百分之十一,,intent_negative,TCL意图表（对比公版自由说）,B518:C518,True
+音量百分之十二,音量百分之十二,,intent_negative,TCL意图表（对比公版自由说）,B519:C519,True
+音量百分之十三,音量百分之十三,,intent_negative,TCL意图表（对比公版自由说）,B520:C520,True
+音量百分之十四,音量百分之十四,,intent_negative,TCL意图表（对比公版自由说）,B521:C521,True
+音量百分之十五,音量百分之十五,,intent_negative,TCL意图表（对比公版自由说）,B522:C522,True
+音量百分之十六,音量百分之十六,,intent_negative,TCL意图表（对比公版自由说）,B523:C523,True
+音量百分之十七,音量百分之十七,,intent_negative,TCL意图表（对比公版自由说）,B524:C524,True
+音量百分之十九,音量百分之十九,,intent_negative,TCL意图表（对比公版自由说）,B525:C525,True
+音量百分之二十一,音量百分之二十一,,intent_negative,TCL意图表（对比公版自由说）,B526:C526,True
+音量百分之二十二,音量百分之二十二,,intent_negative,TCL意图表（对比公版自由说）,B527:C527,True
+音量百分之二十三,音量百分之二十三,,intent_negative,TCL意图表（对比公版自由说）,B528:C528,True
+音量百分之二十四,音量百分之二十四,,intent_negative,TCL意图表（对比公版自由说）,B529:C529,True
+音量百分之二十五,音量百分之二十五,,intent_negative,TCL意图表（对比公版自由说）,B530:C530,True
+音量百分之二十六,音量百分之二十六,,intent_negative,TCL意图表（对比公版自由说）,B531:C531,True
+音量百分之二十七,音量百分之二十七,,intent_negative,TCL意图表（对比公版自由说）,B532:C532,True
+音量百分之二十八,音量百分之二十八,,intent_negative,TCL意图表（对比公版自由说）,B533:C533,True
+音量百分之二十九,音量百分之二十九,,intent_negative,TCL意图表（对比公版自由说）,B534:C534,True
+音量百分之三十一,音量百分之三十一,,intent_negative,TCL意图表（对比公版自由说）,B535:C535,True
+音量百分之三十二,音量百分之三十二,,intent_negative,TCL意图表（对比公版自由说）,B536:C536,True
+音量百分之三十三,音量百分之三十三,,intent_negative,TCL意图表（对比公版自由说）,B537:C537,True
+音量百分之三十四,音量百分之三十四,,intent_negative,TCL意图表（对比公版自由说）,B538:C538,True
+音量百分之三十五,音量百分之三十五,,intent_negative,TCL意图表（对比公版自由说）,B539:C539,True
+音量百分之三十六,音量百分之三十六,,intent_negative,TCL意图表（对比公版自由说）,B540:C540,True
+音量百分之三十七,音量百分之三十七,,intent_negative,TCL意图表（对比公版自由说）,B541:C541,True
+音量百分之三十九,音量百分之三十九,,intent_negative,TCL意图表（对比公版自由说）,B542:C542,True
+音量百分之四十一,音量百分之四十一,,intent_negative,TCL意图表（对比公版自由说）,B543:C543,True
+音量百分之四十二,音量百分之四十二,,intent_negative,TCL意图表（对比公版自由说）,B544:C544,True
+音量百分之四十三,音量百分之四十三,,intent_negative,TCL意图表（对比公版自由说）,B545:C545,True
+音量百分之四十四,音量百分之四十四,,intent_negative,TCL意图表（对比公版自由说）,B546:C546,True
+音量百分之四十五,音量百分之四十五,,intent_negative,TCL意图表（对比公版自由说）,B547:C547,True
+音量百分之四十六,音量百分之四十六,,intent_negative,TCL意图表（对比公版自由说）,B548:C548,True
+音量百分之四十七,音量百分之四十七,,intent_negative,TCL意图表（对比公版自由说）,B549:C549,True
+音量百分之四十九,音量百分之四十九,,intent_negative,TCL意图表（对比公版自由说）,B550:C550,True
+音量百分之五十一,音量百分之五十一,,intent_negative,TCL意图表（对比公版自由说）,B551:C551,True
+音量百分之五十二,音量百分之五十二,,intent_negative,TCL意图表（对比公版自由说）,B552:C552,True
+音量百分之五十三,音量百分之五十三,,intent_negative,TCL意图表（对比公版自由说）,B553:C553,True
+音量百分之五十四,音量百分之五十四,,intent_negative,TCL意图表（对比公版自由说）,B554:C554,True
+音量百分之五十五,音量百分之五十五,,intent_negative,TCL意图表（对比公版自由说）,B555:C555,True
+音量百分之五十六,音量百分之五十六,,intent_negative,TCL意图表（对比公版自由说）,B556:C556,True
+音量百分之五十七,音量百分之五十七,,intent_negative,TCL意图表（对比公版自由说）,B557:C557,True
+音量百分之五十九,音量百分之五十九,,intent_negative,TCL意图表（对比公版自由说）,B558:C558,True
+音量百分之六十一,音量百分之六十一,,intent_negative,TCL意图表（对比公版自由说）,B559:C559,True
+音量百分之六十二,音量百分之六十二,,intent_negative,TCL意图表（对比公版自由说）,B560:C560,True
+音量百分之六十三,音量百分之六十三,,intent_negative,TCL意图表（对比公版自由说）,B561:C561,True
+音量百分之六十四,音量百分之六十四,,intent_negative,TCL意图表（对比公版自由说）,B562:C562,True
+音量百分之六十五,音量百分之六十五,,intent_negative,TCL意图表（对比公版自由说）,B563:C563,True
+音量百分之六十六,音量百分之六十六,,intent_negative,TCL意图表（对比公版自由说）,B564:C564,True
+音量百分之六十七,音量百分之六十七,,intent_negative,TCL意图表（对比公版自由说）,B565:C565,True
+音量百分之六十九,音量百分之六十九,,intent_negative,TCL意图表（对比公版自由说）,B566:C566,True
+音量百分之七十一,音量百分之七十一,,intent_negative,TCL意图表（对比公版自由说）,B567:C567,True
+音量百分之七十二,音量百分之七十二,,intent_negative,TCL意图表（对比公版自由说）,B568:C568,True
+音量百分之七十三,音量百分之七十三,,intent_negative,TCL意图表（对比公版自由说）,B569:C569,True
+音量百分之七十四,音量百分之七十四,,intent_negative,TCL意图表（对比公版自由说）,B570:C570,True
+音量百分之七十五,音量百分之七十五,,intent_negative,TCL意图表（对比公版自由说）,B571:C571,True
+音量百分之七十六,音量百分之七十六,,intent_negative,TCL意图表（对比公版自由说）,B572:C572,True
+音量百分之七十七,音量百分之七十七,,intent_negative,TCL意图表（对比公版自由说）,B573:C573,True
+音量百分之七十九,音量百分之七十九,,intent_negative,TCL意图表（对比公版自由说）,B574:C574,True
+音量百分之八十一,音量百分之八十一,,intent_negative,TCL意图表（对比公版自由说）,B575:C575,True
+音量百分之八十二,音量百分之八十二,,intent_negative,TCL意图表（对比公版自由说）,B576:C576,True
+音量百分之八十三,音量百分之八十三,,intent_negative,TCL意图表（对比公版自由说）,B577:C577,True
+音量百分之八十四,音量百分之八十四,,intent_negative,TCL意图表（对比公版自由说）,B578:C578,True
+音量百分之八十五,音量百分之八十五,,intent_negative,TCL意图表（对比公版自由说）,B579:C579,True
+音量百分之八十六,音量百分之八十六,,intent_negative,TCL意图表（对比公版自由说）,B580:C580,True
+音量百分之八十七,音量百分之八十七,,intent_negative,TCL意图表（对比公版自由说）,B581:C581,True
+音量百分之八十九,音量百分之八十九,,intent_negative,TCL意图表（对比公版自由说）,B582:C582,True
+音量百分之九十一,音量百分之九十一,,intent_negative,TCL意图表（对比公版自由说）,B583:C583,True
+音量百分之九十二,音量百分之九十二,,intent_negative,TCL意图表（对比公版自由说）,B584:C584,True
+音量百分之九十三,音量百分之九十三,,intent_negative,TCL意图表（对比公版自由说）,B585:C585,True
+音量百分之九十四,音量百分之九十四,,intent_negative,TCL意图表（对比公版自由说）,B586:C586,True
+音量百分之九十五,音量百分之九十五,,intent_negative,TCL意图表（对比公版自由说）,B587:C587,True
+音量百分之九十六,音量百分之九十六,,intent_negative,TCL意图表（对比公版自由说）,B588:C588,True
+音量百分之九十七,音量百分之九十七,,intent_negative,TCL意图表（对比公版自由说）,B589:C589,True
+音量百分之九十九,音量百分之九十九,,intent_negative,TCL意图表（对比公版自由说）,B590:C590,True
+小优小优,小优小优,,intent_negative | wake_negative,TCL意图表（对比公版自由说） | 能力项-checklist,B591:C591 | D7,False
+小艺小艺,小艺小艺,,intent_negative | wake_negative,TCL意图表（对比公版自由说） | 能力项-checklist,B591:C591 | D7,False
+小度小度,小度小度,,intent_negative | wake_negative,TCL意图表（对比公版自由说） | 能力项-checklist,B591:C591 | D7,False
+小冰小冰,小冰小冰,,intent_negative | wake_negative,TCL意图表（对比公版自由说） | 能力项-checklist,B591:C591 | D7,False
+小V小V,小V小V,,intent_negative | wake_negative,TCL意图表（对比公版自由说） | 能力项-checklist,B591:C591 | D7,False
+小微小微,小微小微,,intent_negative | wake_negative,TCL意图表（对比公版自由说） | 能力项-checklist,B591:C591 | D7,False
+小德小德,小德小德,,intent_negative | wake_negative,TCL意图表（对比公版自由说） | 能力项-checklist,B591:C591 | D7,False
+小欧小欧,小欧小欧,,intent_negative | wake_negative,TCL意图表（对比公版自由说） | 能力项-checklist,B591:C591 | D7,False
+海信小聚,海信小聚,,intent_negative | wake_negative,TCL意图表（对比公版自由说） | 能力项-checklist,B591:C591 | D7,False
+你好哈利,你好哈利,,intent_negative | wake_negative,TCL意图表（对比公版自由说） | 能力项-checklist,B591:C591 | D7,False
+小聚小聚,小聚小聚,,intent_negative | wake_negative,TCL意图表（对比公版自由说） | 能力项-checklist,B591:C591 | D7,False
+小维小维,小维小维,,intent_negative | wake_negative,TCL意图表（对比公版自由说） | 能力项-checklist,B591:C591 | D7,False
+小美小美,小美小美,,intent_negative | wake_negative,TCL意图表（对比公版自由说） | 能力项-checklist,B591:C591 | D7,False
+小爱同学,小爱同学,,intent_negative,TCL意图表（对比公版自由说）,B591:C591,False
+小爱小爱,小爱小爱,,intent_negative | wake_negative,TCL意图表（对比公版自由说） | 能力项-checklist,B591:C591 | D7,False
+小艾小艾,小艾小艾,,intent_negative | wake_negative,TCL意图表（对比公版自由说） | 能力项-checklist,B591:C591 | D7,False
+咪咕灵犀,咪咕灵犀,,intent_negative | wake_negative,TCL意图表（对比公版自由说） | 能力项-checklist,B591:C591 | D7,False
+灵犀灵犀,灵犀灵犀,,intent_negative | wake_negative,TCL意图表（对比公版自由说） | 能力项-checklist,B591:C591 | D7,False
+小biu小biu,小biu小biu,,intent_negative | wake_negative,TCL意图表（对比公版自由说） | 能力项-checklist,B591:C591 | D7,False
+小牛小牛,小牛小牛,,intent_negative | wake_negative,TCL意图表（对比公版自由说） | 能力项-checklist,B591:C591 | D7,False
+小刘小刘,小刘小刘,,intent_negative | wake_negative,TCL意图表（对比公版自由说） | 能力项-checklist,B591:C591 | D7,False
+小欧管家,小欧管家,,intent_negative | wake_negative,TCL意图表（对比公版自由说） | 能力项-checklist,B591:C591 | D7,False
+小雅小雅,小雅小雅,,intent_negative | wake_negative,TCL意图表（对比公版自由说） | 能力项-checklist,B591:C591 | D7,False
+小溪小溪,小溪小溪,,intent_negative,TCL意图表（对比公版自由说）,B591:C591,False
+小宝小宝,小宝小宝,,intent_negative | wake_negative,TCL意图表（对比公版自由说） | 能力项-checklist,B591:C591 | D7,False
+小贝小贝,小贝小贝,,intent_negative | wake_negative,TCL意图表（对比公版自由说） | 能力项-checklist,B591:C591 | D7,False
+小雷小雷,小雷小雷,,intent_negative | wake_negative,TCL意图表（对比公版自由说） | 能力项-checklist,B591:C591 | D7,False
+小布小布,小布小布,,intent_negative | wake_negative,TCL意图表（对比公版自由说） | 能力项-checklist,B591:C591 | D7,False
+天猫精灵,天猫精灵,,intent_negative | wake_negative,TCL意图表（对比公版自由说） | 能力项-checklist,B591:C591 | D7,False
+你好科慕,你好科慕,,intent_negative | wake_negative,TCL意图表（对比公版自由说） | 能力项-checklist,B591:C591 | D7,False
+Hi,Hi,,intent_negative | wake_negative,TCL意图表（对比公版自由说） | 能力项-checklist,B591:C591 | D7,False
+COLMO,COLMO,,intent_negative | wake_negative,TCL意图表（对比公版自由说） | 能力项-checklist,B591:C591 | D7,False

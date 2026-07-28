@@ -1,0 +1,168 @@
+﻿template,executable_text,standard_semantics,source_cells
+定时N小时,定时半小时,ding shi ban xiao shi,B6:C6
+定时N小时,定时一小时,ding shi yi xiao shi,B7:C7
+定时N小时,定时二小时,ding shi er xiao shi,B8:C8
+定时N小时,定时三小时,ding shi san xiao shi,B9:C9
+定时N小时,定时四小时,ding shi si xiao shi,B10:C10
+定时N小时,定时五小时,ding shi wu xiao shi,B11:C11
+定时N小时,定时六小时,ding shi liu xiao shi,B12:C12
+定时N小时,定时七小时,ding shi qi xiao shi,B13:C13
+定时N小时,定时八小时,ding shi ba xiao shi,B14:C14
+定时N小时,定时九小时,ding shi jiu xiao shi,B15:C15 | B16:C16
+定时N小时,定时十小时,ding shi shi xiao shi,B17:C17
+定时N小时,定时十一小时,ding shi shi yi xiao shi,B18:C18
+定时N小时,定时十二小时,ding shi shi er xiao shi,B19:C19
+定时N小时,定时十三小时,ding shi shi san xiao shi,B20:C20
+定时N小时,定时十四小时,ding shi shi si xiao shi,B21:C21
+定时N小时,定时十五小时,ding shi shi wu xiao shi,B22:C22
+定时N小时,定时十六小时,ding shi shi liu xiao shi,B23:C23
+定时N小时,定时十七小时,ding shi shi qi xiao shi,B24:C24
+定时N小时,定时十八小时,ding shi shi ba xiao shi,B25:C25
+定时N小时,定时十九小时,ding shi shi jiu xiao shi,B26:C26
+定时N小时,定时二十小时,ding shi er shi xiao shi,B27:C27
+定时N小时,定时二十一小时,ding shi er shi yi xiao shi,B28:C28
+定时N小时,定时二十二小时,ding shi er shi er xiao shi,B29:C29
+定时N小时,定时二十三小时,ding shi er shi san xiao shi,B30:C30
+定时N小时,定时二十四小时,ding shi er shi si xiao shi,B31:C31
+定时N小时开机,定时半小时开机,ding shi ban xiao shi kai ji,B33:C33
+定时N小时开机,定时一小时开机,ding shi yi xiao shi kai ji,B34:C34
+定时N小时开机,定时二小时开机,ding shi liang xiao shi kai ji,B35:C35
+定时N小时开机,定时三小时开机,ding shi san xiao shi kai ji,B36:C36
+定时N小时开机,定时四小时开机,ding shi si xiao shi kai ji,B37:C37
+定时N小时开机,定时五小时开机,ding shi wu xiao shi kai ji,B38:C38
+定时N小时开机,定时六小时开机,ding shi liu xiao shi kai ji,B39:C39
+定时N小时开机,定时七小时开机,ding shi qi xiao shi kai ji,B40:C40
+定时N小时开机,定时八小时开机,ding shi ba xiao shi kai ji,B41:C41
+定时N小时开机,定时九小时开机,ding shi jiu xiao shi kai ji,B42:C42
+定时N小时开机,定时十小时开机,ding shi shi xiao shi kai ji,B43:C43
+定时N小时开机,定时十一小时开机,ding shi shi yi xiao shi kai ji,B44:C44
+定时N小时开机,定时十二小时开机,ding shi shi er xiao shi kai ji,B45:C45
+定时N小时开机,定时十三小时开机,ding shi shi san xiao shi kai ji,B46:C46
+定时N小时开机,定时十四小时开机,ding shi shi si xiao shi kai ji,B47:C47
+定时N小时开机,定时十五小时开机,ding shi shi wu xiao shi kai ji,B48:C48
+定时N小时开机,定时十六小时开机,ding shi shi liu xiao shi kai ji,B49:C49
+定时N小时开机,定时十七小时开机,ding shi shi qi xiao shi kai ji,B50:C50
+定时N小时开机,定时十八小时开机,ding shi shi ba xiao shi kai ji,B51:C51
+定时N小时开机,定时十九小时开机,ding shi shi jiu xiao shi kai ji,B52:C52
+定时N小时开机,定时二十小时开机,ding shi er shi xiao shi kai ji,B53:C53
+定时N小时开机,定时二十一小时开机,ding shi er shi yi xiao shi kai ji,B54:C54
+定时N小时开机,定时二十二小时开机,ding shi er shi er xiao shi kai ji,B55:C55
+定时N小时开机,定时二十三小时开机,ding shi er shi san xiao shi kai ji,B56:C56
+定时N小时开机,定时二十四小时开机,ding shi er shi si xiao shi kai ji,B57:C57
+定时N小时关机,定时半小时关机,ding shi ban xiao shi guan ji,B58:C58
+定时N小时关机,定时一小时关机,ding shi yi xiao shi guan ji,B59:C59
+定时N小时关机,定时二小时关机,ding shi liang xiao shi guan ji,B60:C60
+定时N小时关机,定时三小时关机,ding shi san xiao shi guan ji,B61:C61
+定时N小时关机,定时四小时关机,ding shi si xiao shi guan ji,B62:C62
+定时N小时关机,定时五小时关机,ding shi wu xiao shi guan ji,B63:C63
+定时N小时关机,定时六小时关机,ding shi liu xiao shi guan ji,B64:C64
+定时N小时关机,定时七小时关机,ding shi qi xiao shi guan ji,B65:C65
+定时N小时关机,定时八小时关机,ding shi ba xiao shi guan ji,B66:C66
+定时N小时关机,定时九小时关机,ding shi jiu xiao shi guan ji,B67:C67
+定时N小时关机,定时十小时关机,ding shi shi xiao shi guan ji,B68:C68
+定时N小时关机,定时十一小时关机,ding shi shi yi xiao shi guan ji,B69:C69
+定时N小时关机,定时十二小时关机,ding shi shi er xiao shi guan ji,B70:C70 | B71:C71
+定时N小时关机,定时十三小时关机,ding shi shi san xiao shi guan ji,B72:C72
+定时N小时关机,定时十四小时关机,ding shi shi si xiao shi guan ji,B73:C73
+定时N小时关机,定时十五小时关机,ding shi shi wu xiao shi guan ji,B74:C74
+定时N小时关机,定时十六小时关机,ding shi shi liu xiao shi guan ji,B75:C75
+定时N小时关机,定时十七小时关机,ding shi shi qi xiao shi guan ji,B76:C76
+定时N小时关机,定时十八小时关机,ding shi shi ba xiao shi guan ji,B77:C77
+定时N小时关机,定时十九小时关机,ding shi shi jiu xiao shi guan ji,B78:C78
+定时N小时关机,定时二十小时关机,ding shi er shi xiao shi guan ji,B79:C79
+定时N小时关机,定时二十一小时关机,ding shi er shi yi xiao shi guan ji,B80:C80
+定时N小时关机,定时二十二小时关机,ding shi er shi er xiao shi guan ji,B81:C81
+定时N小时关机,定时二十三小时关机,ding shi er shi san xiao shi guan ji,B82:C82
+定时N小时关机,定时二十四小时关机,ding shi er shi si xiao shi guan ji,B83:C83
+N度,十度,shi du,B98:C98
+N度,十点五度,shi dian wu du,B99:C99
+N度,十一度,shi yi du,B100:C100
+N度,十一点五度,shi yi dian wu du,B101:C101
+N度,十二度,shi er du,B102:C102
+N度,十二点五度,shi er dian wu du,B103:C103
+N度,十三度,shi san du,B104:C104
+N度,十三点五度,shi san dian wu du,B105:C105
+N度,十四度,shi si du,B106:C106
+N度,十四点五度,shi si dian wu du,B107:C107
+N度,十五度,shi wu du,B108:C108
+N度,十五点五度,shi wu dian wu du,B109:C109
+N度,十六度,shi liu du,B110:C110
+N度,十六点五度,shi liu dian wu du,B111:C111
+N度,十七度,shi qi du,B112:C112
+N度,十七点五度,shi qi dian wu du,B113:C113
+N度,十八度,shi ba du,B114:C114
+N度,十八点五度,shi ba dian wu du,B115:C115
+N度,十九度,shi jiu du,B116:C116
+N度,十九点五度,shi jiu dian wu du,B117:C117
+N度,二十度,er shi du,B118:C118
+N度,二十点五度,er shi dian wu du,B119:C119
+N度,二十一度,er shi yi du,B120:C120
+N度,二十一点五度,er shi yi dian wu du,B121:C121
+N度,二十二度,er shi er du,B122:C122
+N度,二十二点五度,er shi er dian wu du,B123:C123
+N度,二十三度,er shi san du,B124:C124
+N度,二十三点五度,er shi san dian wu du,B125:C125
+N度,二十四度,er shi si du,B126:C126
+N度,二十四点五度,er shi si dian wu du,B127:C127
+N度,二十五度,er shi wu du,B128:C128
+N度,二十五点五度,er shi wu dian wu du,B129:C129
+N度,二十六度,er shi liu du,B130:C130
+N度,二十六点五度,er shi liu dian wu du,B131:C131
+N度,二十七度,er shi qi du,B132:C132
+N度,二十七点五度,er shi qi dian wu du,B133:C133
+N度,二十八度,er shi ba du,B134:C134
+N度,二十八点五度,er shi ba dian wu du,B135:C135
+N度,二十九度,er shi jiu du,B136:C136
+N度,二十九点五度,er shi jiu dian wu du,B137:C137
+N度,三十度,san shi du,B138:C138
+N度,三十点五度,san shi dian wu du,B139:C139
+N度,三十一度,san shi yi du,B140:C140
+N度,三十一点五度,san shi yi dian wu du,B141:C141
+N度,三十二度,san shi er du,B142:C142
+N度,三十二点五度,san shi er dian wu du,B143:C143
+N度,三十三度,san shi san du,B144:C144
+N度,三十三点五度,san shi san dian wu du,B145:C145
+N度,三十四度,san shi si du,B146:C146
+N度,三十四点五度,san shi si dian wu du,B147:C147
+N度,三十五度,san shi wu du,B148:C148
+N度,三十五点五度,san shi wu dian wu du,B149:C149
+N度,三十六度,san shi liu du,B150:C150
+N度,三十六点五度,san shi liu dian wu du,B151:C151
+N度,三十七度,san shi qi du,B152:C152
+N度,三十七点五度,san shi qi dian wu du,B153:C153
+N度,三十八度,san shi ba du,B154:C154
+N度,三十八点五度,san shi ba dian wu du,B155:C155
+N度,三十九度,san shi jiu du,B156:C156
+N度,三十九点五度,san shi jiu dian wu du,B157:C157
+N度,四十度,si shi du,B158:C158
+N度,四十点五度,si shi dian wu du,B159:C159
+N度,四十一度,si shi yi du,B160:C160
+N度,四十一点五度,si shi yi dian wu du,B161:C161
+N度,四十二度,si shi er du,B162:C162
+N度,四十二点五度,si shi er dian wu du,B163:C163
+N度,四十三度,si shi san du,B164:C164
+N度,四十三点五度,si shi san dian wu du,B165:C165
+N度,四十四度,si shi si du,B166:C166
+N度,四十四点五度,si shi si dian wu du,B167:C167
+N度,四十五度,si shi wu du,B168:C168
+N度,四十五点五度,si shi wu dian wu du,B169:C169
+N度,四十六度,si shi liu du,B170:C170
+N度,四十六点五度,si shi liu dian wu du,B171:C171
+N度,四十七度,si shi qi du,B172:C172
+N度,四十七点五度,si shi qi dian wu du,B173:C173
+N度,四十八度,si shi ba du,B174:C174
+N度,四十八点五度,si shi ba dian wu du,B175:C175
+N度,四十九度,si shi jiu du,B176:C176
+N度,四十九点五度,si shi jiu dian wu du,B177:C177
+N度,五十度,wu shi du,B178:C178
+N度,五十点五度,wu shi dian wu du,B179:C179
+N度,五十一度,wu shi yi du,B180:C180
+N度,五十一点五度,wu shi yi dian wu du,B181:C181
+N度,五十二度,wu shi er du,B182:C182
+N度,五十二点五度,wu shi er dian wu du,B183:C183
+N度,五十三度,wu shi san du,B184:C184
+N度,五十三点五度,wu shi san dian wu du,B185:C185
+N度,五十四度,wu shi si du,B186:C186
+N度,五十四点五度,wu shi si dian wu du,B187:C187
+N度,五十五度,wu shi wu du,B188:C188
+N度,五十五点五度,wu shi wu dian wu du,B189:C189

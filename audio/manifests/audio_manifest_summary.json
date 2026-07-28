@@ -1,0 +1,17 @@
+{
+  "schema_version": 1,
+  "generated_at": "2026-07-28T19:53:24.772+08:00",
+  "timezone": "Asia/Shanghai",
+  "file_count": 2778,
+  "category_counts": {
+    "online_interaction": 4,
+    "voice_test": 2774
+  },
+  "audio_spec_counts": {
+    "mp3/mp3/24000Hz/1ch": 2778
+  },
+  "total_bytes": 33995664,
+  "duplicate_sha256_count": 0,
+  "invalid_audio_count": 0,
+  "manifest": "audio_manifest.csv"
+}

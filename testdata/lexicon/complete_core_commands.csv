@@ -1,0 +1,490 @@
+﻿sequence,text,expected_intents,standard_semantics,categories,source_cells,audio_exists
+1,开机,打开空调,,high_frequency_core,TCL 高频词!C3,True
+2,打开采暖机,打开空调,,high_frequency_core,TCL 高频词!D3,True
+3,打开空调,打开空调,,high_frequency_core,TCL 高频词!C4,True
+4,打开空气能,打开空调,,high_frequency_core,TCL 高频词!D4,True
+5,开空调,打开空调,,high_frequency_core,TCL 高频词!C5,True
+6,打开热泵,打开空调,,high_frequency_core,TCL 高频词!D5,True
+7,关机,关闭空调,,high_frequency_core,TCL 高频词!C6,True
+8,关闭采暖机,关闭空调,,high_frequency_core,TCL 高频词!D6,True
+9,关闭空调,关闭空调,,high_frequency_core,TCL 高频词!C7 | TCL 高频词!C8,True
+10,关闭空气能,关闭空调,,high_frequency_core,TCL 高频词!D7,True
+11,关闭热泵,关闭空调,,high_frequency_core,TCL 高频词!D8,True
+12,取消定时,取消定时,,high_frequency_core,TCL 高频词!C12,True
+13,客厅空调开机,打开客厅空调,,high_frequency_core,TCL 高频词!C21,True
+14,打开客厅空调,打开客厅空调,,high_frequency_core,TCL 高频词!C22,True
+15,客厅空调关机,关闭客厅空调,,high_frequency_core,TCL 高频词!C24,True
+16,关闭客厅空调,关闭客厅空调,,high_frequency_core,TCL 高频词!C25,True
+17,主卧空调开机,打开主卧空调,,high_frequency_core,TCL 高频词!C27,True
+18,打开主卧空调,打开主卧空调,,high_frequency_core,TCL 高频词!C28,True
+19,主卧空调关机,关闭主卧空调,,high_frequency_core,TCL 高频词!C30,True
+20,关闭主卧空调,关闭主卧空调,,high_frequency_core,TCL 高频词!C31,True
+21,次卧空调开机,打开次卧空调,,high_frequency_core,TCL 高频词!C33,True
+22,打开次卧空调,打开次卧空调,,high_frequency_core,TCL 高频词!C34,True
+23,次卧空调关机,关闭次卧空调,,high_frequency_core,TCL 高频词!C36,True
+24,关闭次卧空调,关闭次卧空调,,high_frequency_core,TCL 高频词!C37,True
+25,书房空调开机,打开书房空调,,high_frequency_core,TCL 高频词!C39,True
+26,打开书房空调,打开书房空调,,high_frequency_core,TCL 高频词!C40,True
+27,书房空调关机,关闭书房空调,,high_frequency_core,TCL 高频词!C42,True
+28,关闭书房空调,关闭书房空调,,high_frequency_core,TCL 高频词!C43,True
+29,厨房空调开机,打开厨房空调,,high_frequency_core,TCL 高频词!C45,True
+30,打开厨房空调,打开厨房空调,,high_frequency_core,TCL 高频词!C46,True
+31,厨房空调关机,关闭厨房空调,,high_frequency_core,TCL 高频词!C48,True
+32,关闭厨房空调,关闭厨房空调,,high_frequency_core,TCL 高频词!C49,True
+33,儿童房空调开机,打开儿童房空调,,high_frequency_core,TCL 高频词!C51,True
+34,打开儿童房空调,打开儿童房空调,,high_frequency_core,TCL 高频词!C52,True
+35,儿童房空调关机,关闭儿童房空调,,high_frequency_core,TCL 高频词!C54,True
+36,关闭儿童房空调,关闭儿童房空调,,high_frequency_core,TCL 高频词!C55,True
+37,长辈房空调开机,打开老人房空调,,high_frequency_core,TCL 高频词!C57,True
+38,打开长辈房空调,打开老人房空调,,high_frequency_core,TCL 高频词!C58,True
+39,长辈房空调关机,关闭老人房空调,,high_frequency_core,TCL 高频词!C60,True
+40,关闭长辈房空调,关闭老人房空调,,high_frequency_core,TCL 高频词!C61,True
+41,最高温度,最高温度,,high_frequency_core,TCL 高频词!C66,True
+42,最低温度,最低温度,,high_frequency_core,TCL 高频词!C69,True
+43,调高温度,调高温度,,high_frequency_core,TCL 高频词!C72,True
+44,调大温度,调高温度,,high_frequency_core,TCL 高频词!D72,True
+45,升高温度,调高温度,,high_frequency_core,TCL 高频词!C73,True
+46,有点冷,调高温度,,high_frequency_core,TCL 高频词!D73,True
+47,调高一度,调高温度,,high_frequency_core,TCL 高频词!C74,True
+48,太冷了,调高温度,,high_frequency_core,TCL 高频词!D74,True
+49,增大温度,调高温度,,high_frequency_core,TCL 高频词!C75,True
+50,加大温度,调高温度,,high_frequency_core,TCL 高频词!C76,True
+51,调低温度,调低温度,,high_frequency_core,TCL 高频词!C77,True
+52,太热了,调低温度,,high_frequency_core,TCL 高频词!D77,True
+53,降低温度,调低温度,,high_frequency_core,TCL 高频词!C78,True
+54,有点热,调低温度,,high_frequency_core,TCL 高频词!D78,True
+55,调低一度,调低温度,,high_frequency_core,TCL 高频词!C79,True
+56,调小温度,调低温度,,high_frequency_core,TCL 高频词!C80,True
+57,减小温度,调低温度,,high_frequency_core,TCL 高频词!C81,True
+58,最大风,最大风,,high_frequency_core,TCL 高频词!C82,True
+59,最小风,最小风,,high_frequency_core,TCL 高频词!C85,True
+60,强劲档,强劲档,,high_frequency_core,TCL 高频词!C88,True
+61,打开强劲,强劲档,,high_frequency_core,TCL 高频词!C89,True
+62,关闭强劲,关闭强劲,,high_frequency_core,TCL 高频词!C91,True
+63,高风档,高风档,,high_frequency_core,TCL 高频词!C94,True
+64,中高风,中高风,,high_frequency_core,TCL 高频词!C97,True
+65,中风档,中风档,,high_frequency_core,TCL 高频词!C100,True
+66,中低风,中低风,,high_frequency_core,TCL 高频词!C103,True
+67,低风档,低风档,,high_frequency_core,TCL 高频词!C106,True
+68,静音档,静音档,,high_frequency_core,TCL 高频词!C109,True
+69,打开静音,静音档,,high_frequency_core,TCL 高频词!C110,True
+70,关闭静音,关闭静音,,high_frequency_core,TCL 高频词!C112,True
+71,自动档,自动档,,high_frequency_core,TCL 高频词!C115,True
+72,增大风速,增大风速,,high_frequency_core,TCL 高频词!C118,True
+73,加大风速,增大风速,,high_frequency_core,TCL 高频词!C119,True
+74,调高风速,增大风速,,high_frequency_core,TCL 高频词!C120,True
+75,调大风速,增大风速,,high_frequency_core,TCL 高频词!C121,True
+76,减小风速,减小风速,,high_frequency_core,TCL 高频词!C123,True
+77,降低风速,减小风速,,high_frequency_core,TCL 高频词!C124,True
+78,调小风速,减小风速,,high_frequency_core,TCL 高频词!C125,True
+79,风速减小,减小风速,,high_frequency_core,TCL 高频词!C126,True
+80,调低风速,减小风速,,high_frequency_core,TCL 高频词!C127,True
+81,制冷模式,制冷模式,,high_frequency_core,TCL 高频词!C129,True
+82,制热模式,制热模式,,high_frequency_core,TCL 高频词!C133,True
+83,送风模式,送风模式,,high_frequency_core,TCL 高频词!C138,True
+84,除湿模式,除湿模式,,high_frequency_core,TCL 高频词!C141,True
+85,自动模式,自动模式,,high_frequency_core,TCL 高频词!C144,True
+86,打开扫风,打开上下左右摆风,,high_frequency_core,TCL 高频词!C147,True
+87,打开摆风,打开上下左右摆风,,high_frequency_core,TCL 高频词!C148,True
+88,关闭扫风,关闭上下左右摆风,,high_frequency_core,TCL 高频词!C153,True
+89,关闭摆风,关闭上下左右摆风,,high_frequency_core,TCL 高频词!C154,True
+90,上下风,打开上下摆风,,high_frequency_core,TCL 高频词!C159,True
+91,上下摆风,打开上下摆风,,high_frequency_core,TCL 高频词!C160,True
+92,打开上下扫风,打开上下摆风,,high_frequency_core,TCL 高频词!C161,True
+93,上下扫风,打开上下摆风,,high_frequency_core,TCL 高频词!C162,True
+94,关闭上下扫风,关闭上下摆风,,high_frequency_core,TCL 高频词!C163,True
+95,关闭上下摆风,关闭上下摆风,,high_frequency_core,TCL 高频词!C164,True
+96,停止上下扫风,关闭上下摆风,,high_frequency_core,TCL 高频词!C165,True
+97,左右风,打开左右摆风,,high_frequency_core,TCL 高频词!C166,True
+98,打开左右扫风,打开左右摆风,,high_frequency_core,TCL 高频词!D166,True
+99,左右摆风,打开左右摆风,,high_frequency_core,TCL 高频词!C167,True
+100,左右扫风,打开左右摆风,,high_frequency_core,TCL 高频词!C168,True
+101,关闭左右扫风,关闭左右摆风,,high_frequency_core,TCL 高频词!C169,True
+102,关闭左右摆风,关闭左右摆风,,high_frequency_core,TCL 高频词!C170,True
+103,停止左右扫风,关闭左右摆风,,high_frequency_core,TCL 高频词!C171,True
+104,向上吹,向上吹,,high_frequency_core,TCL 高频词!C172,True
+105,向下吹,向下吹,,high_frequency_core,TCL 高频词!C176,True
+106,向中间吹,向中间吹,,high_frequency_core,TCL 高频词!C180,True
+107,向左吹,向左吹,,high_frequency_core,TCL 高频词!C184,True
+108,向右吹,向右吹,,high_frequency_core,TCL 高频词!C188,True
+109,打开环抱风,打开环抱风,,high_frequency_core,TCL 高频词!C192,True
+110,关闭环抱风,关闭环抱风,,high_frequency_core,TCL 高频词!C196,True
+111,打开左扫风,打开左扫风,,high_frequency_core,TCL 高频词!C200,True
+112,关闭左扫风,关闭左扫风,,high_frequency_core,TCL 高频词!C204,True
+113,打开右扫风,打开右扫风,,high_frequency_core,TCL 高频词!C208,True
+114,关闭右扫风,关闭右扫风,,high_frequency_core,TCL 高频词!C212,True
+115,打开柔风,打开柔风,,high_frequency_core,TCL 高频词!C216,True
+116,关闭柔风,关闭柔风,,high_frequency_core,TCL 高频词!C220,True
+117,深度柔风,打开深度柔风,,high_frequency_core,TCL 高频词!C223,True
+118,打开深度柔风,打开深度柔风,,high_frequency_core,TCL 高频词!C224,True
+119,关闭深度柔风,关闭深度柔风,,high_frequency_core,TCL 高频词!C226,True
+120,打开左柔风,打开左柔风,,high_frequency_core,TCL 高频词!C229,True
+121,关闭左柔风,关闭左柔风,,high_frequency_core,TCL 高频词!C232,True
+122,打开右柔风,打开右柔风,,high_frequency_core,TCL 高频词!C235,True
+123,关闭右柔风,关闭右柔风,,high_frequency_core,TCL 高频词!C238,True
+124,打开灯光,打开灯光,,high_frequency_core,TCL 高频词!C241,True
+125,打开显示,打开灯光,,high_frequency_core,TCL 高频词!C242,True
+126,关闭灯光,关闭灯光,,high_frequency_core,TCL 高频词!C245,True
+127,关闭显示,关闭灯光,,high_frequency_core,TCL 高频词!C246,True
+128,打开节能,打开节能,,high_frequency_core,TCL 高频词!C250,True
+129,AI省电,打开节能,,high_frequency_core,TCL 高频词!D250,True
+130,节能模式,打开节能,,high_frequency_core,TCL 高频词!C251,True
+131,打开AI节能,打开节能,,high_frequency_core,TCL 高频词!D251,True
+132,AI节能,打开节能,,high_frequency_core,TCL 高频词!C252,True
+133,打开AI省电,打开节能,,high_frequency_core,TCL 高频词!D252,True
+134,关闭节能,关闭节能,,high_frequency_core,TCL 高频词!C253,True
+135,关闭AI节能,关闭节能,,high_frequency_core,TCL 高频词!C254,True
+136,关闭AI省电,关闭节能,,high_frequency_core,TCL 高频词!C255,True
+137,打开睡眠,打开睡眠,,high_frequency_core,TCL 高频词!C256,True
+138,睡眠模式,打开睡眠,,high_frequency_core,TCL 高频词!C257,True
+139,关闭睡眠,关闭睡眠,,high_frequency_core,TCL 高频词!C262,True
+140,打开自清洁,打开自清洁,,high_frequency_core,TCL 高频词!C266,True
+141,关闭自清洁,关闭自清洁,,high_frequency_core,TCL 高频词!C270,True
+142,打开辅热,打开辅热,,high_frequency_core,TCL 高频词!C274,True
+143,关闭辅热,关闭辅热,,high_frequency_core,TCL 高频词!C278,True
+144,增大音量,增大音量,,high_frequency_core,TCL 高频词!C283,True
+145,调大音量,增大音量,,high_frequency_core,TCL 高频词!C284,True
+146,调高音量,增大音量,,high_frequency_core,TCL 高频词!C285,True
+147,音量增大,增大音量,,high_frequency_core,TCL 高频词!C286,True
+148,加大音量,增大音量,,high_frequency_core,TCL 高频词!C287,True
+149,最大音量,最大音量,,high_frequency_core,TCL 高频词!C289,True
+150,音量最大,最大音量,,high_frequency_core,TCL 高频词!C290,True
+151,中等音量,中等音量,,high_frequency_core,TCL 高频词!C293,True
+152,音量中等,中等音量,,high_frequency_core,TCL 高频词!D293,True
+153,音量适中,中等音量,,high_frequency_core,TCL 高频词!C294,True
+154,中档音量,中等音量,,high_frequency_core,TCL 高频词!C295,True
+155,减小音量,降低音量,,high_frequency_core,TCL 高频词!C296,True
+156,调小音量,降低音量,,high_frequency_core,TCL 高频词!C297,True
+157,降低音量,降低音量,,high_frequency_core,TCL 高频词!C298,True
+158,调低音量,降低音量,,high_frequency_core,TCL 高频词!C299,True
+159,音量小点,降低音量,,high_frequency_core,TCL 高频词!C300,True
+160,音量减小,降低音量,,high_frequency_core,TCL 高频词!C301,True
+161,最小音量,最低音量,,high_frequency_core,TCL 高频词!C302,True
+162,最小声,最低音量,,high_frequency_core,TCL 高频词!C303,True
+163,开新风,打开新风,,high_frequency_core,TCL 高频词!C305,True
+164,打开新风,打开新风,,high_frequency_core,TCL 高频词!C306,True
+165,打开独立新风,打开新风,,high_frequency_core,TCL 高频词!C307,True
+166,打开小蓝翼,打开新风,,high_frequency_core,TCL 高频词!C308,True
+167,新风模式,打开新风,,high_frequency_core,TCL 高频词!C309,True
+168,关新风,关闭新风,,high_frequency_core,TCL 高频词!C312,True
+169,关闭新风,关闭新风,,high_frequency_core,TCL 高频词!C313,True
+170,关闭独立新风,关闭新风,,high_frequency_core,TCL 高频词!C314,True
+171,关闭小蓝翼,关闭新风,,high_frequency_core,TCL 高频词!C315,True
+172,增大新风,增大新风,,high_frequency_core,TCL 高频词!C318,True
+173,加大新风,增大新风,,high_frequency_core,TCL 高频词!C319,True
+174,调高新风,增大新风,,high_frequency_core,TCL 高频词!C320,True
+175,调大新风,增大新风,,high_frequency_core,TCL 高频词!C321,True
+176,减小新风,减小新风,,high_frequency_core,TCL 高频词!C324,True
+177,调小新风,减小新风,,high_frequency_core,TCL 高频词!C325,True
+178,调低新风,减小新风,,high_frequency_core,TCL 高频词!C326,True
+179,降低新风,减小新风,,high_frequency_core,TCL 高频词!C327,True
+180,新风低风,新风低风,,high_frequency_core,TCL 高频词!C329,True
+181,新风中风,新风中风,,high_frequency_core,TCL 高频词!C332,True
+182,新风高风,新风高风,,high_frequency_core,TCL 高频词!C335,True
+183,新风自动,新风自动风,,high_frequency_core,TCL 高频词!C339,True
+184,新风智能,新风自动风,,high_frequency_core,TCL 高频词!D339,True
+185,自动新风,新风自动风,,high_frequency_core,TCL 高频词!C340,True
+186,智能新风,新风自动风,,high_frequency_core,TCL 高频词!C341,True
+187,呼吸模式,呼吸模式,,high_frequency_core,TCL 高频词!C342,True
+188,排气模式,排气模式,,high_frequency_core,TCL 高频词!C345,True
+189,打开防直吹,打开防直吹,,high_frequency_core,TCL 高频词!C348,True
+190,防直吹模式,打开防直吹,,high_frequency_core,TCL 高频词!C349,True
+191,关闭防直吹,关闭防直吹,,high_frequency_core,TCL 高频词!C351,True
+192,打开健康,打开健康,,high_frequency_core,TCL 高频词!C354,True
+193,关闭健康,关闭健康,,high_frequency_core,TCL 高频词!C358,True
+194,打开除菌,打开除菌,,high_frequency_core,TCL 高频词!C362,True
+195,关闭除菌,关闭除菌,,high_frequency_core,TCL 高频词!C366,True
+196,打开速冷,打开速冷,,high_frequency_core,TCL 高频词!C370,True
+197,速冷模式,打开速冷,,high_frequency_core,TCL 高频词!C371,True
+198,关闭速冷,关闭速冷,,high_frequency_core,TCL 高频词!C373,True
+199,打开爆炒,打开爆炒,,high_frequency_core,TCL 高频词!C376,True
+200,爆炒模式,打开爆炒,,high_frequency_core,TCL 高频词!C377,True
+201,关闭爆炒,关闭爆炒,,high_frequency_core,TCL 高频词!C379,True
+202,打开备菜,打开备菜,,high_frequency_core,TCL 高频词!C382,True
+203,备菜模式,打开备菜,,high_frequency_core,TCL 高频词!C383,True
+204,关闭备菜,关闭备菜,,high_frequency_core,TCL 高频词!C385,True
+205,打开防霉,打开防霉,,high_frequency_core,TCL 高频词!C388,True
+206,防霉模式,打开防霉,,high_frequency_core,TCL 高频词!C389,True
+207,关闭防霉,关闭防霉,,high_frequency_core,TCL 高频词!C391,True
+208,空调开始配网,空调配网,,high_frequency_core,TCL 高频词!C394,True
+209,空调重新配网,空调配网,,high_frequency_core,TCL 高频词!C395,True
+210,学习唤醒词,学习唤醒词,,high_frequency_core,TCL 高频词!C397,True
+211,唤醒词学习,学习唤醒词,,high_frequency_core,TCL 高频词!C398,True
+212,删除唤醒词,删除唤醒词,,high_frequency_core,TCL 高频词!C400,True
+213,清除唤醒词,删除唤醒词,,high_frequency_core,TCL 高频词!C401,True
+214,学习命令词,学习命令词,,high_frequency_core,TCL 高频词!C403,True
+215,命令词学习,学习命令词,,high_frequency_core,TCL 高频词!C404,True
+216,删除命令词,删除命令词,,high_frequency_core,TCL 高频词!C406,True
+217,清除命令词,删除命令词,,high_frequency_core,TCL 高频词!C407,True
+218,删除全部命令词,删除全部命令词,,high_frequency_core,TCL 高频词!C409,True
+219,全部命令词删除,删除全部命令词,,high_frequency_core,TCL 高频词!C410,True
+220,开净化,打开净化模式,,high_frequency_core,TCL 高频词!C412,True
+221,打开净化模式,打开净化模式,,high_frequency_core,TCL 高频词!D412,True
+222,打开净化,打开净化模式,,high_frequency_core,TCL 高频词!C413,True
+223,净化模式,打开净化模式,,high_frequency_core,TCL 高频词!C414,True
+224,关净化,关闭净化模式,,high_frequency_core,TCL 高频词!C415,True
+225,关闭净化,关闭净化模式,,high_frequency_core,TCL 高频词!C416,True
+226,关闭净化模式,关闭净化模式,,high_frequency_core,TCL 高频词!C417,True
+227,增大净化,增大净化风速,,high_frequency_core,TCL 高频词!C418,True
+228,调高净化,增大净化风速,,high_frequency_core,TCL 高频词!D418,True
+229,加大净化,增大净化风速,,high_frequency_core,TCL 高频词!C419,True
+230,调大净化,增大净化风速,,high_frequency_core,TCL 高频词!C420,True
+231,减小净化,减小净化风速,,high_frequency_core,TCL 高频词!C421,True
+232,调低净化,减小净化风速,,high_frequency_core,TCL 高频词!D421,True
+233,调小净化,减小净化风速,,high_frequency_core,TCL 高频词!C422,True
+234,降低净化,减小净化风速,,high_frequency_core,TCL 高频词!C423,True
+235,净化最小风,净化最小风,,high_frequency_core,TCL 高频词!C424,True
+236,净化最大风,净化最大风,,high_frequency_core,TCL 高频词!C427,True
+237,净化低风,净化低风,,high_frequency_core,TCL 高频词!C430,True
+238,净化中风,净化中风,,high_frequency_core,TCL 高频词!C433,True
+239,净化高风,净化高风,,high_frequency_core,TCL 高频词!C436,True
+240,净化自动风,净化自动风,,high_frequency_core,TCL 高频词!C439,True
+241,挂断电话,挂断电话,,high_frequency_core,TCL 高频词!C442,True
+242,挂断通话,挂断电话,,high_frequency_core,TCL 高频词!C443,True
+243,打开雷达,打开雷达,,high_frequency_core,TCL 高频词!C445,True
+244,关闭雷达,关闭雷达,,high_frequency_core,TCL 高频词!C448,True
+245,对人吹,风吹人,,high_frequency_core,TCL 高频词!C451,True
+246,对着人吹,风吹人,,high_frequency_core,TCL 高频词!C452,True
+247,风吹人,风吹人,,high_frequency_core,TCL 高频词!C453,True
+248,关闭风随人动,关闭风吹人,,high_frequency_core,TCL 高频词!C455,True
+249,关闭风吹人,关闭风吹人,,high_frequency_core,TCL 高频词!C456,True
+250,别吹人,风避人,,high_frequency_core,TCL 高频词!C457,True
+251,避风模式,风避人,,high_frequency_core,TCL 高频词!C458,True
+252,风避人,风避人,,high_frequency_core,TCL 高频词!C459,True
+253,关闭人感避开,关闭风避人,,high_frequency_core,TCL 高频词!C460,True
+254,关闭避风模式,关闭风避人,,high_frequency_core,TCL 高频词!C461,True
+255,关闭风避人,关闭风避人,,high_frequency_core,TCL 高频词!C462,True
+256,连接蓝牙,打开蓝牙,,high_frequency_core,TCL 高频词!C463,True
+257,打开蓝牙,打开蓝牙,,high_frequency_core,TCL 高频词!C464,True
+258,关闭蓝牙,关闭蓝牙,,high_frequency_core,TCL 高频词!C466,True
+259,蓝牙关闭,关闭蓝牙,,high_frequency_core,TCL 高频词!C467,True
+260,打开夜灯,打开夜灯,,high_frequency_core,TCL 高频词!C469,True
+261,打开小夜灯,打开夜灯,,high_frequency_core,TCL 高频词!C470,True
+262,关闭夜灯,关闭夜灯,,high_frequency_core,TCL 高频词!C472,True
+263,关闭小夜灯,关闭夜灯,,high_frequency_core,TCL 高频词!C473,True
+264,调温度,调温度,,high_frequency_core,TCL 高频词!C475,True
+265,调整温度,调温度,,high_frequency_core,TCL 高频词!C476,True
+266,调风速,调风速,,high_frequency_core,TCL 高频词!C478,True
+267,调整风速,调风速,,high_frequency_core,TCL 高频词!C479,True
+268,调模式,调模式,,high_frequency_core,TCL 高频词!C481,True
+269,调整模式,调模式,,high_frequency_core,TCL 高频词!C482,True
+270,调音量,调音量,,high_frequency_core,TCL 高频词!C484,True
+271,调整音量,调音量,,high_frequency_core,TCL 高频词!C485,True
+272,调风摆,调风摆,,high_frequency_core,TCL 高频词!C487,True
+273,调整风摆,调风摆,,high_frequency_core,TCL 高频词!C488,True
+274,AI模式,打开AI模式,,high_frequency_core,TCL 高频词!C490,True
+275,AI智控,打开AI模式,,high_frequency_core,TCL 高频词!C491,True
+276,关闭AI模式,关闭AI模式,,high_frequency_core,TCL 高频词!C493,True
+277,关闭AI智控,关闭AI模式,,high_frequency_core,TCL 高频词!C494,True
+278,离家模式,打开离家模式,,high_frequency_core,TCL 高频词!C496,True
+279,打开离家模式,打开离家模式,,high_frequency_core,TCL 高频词!C497,True
+280,关闭离家模式,关闭离家模式,,high_frequency_core,TCL 高频词!C499,True
+281,全域风,打开全域风,,high_frequency_core,TCL 高频词!C502,True
+282,全域风模式,打开全域风,,high_frequency_core,TCL 高频词!D502,True
+283,全域有风,打开全域风,,high_frequency_core,TCL 高频词!C503,True
+284,打开全域风,打开全域风,,high_frequency_core,TCL 高频词!C504,True
+285,关闭全域风,关闭全域风,,high_frequency_core,TCL 高频词!C505,True
+286,关闭全域有风,关闭全域风,,high_frequency_core,TCL 高频词!C506,True
+287,全域无风,打开全域无风,,high_frequency_core,TCL 高频词!C508,True
+288,全域无风模式,打开全域无风,,high_frequency_core,TCL 高频词!C509,True
+289,打开全域无风,打开全域无风,,high_frequency_core,TCL 高频词!C510,True
+290,关闭全域无风,关闭全域无风,,high_frequency_core,TCL 高频词!C511,True
+291,关闭全面无风,关闭全域无风,,high_frequency_core,TCL 高频词!C512,True
+292,打开人近风柔,打开人近风柔,,high_frequency_core,TCL 高频词!C514 | TCL 高频词!C515,True
+293,关闭人近风柔,关闭人近风柔,,high_frequency_core,TCL 高频词!C517 | TCL 高频词!C518,True
+294,打开人远风强,打开人远风强,,high_frequency_core,TCL 高频词!C520,True
+295,打开人远强风,打开人远风强,,high_frequency_core,TCL 高频词!C521,True
+296,关闭人远风强,关闭人远风强,,high_frequency_core,TCL 高频词!C523,True
+297,关闭人远强风,关闭人远风强,,high_frequency_core,TCL 高频词!C524,True
+298,打开人走节能,打开人走节能,,high_frequency_core,TCL 高频词!C526,True
+299,打开无人节能,打开人走节能,,high_frequency_core,TCL 高频词!C527,True
+300,关闭人走节能,关闭人走节能,,high_frequency_core,TCL 高频词!C529,True
+301,关闭无人节能,关闭人走节能,,high_frequency_core,TCL 高频词!C530,True
+302,打开唯一唤醒,打开唯一唤醒,,high_frequency_core,TCL 高频词!C532,True
+303,关闭唯一唤醒,关闭唯一唤醒,,high_frequency_core,TCL 高频词!C533,True
+304,定时半小时,定时N小时,ding shi ban xiao shi,parameter_instance_timer,TCL意图表!B6:C6,True
+305,定时一小时,定时N小时,ding shi yi xiao shi,parameter_instance_timer,TCL意图表!B7:C7,True
+306,定时二小时,定时N小时,ding shi er xiao shi,parameter_instance_timer,TCL意图表!B8:C8,True
+307,定时三小时,定时N小时,ding shi san xiao shi,parameter_instance_timer,TCL意图表!B9:C9,True
+308,定时四小时,定时N小时,ding shi si xiao shi,parameter_instance_timer,TCL意图表!B10:C10,True
+309,定时五小时,定时N小时,ding shi wu xiao shi,parameter_instance_timer,TCL意图表!B11:C11,True
+310,定时六小时,定时N小时,ding shi liu xiao shi,parameter_instance_timer,TCL意图表!B12:C12,True
+311,定时七小时,定时N小时,ding shi qi xiao shi,parameter_instance_timer,TCL意图表!B13:C13,True
+312,定时八小时,定时N小时,ding shi ba xiao shi,parameter_instance_timer,TCL意图表!B14:C14,True
+313,定时九小时,定时N小时,ding shi jiu xiao shi,parameter_instance_timer,TCL意图表!B15:C15 | TCL意图表!B16:C16,True
+314,定时十小时,定时N小时,ding shi shi xiao shi,parameter_instance_timer,TCL意图表!B17:C17,True
+315,定时十一小时,定时N小时,ding shi shi yi xiao shi,parameter_instance_timer,TCL意图表!B18:C18,True
+316,定时十二小时,定时N小时,ding shi shi er xiao shi,parameter_instance_timer,TCL意图表!B19:C19,True
+317,定时十三小时,定时N小时,ding shi shi san xiao shi,parameter_instance_timer,TCL意图表!B20:C20,True
+318,定时十四小时,定时N小时,ding shi shi si xiao shi,parameter_instance_timer,TCL意图表!B21:C21,True
+319,定时十五小时,定时N小时,ding shi shi wu xiao shi,parameter_instance_timer,TCL意图表!B22:C22,True
+320,定时十六小时,定时N小时,ding shi shi liu xiao shi,parameter_instance_timer,TCL意图表!B23:C23,True
+321,定时十七小时,定时N小时,ding shi shi qi xiao shi,parameter_instance_timer,TCL意图表!B24:C24,True
+322,定时十八小时,定时N小时,ding shi shi ba xiao shi,parameter_instance_timer,TCL意图表!B25:C25,True
+323,定时十九小时,定时N小时,ding shi shi jiu xiao shi,parameter_instance_timer,TCL意图表!B26:C26,True
+324,定时二十小时,定时N小时,ding shi er shi xiao shi,parameter_instance_timer,TCL意图表!B27:C27,True
+325,定时二十一小时,定时N小时,ding shi er shi yi xiao shi,parameter_instance_timer,TCL意图表!B28:C28,True
+326,定时二十二小时,定时N小时,ding shi er shi er xiao shi,parameter_instance_timer,TCL意图表!B29:C29,True
+327,定时二十三小时,定时N小时,ding shi er shi san xiao shi,parameter_instance_timer,TCL意图表!B30:C30,True
+328,定时二十四小时,定时N小时,ding shi er shi si xiao shi,parameter_instance_timer,TCL意图表!B31:C31,True
+329,定时半小时开机,定时N小时开机,ding shi ban xiao shi kai ji,parameter_instance_timer_on,TCL意图表!B33:C33,True
+330,定时一小时开机,定时N小时开机,ding shi yi xiao shi kai ji,parameter_instance_timer_on,TCL意图表!B34:C34,True
+331,定时二小时开机,定时N小时开机,ding shi liang xiao shi kai ji,parameter_instance_timer_on,TCL意图表!B35:C35,True
+332,定时三小时开机,定时N小时开机,ding shi san xiao shi kai ji,parameter_instance_timer_on,TCL意图表!B36:C36,True
+333,定时四小时开机,定时N小时开机,ding shi si xiao shi kai ji,parameter_instance_timer_on,TCL意图表!B37:C37,True
+334,定时五小时开机,定时N小时开机,ding shi wu xiao shi kai ji,parameter_instance_timer_on,TCL意图表!B38:C38,True
+335,定时六小时开机,定时N小时开机,ding shi liu xiao shi kai ji,parameter_instance_timer_on,TCL意图表!B39:C39,True
+336,定时七小时开机,定时N小时开机,ding shi qi xiao shi kai ji,parameter_instance_timer_on,TCL意图表!B40:C40,True
+337,定时八小时开机,定时N小时开机,ding shi ba xiao shi kai ji,parameter_instance_timer_on,TCL意图表!B41:C41,True
+338,定时九小时开机,定时N小时开机,ding shi jiu xiao shi kai ji,parameter_instance_timer_on,TCL意图表!B42:C42,True
+339,定时十小时开机,定时N小时开机,ding shi shi xiao shi kai ji,parameter_instance_timer_on,TCL意图表!B43:C43,True
+340,定时十一小时开机,定时N小时开机,ding shi shi yi xiao shi kai ji,parameter_instance_timer_on,TCL意图表!B44:C44,True
+341,定时十二小时开机,定时N小时开机,ding shi shi er xiao shi kai ji,parameter_instance_timer_on,TCL意图表!B45:C45,True
+342,定时十三小时开机,定时N小时开机,ding shi shi san xiao shi kai ji,parameter_instance_timer_on,TCL意图表!B46:C46,True
+343,定时十四小时开机,定时N小时开机,ding shi shi si xiao shi kai ji,parameter_instance_timer_on,TCL意图表!B47:C47,True
+344,定时十五小时开机,定时N小时开机,ding shi shi wu xiao shi kai ji,parameter_instance_timer_on,TCL意图表!B48:C48,True
+345,定时十六小时开机,定时N小时开机,ding shi shi liu xiao shi kai ji,parameter_instance_timer_on,TCL意图表!B49:C49,True
+346,定时十七小时开机,定时N小时开机,ding shi shi qi xiao shi kai ji,parameter_instance_timer_on,TCL意图表!B50:C50,True
+347,定时十八小时开机,定时N小时开机,ding shi shi ba xiao shi kai ji,parameter_instance_timer_on,TCL意图表!B51:C51,True
+348,定时十九小时开机,定时N小时开机,ding shi shi jiu xiao shi kai ji,parameter_instance_timer_on,TCL意图表!B52:C52,True
+349,定时二十小时开机,定时N小时开机,ding shi er shi xiao shi kai ji,parameter_instance_timer_on,TCL意图表!B53:C53,True
+350,定时二十一小时开机,定时N小时开机,ding shi er shi yi xiao shi kai ji,parameter_instance_timer_on,TCL意图表!B54:C54,True
+351,定时二十二小时开机,定时N小时开机,ding shi er shi er xiao shi kai ji,parameter_instance_timer_on,TCL意图表!B55:C55,True
+352,定时二十三小时开机,定时N小时开机,ding shi er shi san xiao shi kai ji,parameter_instance_timer_on,TCL意图表!B56:C56,True
+353,定时二十四小时开机,定时N小时开机,ding shi er shi si xiao shi kai ji,parameter_instance_timer_on,TCL意图表!B57:C57,True
+354,定时半小时关机,定时N小时关机,ding shi ban xiao shi guan ji,parameter_instance_timer_off,TCL意图表!B58:C58,True
+355,定时一小时关机,定时N小时关机,ding shi yi xiao shi guan ji,parameter_instance_timer_off,TCL意图表!B59:C59,True
+356,定时二小时关机,定时N小时关机,ding shi liang xiao shi guan ji,parameter_instance_timer_off,TCL意图表!B60:C60,True
+357,定时三小时关机,定时N小时关机,ding shi san xiao shi guan ji,parameter_instance_timer_off,TCL意图表!B61:C61,True
+358,定时四小时关机,定时N小时关机,ding shi si xiao shi guan ji,parameter_instance_timer_off,TCL意图表!B62:C62,True
+359,定时五小时关机,定时N小时关机,ding shi wu xiao shi guan ji,parameter_instance_timer_off,TCL意图表!B63:C63,True
+360,定时六小时关机,定时N小时关机,ding shi liu xiao shi guan ji,parameter_instance_timer_off,TCL意图表!B64:C64,True
+361,定时七小时关机,定时N小时关机,ding shi qi xiao shi guan ji,parameter_instance_timer_off,TCL意图表!B65:C65,True
+362,定时八小时关机,定时N小时关机,ding shi ba xiao shi guan ji,parameter_instance_timer_off,TCL意图表!B66:C66,True
+363,定时九小时关机,定时N小时关机,ding shi jiu xiao shi guan ji,parameter_instance_timer_off,TCL意图表!B67:C67,True
+364,定时十小时关机,定时N小时关机,ding shi shi xiao shi guan ji,parameter_instance_timer_off,TCL意图表!B68:C68,True
+365,定时十一小时关机,定时N小时关机,ding shi shi yi xiao shi guan ji,parameter_instance_timer_off,TCL意图表!B69:C69,True
+366,定时十二小时关机,定时N小时关机,ding shi shi er xiao shi guan ji,parameter_instance_timer_off,TCL意图表!B70:C70 | TCL意图表!B71:C71,True
+367,定时十三小时关机,定时N小时关机,ding shi shi san xiao shi guan ji,parameter_instance_timer_off,TCL意图表!B72:C72,True
+368,定时十四小时关机,定时N小时关机,ding shi shi si xiao shi guan ji,parameter_instance_timer_off,TCL意图表!B73:C73,True
+369,定时十五小时关机,定时N小时关机,ding shi shi wu xiao shi guan ji,parameter_instance_timer_off,TCL意图表!B74:C74,True
+370,定时十六小时关机,定时N小时关机,ding shi shi liu xiao shi guan ji,parameter_instance_timer_off,TCL意图表!B75:C75,True
+371,定时十七小时关机,定时N小时关机,ding shi shi qi xiao shi guan ji,parameter_instance_timer_off,TCL意图表!B76:C76,True
+372,定时十八小时关机,定时N小时关机,ding shi shi ba xiao shi guan ji,parameter_instance_timer_off,TCL意图表!B77:C77,True
+373,定时十九小时关机,定时N小时关机,ding shi shi jiu xiao shi guan ji,parameter_instance_timer_off,TCL意图表!B78:C78,True
+374,定时二十小时关机,定时N小时关机,ding shi er shi xiao shi guan ji,parameter_instance_timer_off,TCL意图表!B79:C79,True
+375,定时二十一小时关机,定时N小时关机,ding shi er shi yi xiao shi guan ji,parameter_instance_timer_off,TCL意图表!B80:C80,True
+376,定时二十二小时关机,定时N小时关机,ding shi er shi er xiao shi guan ji,parameter_instance_timer_off,TCL意图表!B81:C81,True
+377,定时二十三小时关机,定时N小时关机,ding shi er shi san xiao shi guan ji,parameter_instance_timer_off,TCL意图表!B82:C82,True
+378,定时二十四小时关机,定时N小时关机,ding shi er shi si xiao shi guan ji,parameter_instance_timer_off,TCL意图表!B83:C83,True
+379,十度,N度（N = 10~55，精度0.5度）,shi du,parameter_instance_temperature,TCL意图表!B98:C98,True
+380,十点五度,N度（N = 10~55，精度0.5度）,shi dian wu du,parameter_instance_temperature,TCL意图表!B99:C99,True
+381,十一度,N度（N = 10~55，精度0.5度）,shi yi du,parameter_instance_temperature,TCL意图表!B100:C100,True
+382,十一点五度,N度（N = 10~55，精度0.5度）,shi yi dian wu du,parameter_instance_temperature,TCL意图表!B101:C101,True
+383,十二度,N度（N = 10~55，精度0.5度）,shi er du,parameter_instance_temperature,TCL意图表!B102:C102,True
+384,十二点五度,N度（N = 10~55，精度0.5度）,shi er dian wu du,parameter_instance_temperature,TCL意图表!B103:C103,True
+385,十三度,N度（N = 10~55，精度0.5度）,shi san du,parameter_instance_temperature,TCL意图表!B104:C104,True
+386,十三点五度,N度（N = 10~55，精度0.5度）,shi san dian wu du,parameter_instance_temperature,TCL意图表!B105:C105,True
+387,十四度,N度（N = 10~55，精度0.5度）,shi si du,parameter_instance_temperature,TCL意图表!B106:C106,True
+388,十四点五度,N度（N = 10~55，精度0.5度）,shi si dian wu du,parameter_instance_temperature,TCL意图表!B107:C107,True
+389,十五度,N度（N = 10~55，精度0.5度）,shi wu du,parameter_instance_temperature,TCL意图表!B108:C108,True
+390,十五点五度,N度（N = 10~55，精度0.5度）,shi wu dian wu du,parameter_instance_temperature,TCL意图表!B109:C109,True
+391,十六度,N度（N = 10~55，精度0.5度）,shi liu du,parameter_instance_temperature,TCL意图表!B110:C110,True
+392,十六点五度,N度（N = 10~55，精度0.5度）,shi liu dian wu du,parameter_instance_temperature,TCL意图表!B111:C111,True
+393,十七度,N度（N = 10~55，精度0.5度）,shi qi du,parameter_instance_temperature,TCL意图表!B112:C112,True
+394,十七点五度,N度（N = 10~55，精度0.5度）,shi qi dian wu du,parameter_instance_temperature,TCL意图表!B113:C113,True
+395,十八度,N度（N = 10~55，精度0.5度）,shi ba du,parameter_instance_temperature,TCL意图表!B114:C114,True
+396,十八点五度,N度（N = 10~55，精度0.5度）,shi ba dian wu du,parameter_instance_temperature,TCL意图表!B115:C115,True
+397,十九度,N度（N = 10~55，精度0.5度）,shi jiu du,parameter_instance_temperature,TCL意图表!B116:C116,True
+398,十九点五度,N度（N = 10~55，精度0.5度）,shi jiu dian wu du,parameter_instance_temperature,TCL意图表!B117:C117,True
+399,二十度,N度（N = 10~55，精度0.5度）,er shi du,parameter_instance_temperature,TCL意图表!B118:C118,True
+400,二十点五度,N度（N = 10~55，精度0.5度）,er shi dian wu du,parameter_instance_temperature,TCL意图表!B119:C119,True
+401,二十一度,N度（N = 10~55，精度0.5度）,er shi yi du,parameter_instance_temperature,TCL意图表!B120:C120,True
+402,二十一点五度,N度（N = 10~55，精度0.5度）,er shi yi dian wu du,parameter_instance_temperature,TCL意图表!B121:C121,True
+403,二十二度,N度（N = 10~55，精度0.5度）,er shi er du,parameter_instance_temperature,TCL意图表!B122:C122,True
+404,二十二点五度,N度（N = 10~55，精度0.5度）,er shi er dian wu du,parameter_instance_temperature,TCL意图表!B123:C123,True
+405,二十三度,N度（N = 10~55，精度0.5度）,er shi san du,parameter_instance_temperature,TCL意图表!B124:C124,True
+406,二十三点五度,N度（N = 10~55，精度0.5度）,er shi san dian wu du,parameter_instance_temperature,TCL意图表!B125:C125,True
+407,二十四度,N度（N = 10~55，精度0.5度）,er shi si du,parameter_instance_temperature,TCL意图表!B126:C126,True
+408,二十四点五度,N度（N = 10~55，精度0.5度）,er shi si dian wu du,parameter_instance_temperature,TCL意图表!B127:C127,True
+409,二十五度,N度（N = 10~55，精度0.5度）,er shi wu du,parameter_instance_temperature,TCL意图表!B128:C128,True
+410,二十五点五度,N度（N = 10~55，精度0.5度）,er shi wu dian wu du,parameter_instance_temperature,TCL意图表!B129:C129,True
+411,二十六度,N度（N = 10~55，精度0.5度）,er shi liu du,parameter_instance_temperature,TCL意图表!B130:C130,True
+412,二十六点五度,N度（N = 10~55，精度0.5度）,er shi liu dian wu du,parameter_instance_temperature,TCL意图表!B131:C131,True
+413,二十七度,N度（N = 10~55，精度0.5度）,er shi qi du,parameter_instance_temperature,TCL意图表!B132:C132,True
+414,二十七点五度,N度（N = 10~55，精度0.5度）,er shi qi dian wu du,parameter_instance_temperature,TCL意图表!B133:C133,True
+415,二十八度,N度（N = 10~55，精度0.5度）,er shi ba du,parameter_instance_temperature,TCL意图表!B134:C134,True
+416,二十八点五度,N度（N = 10~55，精度0.5度）,er shi ba dian wu du,parameter_instance_temperature,TCL意图表!B135:C135,True
+417,二十九度,N度（N = 10~55，精度0.5度）,er shi jiu du,parameter_instance_temperature,TCL意图表!B136:C136,True
+418,二十九点五度,N度（N = 10~55，精度0.5度）,er shi jiu dian wu du,parameter_instance_temperature,TCL意图表!B137:C137,True
+419,三十度,N度（N = 10~55，精度0.5度）,san shi du,parameter_instance_temperature,TCL意图表!B138:C138,True
+420,三十点五度,N度（N = 10~55，精度0.5度）,san shi dian wu du,parameter_instance_temperature,TCL意图表!B139:C139,True
+421,三十一度,N度（N = 10~55，精度0.5度）,san shi yi du,parameter_instance_temperature,TCL意图表!B140:C140,True
+422,三十一点五度,N度（N = 10~55，精度0.5度）,san shi yi dian wu du,parameter_instance_temperature,TCL意图表!B141:C141,True
+423,三十二度,N度（N = 10~55，精度0.5度）,san shi er du,parameter_instance_temperature,TCL意图表!B142:C142,True
+424,三十二点五度,N度（N = 10~55，精度0.5度）,san shi er dian wu du,parameter_instance_temperature,TCL意图表!B143:C143,True
+425,三十三度,N度（N = 10~55，精度0.5度）,san shi san du,parameter_instance_temperature,TCL意图表!B144:C144,True
+426,三十三点五度,N度（N = 10~55，精度0.5度）,san shi san dian wu du,parameter_instance_temperature,TCL意图表!B145:C145,True
+427,三十四度,N度（N = 10~55，精度0.5度）,san shi si du,parameter_instance_temperature,TCL意图表!B146:C146,True
+428,三十四点五度,N度（N = 10~55，精度0.5度）,san shi si dian wu du,parameter_instance_temperature,TCL意图表!B147:C147,True
+429,三十五度,N度（N = 10~55，精度0.5度）,san shi wu du,parameter_instance_temperature,TCL意图表!B148:C148,True
+430,三十五点五度,N度（N = 10~55，精度0.5度）,san shi wu dian wu du,parameter_instance_temperature,TCL意图表!B149:C149,True
+431,三十六度,N度（N = 10~55，精度0.5度）,san shi liu du,parameter_instance_temperature,TCL意图表!B150:C150,True
+432,三十六点五度,N度（N = 10~55，精度0.5度）,san shi liu dian wu du,parameter_instance_temperature,TCL意图表!B151:C151,True
+433,三十七度,N度（N = 10~55，精度0.5度）,san shi qi du,parameter_instance_temperature,TCL意图表!B152:C152,True
+434,三十七点五度,N度（N = 10~55，精度0.5度）,san shi qi dian wu du,parameter_instance_temperature,TCL意图表!B153:C153,True
+435,三十八度,N度（N = 10~55，精度0.5度）,san shi ba du,parameter_instance_temperature,TCL意图表!B154:C154,True
+436,三十八点五度,N度（N = 10~55，精度0.5度）,san shi ba dian wu du,parameter_instance_temperature,TCL意图表!B155:C155,True
+437,三十九度,N度（N = 10~55，精度0.5度）,san shi jiu du,parameter_instance_temperature,TCL意图表!B156:C156,True
+438,三十九点五度,N度（N = 10~55，精度0.5度）,san shi jiu dian wu du,parameter_instance_temperature,TCL意图表!B157:C157,True
+439,四十度,N度（N = 10~55，精度0.5度）,si shi du,parameter_instance_temperature,TCL意图表!B158:C158,True
+440,四十点五度,N度（N = 10~55，精度0.5度）,si shi dian wu du,parameter_instance_temperature,TCL意图表!B159:C159,True
+441,四十一度,N度（N = 10~55，精度0.5度）,si shi yi du,parameter_instance_temperature,TCL意图表!B160:C160,True
+442,四十一点五度,N度（N = 10~55，精度0.5度）,si shi yi dian wu du,parameter_instance_temperature,TCL意图表!B161:C161,True
+443,四十二度,N度（N = 10~55，精度0.5度）,si shi er du,parameter_instance_temperature,TCL意图表!B162:C162,True
+444,四十二点五度,N度（N = 10~55，精度0.5度）,si shi er dian wu du,parameter_instance_temperature,TCL意图表!B163:C163,True
+445,四十三度,N度（N = 10~55，精度0.5度）,si shi san du,parameter_instance_temperature,TCL意图表!B164:C164,True
+446,四十三点五度,N度（N = 10~55，精度0.5度）,si shi san dian wu du,parameter_instance_temperature,TCL意图表!B165:C165,True
+447,四十四度,N度（N = 10~55，精度0.5度）,si shi si du,parameter_instance_temperature,TCL意图表!B166:C166,True
+448,四十四点五度,N度（N = 10~55，精度0.5度）,si shi si dian wu du,parameter_instance_temperature,TCL意图表!B167:C167,True
+449,四十五度,N度（N = 10~55，精度0.5度）,si shi wu du,parameter_instance_temperature,TCL意图表!B168:C168,True
+450,四十五点五度,N度（N = 10~55，精度0.5度）,si shi wu dian wu du,parameter_instance_temperature,TCL意图表!B169:C169,True
+451,四十六度,N度（N = 10~55，精度0.5度）,si shi liu du,parameter_instance_temperature,TCL意图表!B170:C170,True
+452,四十六点五度,N度（N = 10~55，精度0.5度）,si shi liu dian wu du,parameter_instance_temperature,TCL意图表!B171:C171,True
+453,四十七度,N度（N = 10~55，精度0.5度）,si shi qi du,parameter_instance_temperature,TCL意图表!B172:C172,True
+454,四十七点五度,N度（N = 10~55，精度0.5度）,si shi qi dian wu du,parameter_instance_temperature,TCL意图表!B173:C173,True
+455,四十八度,N度（N = 10~55，精度0.5度）,si shi ba du,parameter_instance_temperature,TCL意图表!B174:C174,True
+456,四十八点五度,N度（N = 10~55，精度0.5度）,si shi ba dian wu du,parameter_instance_temperature,TCL意图表!B175:C175,True
+457,四十九度,N度（N = 10~55，精度0.5度）,si shi jiu du,parameter_instance_temperature,TCL意图表!B176:C176,True
+458,四十九点五度,N度（N = 10~55，精度0.5度）,si shi jiu dian wu du,parameter_instance_temperature,TCL意图表!B177:C177,True
+459,五十度,N度（N = 10~55，精度0.5度）,wu shi du,parameter_instance_temperature,TCL意图表!B178:C178,True
+460,五十点五度,N度（N = 10~55，精度0.5度）,wu shi dian wu du,parameter_instance_temperature,TCL意图表!B179:C179,True
+461,五十一度,N度（N = 10~55，精度0.5度）,wu shi yi du,parameter_instance_temperature,TCL意图表!B180:C180,True
+462,五十一点五度,N度（N = 10~55，精度0.5度）,wu shi yi dian wu du,parameter_instance_temperature,TCL意图表!B181:C181,True
+463,五十二度,N度（N = 10~55，精度0.5度）,wu shi er du,parameter_instance_temperature,TCL意图表!B182:C182,True
+464,五十二点五度,N度（N = 10~55，精度0.5度）,wu shi er dian wu du,parameter_instance_temperature,TCL意图表!B183:C183,True
+465,五十三度,N度（N = 10~55，精度0.5度）,wu shi san du,parameter_instance_temperature,TCL意图表!B184:C184,True
+466,五十三点五度,N度（N = 10~55，精度0.5度）,wu shi san dian wu du,parameter_instance_temperature,TCL意图表!B185:C185,True
+467,五十四度,N度（N = 10~55，精度0.5度）,wu shi si du,parameter_instance_temperature,TCL意图表!B186:C186,True
+468,五十四点五度,N度（N = 10~55，精度0.5度）,wu shi si dian wu du,parameter_instance_temperature,TCL意图表!B187:C187,True
+469,五十五度,N度（N = 10~55，精度0.5度）,wu shi wu du,parameter_instance_temperature,TCL意图表!B188:C188,True
+470,向我吹风,对我吹,dui wo chui,mandatory_doa_core,DOA指令词!F11:H11,True
+471,对着我吹,对我吹,dui wo chui,mandatory_doa_core,DOA指令词!F12:H12,True
+472,对我吹风,对我吹,dui wo chui,mandatory_doa_core,DOA指令词!F13:H13,True
+473,风向我吹,对我吹,dui wo chui,mandatory_doa_core,DOA指令词!F14:H14,True
+474,风吹我,对我吹,dui wo chui,mandatory_doa_core,DOA指令词!F15:H15,True
+475,我要向我吹风,对我吹,dui wo chui,mandatory_doa_core,DOA指令词!F16:H16,True
+476,对着我吹风,对我吹,dui wo chui,mandatory_doa_core,DOA指令词!F17:H17,True
+477,风对我吹,对我吹,dui wo chui,mandatory_doa_core,DOA指令词!F18:H18,True
+478,向我吹,对我吹,dui wo chui,mandatory_doa_core,DOA指令词!F19:H19,True
+479,对我吹,对我吹,dui wo chui,mandatory_doa_core,DOA指令词!F20:H20,True
+480,别吹我,别吹我,bie chui wo,mandatory_doa_core,DOA指令词!F21:H21,True
+481,不要向我吹风,别吹我,bie chui wo,mandatory_doa_core,DOA指令词!F22:H22,True
+482,避开我吹风,别吹我,bie chui wo,mandatory_doa_core,DOA指令词!F23:H23,True
+483,不要吹我,别吹我,bie chui wo,mandatory_doa_core,DOA指令词!F24:H24,True
+484,不要对着我吹,别吹我,bie chui wo,mandatory_doa_core,DOA指令词!F25:H25,True
+485,别向我吹风,别吹我,bie chui wo,mandatory_doa_core,DOA指令词!F26:H26,True
+486,不要对我吹风,别吹我,bie chui wo,mandatory_doa_core,DOA指令词!F27:H27,True
+487,风避我吹,别吹我,bie chui wo,mandatory_doa_core,DOA指令词!F28:H28,True
+488,不要对着我吹风,别吹我,bie chui wo,mandatory_doa_core,DOA指令词!F29:H29,True
+489,风别吹我,别吹我,bie chui wo,mandatory_doa_core,DOA指令词!F30:H30,True

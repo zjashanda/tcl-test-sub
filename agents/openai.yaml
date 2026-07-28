@@ -1,0 +1,4 @@
+interface:
+  display_name: "TCLTestSub"
+  short_description: "TCL 双麦空调唤醒、识别、命令词和播放器压测工具"
+  default_prompt: "Use $tcl-test-sub to select, precheck, run, or analyze the appropriate TCL voice stress workflow in this project."

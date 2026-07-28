@@ -1,0 +1,159 @@
+﻿semantic_group,text_count,categories,sample_texts,all_texts
+打开空调,6,high_frequency_core,开机 | 打开采暖机 | 打开空调 | 打开空气能 | 开空调,开机 | 打开采暖机 | 打开空调 | 打开空气能 | 开空调 | 打开热泵
+关闭空调,5,high_frequency_core,关机 | 关闭采暖机 | 关闭空调 | 关闭空气能 | 关闭热泵,关机 | 关闭采暖机 | 关闭空调 | 关闭空气能 | 关闭热泵
+取消定时,1,high_frequency_core,取消定时,取消定时
+打开客厅空调,2,high_frequency_core,客厅空调开机 | 打开客厅空调,客厅空调开机 | 打开客厅空调
+关闭客厅空调,2,high_frequency_core,客厅空调关机 | 关闭客厅空调,客厅空调关机 | 关闭客厅空调
+打开主卧空调,2,high_frequency_core,主卧空调开机 | 打开主卧空调,主卧空调开机 | 打开主卧空调
+关闭主卧空调,2,high_frequency_core,主卧空调关机 | 关闭主卧空调,主卧空调关机 | 关闭主卧空调
+打开次卧空调,2,high_frequency_core,次卧空调开机 | 打开次卧空调,次卧空调开机 | 打开次卧空调
+关闭次卧空调,2,high_frequency_core,次卧空调关机 | 关闭次卧空调,次卧空调关机 | 关闭次卧空调
+打开书房空调,2,high_frequency_core,书房空调开机 | 打开书房空调,书房空调开机 | 打开书房空调
+关闭书房空调,2,high_frequency_core,书房空调关机 | 关闭书房空调,书房空调关机 | 关闭书房空调
+打开厨房空调,2,high_frequency_core,厨房空调开机 | 打开厨房空调,厨房空调开机 | 打开厨房空调
+关闭厨房空调,2,high_frequency_core,厨房空调关机 | 关闭厨房空调,厨房空调关机 | 关闭厨房空调
+打开儿童房空调,2,high_frequency_core,儿童房空调开机 | 打开儿童房空调,儿童房空调开机 | 打开儿童房空调
+关闭儿童房空调,2,high_frequency_core,儿童房空调关机 | 关闭儿童房空调,儿童房空调关机 | 关闭儿童房空调
+打开老人房空调,2,high_frequency_core,长辈房空调开机 | 打开长辈房空调,长辈房空调开机 | 打开长辈房空调
+关闭老人房空调,2,high_frequency_core,长辈房空调关机 | 关闭长辈房空调,长辈房空调关机 | 关闭长辈房空调
+最高温度,1,high_frequency_core,最高温度,最高温度
+最低温度,1,high_frequency_core,最低温度,最低温度
+调高温度,8,high_frequency_core,调高温度 | 调大温度 | 升高温度 | 有点冷 | 调高一度,调高温度 | 调大温度 | 升高温度 | 有点冷 | 调高一度 | 太冷了 | 增大温度 | 加大温度
+调低温度,7,high_frequency_core,调低温度 | 太热了 | 降低温度 | 有点热 | 调低一度,调低温度 | 太热了 | 降低温度 | 有点热 | 调低一度 | 调小温度 | 减小温度
+最大风,1,high_frequency_core,最大风,最大风
+最小风,1,high_frequency_core,最小风,最小风
+强劲档,2,high_frequency_core,强劲档 | 打开强劲,强劲档 | 打开强劲
+关闭强劲,1,high_frequency_core,关闭强劲,关闭强劲
+高风档,1,high_frequency_core,高风档,高风档
+中高风,1,high_frequency_core,中高风,中高风
+中风档,1,high_frequency_core,中风档,中风档
+中低风,1,high_frequency_core,中低风,中低风
+低风档,1,high_frequency_core,低风档,低风档
+静音档,2,high_frequency_core,静音档 | 打开静音,静音档 | 打开静音
+关闭静音,1,high_frequency_core,关闭静音,关闭静音
+自动档,1,high_frequency_core,自动档,自动档
+增大风速,4,high_frequency_core,增大风速 | 加大风速 | 调高风速 | 调大风速,增大风速 | 加大风速 | 调高风速 | 调大风速
+减小风速,5,high_frequency_core,减小风速 | 降低风速 | 调小风速 | 风速减小 | 调低风速,减小风速 | 降低风速 | 调小风速 | 风速减小 | 调低风速
+制冷模式,1,high_frequency_core,制冷模式,制冷模式
+制热模式,1,high_frequency_core,制热模式,制热模式
+送风模式,1,high_frequency_core,送风模式,送风模式
+除湿模式,1,high_frequency_core,除湿模式,除湿模式
+自动模式,1,high_frequency_core,自动模式,自动模式
+打开上下左右摆风,2,high_frequency_core,打开扫风 | 打开摆风,打开扫风 | 打开摆风
+关闭上下左右摆风,2,high_frequency_core,关闭扫风 | 关闭摆风,关闭扫风 | 关闭摆风
+打开上下摆风,4,high_frequency_core,上下风 | 上下摆风 | 打开上下扫风 | 上下扫风,上下风 | 上下摆风 | 打开上下扫风 | 上下扫风
+关闭上下摆风,3,high_frequency_core,关闭上下扫风 | 关闭上下摆风 | 停止上下扫风,关闭上下扫风 | 关闭上下摆风 | 停止上下扫风
+打开左右摆风,4,high_frequency_core,左右风 | 打开左右扫风 | 左右摆风 | 左右扫风,左右风 | 打开左右扫风 | 左右摆风 | 左右扫风
+关闭左右摆风,3,high_frequency_core,关闭左右扫风 | 关闭左右摆风 | 停止左右扫风,关闭左右扫风 | 关闭左右摆风 | 停止左右扫风
+向上吹,1,high_frequency_core,向上吹,向上吹
+向下吹,1,high_frequency_core,向下吹,向下吹
+向中间吹,1,high_frequency_core,向中间吹,向中间吹
+向左吹,1,high_frequency_core,向左吹,向左吹
+向右吹,1,high_frequency_core,向右吹,向右吹
+打开环抱风,1,high_frequency_core,打开环抱风,打开环抱风
+关闭环抱风,1,high_frequency_core,关闭环抱风,关闭环抱风
+打开左扫风,1,high_frequency_core,打开左扫风,打开左扫风
+关闭左扫风,1,high_frequency_core,关闭左扫风,关闭左扫风
+打开右扫风,1,high_frequency_core,打开右扫风,打开右扫风
+关闭右扫风,1,high_frequency_core,关闭右扫风,关闭右扫风
+打开柔风,1,high_frequency_core,打开柔风,打开柔风
+关闭柔风,1,high_frequency_core,关闭柔风,关闭柔风
+打开深度柔风,2,high_frequency_core,深度柔风 | 打开深度柔风,深度柔风 | 打开深度柔风
+关闭深度柔风,1,high_frequency_core,关闭深度柔风,关闭深度柔风
+打开左柔风,1,high_frequency_core,打开左柔风,打开左柔风
+关闭左柔风,1,high_frequency_core,关闭左柔风,关闭左柔风
+打开右柔风,1,high_frequency_core,打开右柔风,打开右柔风
+关闭右柔风,1,high_frequency_core,关闭右柔风,关闭右柔风
+打开灯光,2,high_frequency_core,打开灯光 | 打开显示,打开灯光 | 打开显示
+关闭灯光,2,high_frequency_core,关闭灯光 | 关闭显示,关闭灯光 | 关闭显示
+打开节能,6,high_frequency_core,打开节能 | AI省电 | 节能模式 | 打开AI节能 | AI节能,打开节能 | AI省电 | 节能模式 | 打开AI节能 | AI节能 | 打开AI省电
+关闭节能,3,high_frequency_core,关闭节能 | 关闭AI节能 | 关闭AI省电,关闭节能 | 关闭AI节能 | 关闭AI省电
+打开睡眠,2,high_frequency_core,打开睡眠 | 睡眠模式,打开睡眠 | 睡眠模式
+关闭睡眠,1,high_frequency_core,关闭睡眠,关闭睡眠
+打开自清洁,1,high_frequency_core,打开自清洁,打开自清洁
+关闭自清洁,1,high_frequency_core,关闭自清洁,关闭自清洁
+打开辅热,1,high_frequency_core,打开辅热,打开辅热
+关闭辅热,1,high_frequency_core,关闭辅热,关闭辅热
+增大音量,5,high_frequency_core,增大音量 | 调大音量 | 调高音量 | 音量增大 | 加大音量,增大音量 | 调大音量 | 调高音量 | 音量增大 | 加大音量
+最大音量,2,high_frequency_core,最大音量 | 音量最大,最大音量 | 音量最大
+中等音量,4,high_frequency_core,中等音量 | 音量中等 | 音量适中 | 中档音量,中等音量 | 音量中等 | 音量适中 | 中档音量
+降低音量,6,high_frequency_core,减小音量 | 调小音量 | 降低音量 | 调低音量 | 音量小点,减小音量 | 调小音量 | 降低音量 | 调低音量 | 音量小点 | 音量减小
+最低音量,2,high_frequency_core,最小音量 | 最小声,最小音量 | 最小声
+打开新风,5,high_frequency_core,开新风 | 打开新风 | 打开独立新风 | 打开小蓝翼 | 新风模式,开新风 | 打开新风 | 打开独立新风 | 打开小蓝翼 | 新风模式
+关闭新风,4,high_frequency_core,关新风 | 关闭新风 | 关闭独立新风 | 关闭小蓝翼,关新风 | 关闭新风 | 关闭独立新风 | 关闭小蓝翼
+增大新风,4,high_frequency_core,增大新风 | 加大新风 | 调高新风 | 调大新风,增大新风 | 加大新风 | 调高新风 | 调大新风
+减小新风,4,high_frequency_core,减小新风 | 调小新风 | 调低新风 | 降低新风,减小新风 | 调小新风 | 调低新风 | 降低新风
+新风低风,1,high_frequency_core,新风低风,新风低风
+新风中风,1,high_frequency_core,新风中风,新风中风
+新风高风,1,high_frequency_core,新风高风,新风高风
+新风自动风,4,high_frequency_core,新风自动 | 新风智能 | 自动新风 | 智能新风,新风自动 | 新风智能 | 自动新风 | 智能新风
+呼吸模式,1,high_frequency_core,呼吸模式,呼吸模式
+排气模式,1,high_frequency_core,排气模式,排气模式
+打开防直吹,2,high_frequency_core,打开防直吹 | 防直吹模式,打开防直吹 | 防直吹模式
+关闭防直吹,1,high_frequency_core,关闭防直吹,关闭防直吹
+打开健康,1,high_frequency_core,打开健康,打开健康
+关闭健康,1,high_frequency_core,关闭健康,关闭健康
+打开除菌,1,high_frequency_core,打开除菌,打开除菌
+关闭除菌,1,high_frequency_core,关闭除菌,关闭除菌
+打开速冷,2,high_frequency_core,打开速冷 | 速冷模式,打开速冷 | 速冷模式
+关闭速冷,1,high_frequency_core,关闭速冷,关闭速冷
+打开爆炒,2,high_frequency_core,打开爆炒 | 爆炒模式,打开爆炒 | 爆炒模式
+关闭爆炒,1,high_frequency_core,关闭爆炒,关闭爆炒
+打开备菜,2,high_frequency_core,打开备菜 | 备菜模式,打开备菜 | 备菜模式
+关闭备菜,1,high_frequency_core,关闭备菜,关闭备菜
+打开防霉,2,high_frequency_core,打开防霉 | 防霉模式,打开防霉 | 防霉模式
+关闭防霉,1,high_frequency_core,关闭防霉,关闭防霉
+空调配网,2,high_frequency_core,空调开始配网 | 空调重新配网,空调开始配网 | 空调重新配网
+学习唤醒词,2,high_frequency_core,学习唤醒词 | 唤醒词学习,学习唤醒词 | 唤醒词学习
+删除唤醒词,2,high_frequency_core,删除唤醒词 | 清除唤醒词,删除唤醒词 | 清除唤醒词
+学习命令词,2,high_frequency_core,学习命令词 | 命令词学习,学习命令词 | 命令词学习
+删除命令词,2,high_frequency_core,删除命令词 | 清除命令词,删除命令词 | 清除命令词
+删除全部命令词,2,high_frequency_core,删除全部命令词 | 全部命令词删除,删除全部命令词 | 全部命令词删除
+打开净化模式,4,high_frequency_core,开净化 | 打开净化模式 | 打开净化 | 净化模式,开净化 | 打开净化模式 | 打开净化 | 净化模式
+关闭净化模式,3,high_frequency_core,关净化 | 关闭净化 | 关闭净化模式,关净化 | 关闭净化 | 关闭净化模式
+增大净化风速,4,high_frequency_core,增大净化 | 调高净化 | 加大净化 | 调大净化,增大净化 | 调高净化 | 加大净化 | 调大净化
+减小净化风速,4,high_frequency_core,减小净化 | 调低净化 | 调小净化 | 降低净化,减小净化 | 调低净化 | 调小净化 | 降低净化
+净化最小风,1,high_frequency_core,净化最小风,净化最小风
+净化最大风,1,high_frequency_core,净化最大风,净化最大风
+净化低风,1,high_frequency_core,净化低风,净化低风
+净化中风,1,high_frequency_core,净化中风,净化中风
+净化高风,1,high_frequency_core,净化高风,净化高风
+净化自动风,1,high_frequency_core,净化自动风,净化自动风
+挂断电话,2,high_frequency_core,挂断电话 | 挂断通话,挂断电话 | 挂断通话
+打开雷达,1,high_frequency_core,打开雷达,打开雷达
+关闭雷达,1,high_frequency_core,关闭雷达,关闭雷达
+风吹人,3,high_frequency_core,对人吹 | 对着人吹 | 风吹人,对人吹 | 对着人吹 | 风吹人
+关闭风吹人,2,high_frequency_core,关闭风随人动 | 关闭风吹人,关闭风随人动 | 关闭风吹人
+风避人,3,high_frequency_core,别吹人 | 避风模式 | 风避人,别吹人 | 避风模式 | 风避人
+关闭风避人,3,high_frequency_core,关闭人感避开 | 关闭避风模式 | 关闭风避人,关闭人感避开 | 关闭避风模式 | 关闭风避人
+打开蓝牙,2,high_frequency_core,连接蓝牙 | 打开蓝牙,连接蓝牙 | 打开蓝牙
+关闭蓝牙,2,high_frequency_core,关闭蓝牙 | 蓝牙关闭,关闭蓝牙 | 蓝牙关闭
+打开夜灯,2,high_frequency_core,打开夜灯 | 打开小夜灯,打开夜灯 | 打开小夜灯
+关闭夜灯,2,high_frequency_core,关闭夜灯 | 关闭小夜灯,关闭夜灯 | 关闭小夜灯
+调温度,2,high_frequency_core,调温度 | 调整温度,调温度 | 调整温度
+调风速,2,high_frequency_core,调风速 | 调整风速,调风速 | 调整风速
+调模式,2,high_frequency_core,调模式 | 调整模式,调模式 | 调整模式
+调音量,2,high_frequency_core,调音量 | 调整音量,调音量 | 调整音量
+调风摆,2,high_frequency_core,调风摆 | 调整风摆,调风摆 | 调整风摆
+打开AI模式,2,high_frequency_core,AI模式 | AI智控,AI模式 | AI智控
+关闭AI模式,2,high_frequency_core,关闭AI模式 | 关闭AI智控,关闭AI模式 | 关闭AI智控
+打开离家模式,2,high_frequency_core,离家模式 | 打开离家模式,离家模式 | 打开离家模式
+关闭离家模式,1,high_frequency_core,关闭离家模式,关闭离家模式
+打开全域风,4,high_frequency_core,全域风 | 全域风模式 | 全域有风 | 打开全域风,全域风 | 全域风模式 | 全域有风 | 打开全域风
+关闭全域风,2,high_frequency_core,关闭全域风 | 关闭全域有风,关闭全域风 | 关闭全域有风
+打开全域无风,3,high_frequency_core,全域无风 | 全域无风模式 | 打开全域无风,全域无风 | 全域无风模式 | 打开全域无风
+关闭全域无风,2,high_frequency_core,关闭全域无风 | 关闭全面无风,关闭全域无风 | 关闭全面无风
+打开人近风柔,1,high_frequency_core,打开人近风柔,打开人近风柔
+关闭人近风柔,1,high_frequency_core,关闭人近风柔,关闭人近风柔
+打开人远风强,2,high_frequency_core,打开人远风强 | 打开人远强风,打开人远风强 | 打开人远强风
+关闭人远风强,2,high_frequency_core,关闭人远风强 | 关闭人远强风,关闭人远风强 | 关闭人远强风
+打开人走节能,2,high_frequency_core,打开人走节能 | 打开无人节能,打开人走节能 | 打开无人节能
+关闭人走节能,2,high_frequency_core,关闭人走节能 | 关闭无人节能,关闭人走节能 | 关闭无人节能
+打开唯一唤醒,1,high_frequency_core,打开唯一唤醒,打开唯一唤醒
+关闭唯一唤醒,1,high_frequency_core,关闭唯一唤醒,关闭唯一唤醒
+定时N小时,25,parameter_instance_timer,定时半小时 | 定时一小时 | 定时二小时 | 定时三小时 | 定时四小时,定时半小时 | 定时一小时 | 定时二小时 | 定时三小时 | 定时四小时 | 定时五小时 | 定时六小时 | 定时七小时 | 定时八小时 | 定时九小时 | 定时十小时 | 定时十一小时 | 定时十二小时 | 定时十三小时 | 定时十四小时 | 定时十五小时 | 定时十六小时 | 定时十七小时 | 定时十八小时 | 定时十九小时 | 定时二十小时 | 定时二十一小时 | 定时二十二小时 | 定时二十三小时 | 定时二十四小时
+定时N小时开机,25,parameter_instance_timer_on,定时半小时开机 | 定时一小时开机 | 定时二小时开机 | 定时三小时开机 | 定时四小时开机,定时半小时开机 | 定时一小时开机 | 定时二小时开机 | 定时三小时开机 | 定时四小时开机 | 定时五小时开机 | 定时六小时开机 | 定时七小时开机 | 定时八小时开机 | 定时九小时开机 | 定时十小时开机 | 定时十一小时开机 | 定时十二小时开机 | 定时十三小时开机 | 定时十四小时开机 | 定时十五小时开机 | 定时十六小时开机 | 定时十七小时开机 | 定时十八小时开机 | 定时十九小时开机 | 定时二十小时开机 | 定时二十一小时开机 | 定时二十二小时开机 | 定时二十三小时开机 | 定时二十四小时开机
+定时N小时关机,25,parameter_instance_timer_off,定时半小时关机 | 定时一小时关机 | 定时二小时关机 | 定时三小时关机 | 定时四小时关机,定时半小时关机 | 定时一小时关机 | 定时二小时关机 | 定时三小时关机 | 定时四小时关机 | 定时五小时关机 | 定时六小时关机 | 定时七小时关机 | 定时八小时关机 | 定时九小时关机 | 定时十小时关机 | 定时十一小时关机 | 定时十二小时关机 | 定时十三小时关机 | 定时十四小时关机 | 定时十五小时关机 | 定时十六小时关机 | 定时十七小时关机 | 定时十八小时关机 | 定时十九小时关机 | 定时二十小时关机 | 定时二十一小时关机 | 定时二十二小时关机 | 定时二十三小时关机 | 定时二十四小时关机
+N度（N = 10~55，精度0.5度）,91,parameter_instance_temperature,十度 | 十点五度 | 十一度 | 十一点五度 | 十二度,十度 | 十点五度 | 十一度 | 十一点五度 | 十二度 | 十二点五度 | 十三度 | 十三点五度 | 十四度 | 十四点五度 | 十五度 | 十五点五度 | 十六度 | 十六点五度 | 十七度 | 十七点五度 | 十八度 | 十八点五度 | 十九度 | 十九点五度 | 二十度 | 二十点五度 | 二十一度 | 二十一点五度 | 二十二度 | 二十二点五度 | 二十三度 | 二十三点五度 | 二十四度 | 二十四点五度 | 二十五度 | 二十五点五度 | 二十六度 | 二十六点五度 | 二十七度 | 二十七点五度 | 二十八度 | 二十八点五度 | 二十九度 | 二十九点五度 | 三十度 | 三十点五度 | 三十一度 | 三十一点五度 | 三十二度 | 三十二点五度 | 三十三度 | 三十三点五度 | 三十四度 | 三十四点五度 | 三十五度 | 三十五点五度 | 三十六度 | 三十六点五度 | 三十七度 | 三十七点五度 | 三十八度 | 三十八点五度 | 三十九度 | 三十九点五度 | 四十度 | 四十点五度 | 四十一度 | 四十一点五度 | 四十二度 | 四十二点五度 | 四十三度 | 四十三点五度 | 四十四度 | 四十四点五度 | 四十五度 | 四十五点五度 | 四十六度 | 四十六点五度 | 四十七度 | 四十七点五度 | 四十八度 | 四十八点五度 | 四十九度 | 四十九点五度 | 五十度 | 五十点五度 | 五十一度 | 五十一点五度 | 五十二度 | 五十二点五度 | 五十三度 | 五十三点五度 | 五十四度 | 五十四点五度 | 五十五度
+对我吹,10,mandatory_doa_core,向我吹风 | 对着我吹 | 对我吹风 | 风向我吹 | 风吹我,向我吹风 | 对着我吹 | 对我吹风 | 风向我吹 | 风吹我 | 我要向我吹风 | 对着我吹风 | 风对我吹 | 向我吹 | 对我吹
+别吹我,10,mandatory_doa_core,别吹我 | 不要向我吹风 | 避开我吹风 | 不要吹我 | 不要对着我吹,别吹我 | 不要向我吹风 | 避开我吹风 | 不要吹我 | 不要对着我吹 | 别向我吹风 | 不要对我吹风 | 风避我吹 | 不要对着我吹风 | 风别吹我

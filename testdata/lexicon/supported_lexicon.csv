@@ -1,0 +1,2559 @@
+﻿text,expected_intents,standard_semantics,classes,sources,source_cells,audio_exists
+小T小T,小T小T,xiao ti xiao ti,canonical_intent | wake_word,TCL意图表（对比公版自由说） | TCL意图表（对比公版自由说） / 能力项-checklist,B2:C2 | B2:C3 / D2,True
+hey TCL,hey TCL,hey TCL,canonical_intent | wake_word,TCL意图表（对比公版自由说） | TCL意图表（对比公版自由说） / 能力项-checklist,B2:C3 / D2 | B3:C3,True
+打开空调,打开空调,da kai kong tiao,canonical_intent | core_command | offline_intent_definition,TCL 高频词 | TCL意图表（对比公版自由说）,B3 | B4:C4 | C4,True
+关闭空调,关闭空调,guan bi kong tiao,canonical_intent | core_command | offline_intent_definition,TCL 高频词 | TCL意图表（对比公版自由说）,B5:C5 | B6 | C7 | C8,True
+定时半小时,定时半小时,ding shi ban xiao shi,canonical_intent,TCL意图表（对比公版自由说）,B6:C6,True
+定时一小时,定时一小时,ding shi yi xiao shi,canonical_intent,TCL意图表（对比公版自由说）,B7:C7,True
+定时二小时,定时二小时,ding shi er xiao shi,canonical_intent,TCL意图表（对比公版自由说）,B8:C8,True
+定时三小时,定时三小时,ding shi san xiao shi,canonical_intent,TCL意图表（对比公版自由说）,B9:C9,True
+定时四小时,定时四小时,ding shi si xiao shi,canonical_intent,TCL意图表（对比公版自由说）,B10:C10,True
+定时五小时,定时五小时,ding shi wu xiao shi,canonical_intent,TCL意图表（对比公版自由说）,B11:C11,True
+定时六小时,定时六小时,ding shi liu xiao shi,canonical_intent,TCL意图表（对比公版自由说）,B12:C12,True
+定时七小时,定时七小时,ding shi qi xiao shi,canonical_intent,TCL意图表（对比公版自由说）,B13:C13,True
+定时八小时,定时八小时,ding shi ba xiao shi,canonical_intent,TCL意图表（对比公版自由说）,B14:C14,True
+定时九小时,定时九小时,ding shi jiu xiao shi,canonical_intent,TCL意图表（对比公版自由说）,B15:C15 | B16:C16,True
+定时十小时,定时十小时,ding shi shi xiao shi,canonical_intent,TCL意图表（对比公版自由说）,B17:C17,True
+定时十一小时,定时十一小时,ding shi shi yi xiao shi,canonical_intent,TCL意图表（对比公版自由说）,B18:C18,True
+定时十二小时,定时十二小时,ding shi shi er xiao shi,canonical_intent,TCL意图表（对比公版自由说）,B19:C19,True
+定时十三小时,定时十三小时,ding shi shi san xiao shi,canonical_intent,TCL意图表（对比公版自由说）,B20:C20,True
+定时十四小时,定时十四小时,ding shi shi si xiao shi,canonical_intent,TCL意图表（对比公版自由说）,B21:C21,True
+定时十五小时,定时十五小时,ding shi shi wu xiao shi,canonical_intent,TCL意图表（对比公版自由说）,B22:C22,True
+定时十六小时,定时十六小时,ding shi shi liu xiao shi,canonical_intent,TCL意图表（对比公版自由说）,B23:C23,True
+定时十七小时,定时十七小时,ding shi shi qi xiao shi,canonical_intent,TCL意图表（对比公版自由说）,B24:C24,True
+定时十八小时,定时十八小时,ding shi shi ba xiao shi,canonical_intent,TCL意图表（对比公版自由说）,B25:C25,True
+定时十九小时,定时十九小时,ding shi shi jiu xiao shi,canonical_intent,TCL意图表（对比公版自由说）,B26:C26,True
+定时二十小时,定时二十小时,ding shi er shi xiao shi,canonical_intent,TCL意图表（对比公版自由说）,B27:C27,True
+定时二十一小时,定时二十一小时,ding shi er shi yi xiao shi,canonical_intent,TCL意图表（对比公版自由说）,B28:C28,True
+定时二十二小时,定时二十二小时,ding shi er shi er xiao shi,canonical_intent,TCL意图表（对比公版自由说）,B29:C29,True
+定时二十三小时,定时二十三小时,ding shi er shi san xiao shi,canonical_intent,TCL意图表（对比公版自由说）,B30:C30,True
+定时二十四小时,定时二十四小时,ding shi er shi si xiao shi,canonical_intent,TCL意图表（对比公版自由说）,B31:C31,True
+取消定时,取消定时,qu xiao ding shi,canonical_intent | core_command | offline_intent_definition,TCL 高频词 | TCL意图表（对比公版自由说）,B12 | B32:C32 | C12,True
+定时半小时开机,定时半小时开机,ding shi ban xiao shi kai ji,canonical_intent,TCL意图表（对比公版自由说）,B33:C33,True
+定时一小时开机,定时一小时开机,ding shi yi xiao shi kai ji,canonical_intent,TCL意图表（对比公版自由说）,B34:C34,True
+定时二小时开机,定时二小时开机,ding shi liang xiao shi kai ji,canonical_intent,TCL意图表（对比公版自由说）,B35:C35,True
+定时三小时开机,定时三小时开机,ding shi san xiao shi kai ji,canonical_intent,TCL意图表（对比公版自由说）,B36:C36,True
+定时四小时开机,定时四小时开机,ding shi si xiao shi kai ji,canonical_intent,TCL意图表（对比公版自由说）,B37:C37,True
+定时五小时开机,定时五小时开机,ding shi wu xiao shi kai ji,canonical_intent,TCL意图表（对比公版自由说）,B38:C38,True
+定时六小时开机,定时六小时开机,ding shi liu xiao shi kai ji,canonical_intent,TCL意图表（对比公版自由说）,B39:C39,True
+定时七小时开机,定时七小时开机,ding shi qi xiao shi kai ji,canonical_intent,TCL意图表（对比公版自由说）,B40:C40,True
+定时八小时开机,定时八小时开机,ding shi ba xiao shi kai ji,canonical_intent,TCL意图表（对比公版自由说）,B41:C41,True
+定时九小时开机,定时九小时开机,ding shi jiu xiao shi kai ji,canonical_intent,TCL意图表（对比公版自由说）,B42:C42,True
+定时十小时开机,定时十小时开机,ding shi shi xiao shi kai ji,canonical_intent,TCL意图表（对比公版自由说）,B43:C43,True
+定时十一小时开机,定时十一小时开机,ding shi shi yi xiao shi kai ji,canonical_intent,TCL意图表（对比公版自由说）,B44:C44,True
+定时十二小时开机,定时十二小时开机,ding shi shi er xiao shi kai ji,canonical_intent,TCL意图表（对比公版自由说）,B45:C45,True
+定时十三小时开机,定时十三小时开机,ding shi shi san xiao shi kai ji,canonical_intent,TCL意图表（对比公版自由说）,B46:C46,True
+定时十四小时开机,定时十四小时开机,ding shi shi si xiao shi kai ji,canonical_intent,TCL意图表（对比公版自由说）,B47:C47,True
+定时十五小时开机,定时十五小时开机,ding shi shi wu xiao shi kai ji,canonical_intent,TCL意图表（对比公版自由说）,B48:C48,True
+定时十六小时开机,定时十六小时开机,ding shi shi liu xiao shi kai ji,canonical_intent,TCL意图表（对比公版自由说）,B49:C49,True
+定时十七小时开机,定时十七小时开机,ding shi shi qi xiao shi kai ji,canonical_intent,TCL意图表（对比公版自由说）,B50:C50,True
+定时十八小时开机,定时十八小时开机,ding shi shi ba xiao shi kai ji,canonical_intent,TCL意图表（对比公版自由说）,B51:C51,True
+定时十九小时开机,定时十九小时开机,ding shi shi jiu xiao shi kai ji,canonical_intent,TCL意图表（对比公版自由说）,B52:C52,True
+定时二十小时开机,定时二十小时开机,ding shi er shi xiao shi kai ji,canonical_intent,TCL意图表（对比公版自由说）,B53:C53,True
+定时二十一小时开机,定时二十一小时开机,ding shi er shi yi xiao shi kai ji,canonical_intent,TCL意图表（对比公版自由说）,B54:C54,True
+定时二十二小时开机,定时二十二小时开机,ding shi er shi er xiao shi kai ji,canonical_intent,TCL意图表（对比公版自由说）,B55:C55,True
+定时二十三小时开机,定时二十三小时开机,ding shi er shi san xiao shi kai ji,canonical_intent,TCL意图表（对比公版自由说）,B56:C56,True
+定时二十四小时开机,定时二十四小时开机,ding shi er shi si xiao shi kai ji,canonical_intent,TCL意图表（对比公版自由说）,B57:C57,True
+定时半小时关机,定时半小时关机,ding shi ban xiao shi guan ji,canonical_intent,TCL意图表（对比公版自由说）,B58:C58,True
+定时一小时关机,定时一小时关机,ding shi yi xiao shi guan ji,canonical_intent,TCL意图表（对比公版自由说）,B59:C59,True
+定时二小时关机,定时二小时关机,ding shi liang xiao shi guan ji,canonical_intent,TCL意图表（对比公版自由说）,B60:C60,True
+定时三小时关机,定时三小时关机,ding shi san xiao shi guan ji,canonical_intent,TCL意图表（对比公版自由说）,B61:C61,True
+定时四小时关机,定时四小时关机,ding shi si xiao shi guan ji,canonical_intent,TCL意图表（对比公版自由说）,B62:C62,True
+定时五小时关机,定时五小时关机,ding shi wu xiao shi guan ji,canonical_intent,TCL意图表（对比公版自由说）,B63:C63,True
+定时六小时关机,定时六小时关机,ding shi liu xiao shi guan ji,canonical_intent,TCL意图表（对比公版自由说）,B64:C64,True
+定时七小时关机,定时七小时关机,ding shi qi xiao shi guan ji,canonical_intent,TCL意图表（对比公版自由说）,B65:C65,True
+定时八小时关机,定时八小时关机,ding shi ba xiao shi guan ji,canonical_intent,TCL意图表（对比公版自由说）,B66:C66,True
+定时九小时关机,定时九小时关机,ding shi jiu xiao shi guan ji,canonical_intent,TCL意图表（对比公版自由说）,B67:C67,True
+定时十小时关机,定时十小时关机,ding shi shi xiao shi guan ji,canonical_intent,TCL意图表（对比公版自由说）,B68:C68,True
+定时十一小时关机,定时十一小时关机,ding shi shi yi xiao shi guan ji,canonical_intent,TCL意图表（对比公版自由说）,B69:C69,True
+定时十二小时关机,定时十二小时关机,ding shi shi er xiao shi guan ji,canonical_intent,TCL意图表（对比公版自由说）,B70:C70 | B71:C71,True
+定时十三小时关机,定时十三小时关机,ding shi shi san xiao shi guan ji,canonical_intent,TCL意图表（对比公版自由说）,B72:C72,True
+定时十四小时关机,定时十四小时关机,ding shi shi si xiao shi guan ji,canonical_intent,TCL意图表（对比公版自由说）,B73:C73,True
+定时十五小时关机,定时十五小时关机,ding shi shi wu xiao shi guan ji,canonical_intent,TCL意图表（对比公版自由说）,B74:C74,True
+定时十六小时关机,定时十六小时关机,ding shi shi liu xiao shi guan ji,canonical_intent,TCL意图表（对比公版自由说）,B75:C75,True
+定时十七小时关机,定时十七小时关机,ding shi shi qi xiao shi guan ji,canonical_intent,TCL意图表（对比公版自由说）,B76:C76,True
+定时十八小时关机,定时十八小时关机,ding shi shi ba xiao shi guan ji,canonical_intent,TCL意图表（对比公版自由说）,B77:C77,True
+定时十九小时关机,定时十九小时关机,ding shi shi jiu xiao shi guan ji,canonical_intent,TCL意图表（对比公版自由说）,B78:C78,True
+定时二十小时关机,定时二十小时关机,ding shi er shi xiao shi guan ji,canonical_intent,TCL意图表（对比公版自由说）,B79:C79,True
+定时二十一小时关机,定时二十一小时关机,ding shi er shi yi xiao shi guan ji,canonical_intent,TCL意图表（对比公版自由说）,B80:C80,True
+定时二十二小时关机,定时二十二小时关机,ding shi er shi er xiao shi guan ji,canonical_intent,TCL意图表（对比公版自由说）,B81:C81,True
+定时二十三小时关机,定时二十三小时关机,ding shi er shi san xiao shi guan ji,canonical_intent,TCL意图表（对比公版自由说）,B82:C82,True
+定时二十四小时关机,定时二十四小时关机,ding shi er shi si xiao shi guan ji,canonical_intent,TCL意图表（对比公版自由说）,B83:C83,True
+打开客厅空调,打开客厅空调,da kai ke ting kong tiao,canonical_intent | core_command | offline_intent_definition,TCL 高频词 | TCL意图表（对比公版自由说）,B21 | B84:C84 | C22,True
+关闭客厅空调,关闭客厅空调,guan bi ke ting kong tiao,canonical_intent | core_command | offline_intent_definition,TCL 高频词 | TCL意图表（对比公版自由说）,B24 | B85:C85 | C25,True
+打开主卧空调,打开主卧空调,da kai zhu wo kong tiao,canonical_intent | core_command | offline_intent_definition,TCL 高频词 | TCL意图表（对比公版自由说）,B27 | B86:C86 | C28,True
+关闭主卧空调,关闭主卧空调,guan bi zhu wo kong tiao,canonical_intent | core_command | offline_intent_definition,TCL 高频词 | TCL意图表（对比公版自由说）,B30 | B87:C87 | C31,True
+打开次卧空调,打开次卧空调,da kai ci wo kong tiao,canonical_intent | core_command | offline_intent_definition,TCL 高频词 | TCL意图表（对比公版自由说）,B33 | B88:C88 | C34,True
+关闭次卧空调,关闭次卧空调,guan bi ci wo kong tiao,canonical_intent | core_command | offline_intent_definition,TCL 高频词 | TCL意图表（对比公版自由说）,B36 | B89:C89 | C37,True
+打开书房空调,打开书房空调,da kai shu fang kong tiao,canonical_intent | core_command | offline_intent_definition,TCL 高频词 | TCL意图表（对比公版自由说）,B39 | B90:C90 | C40,True
+关闭书房空调,关闭书房空调,guan bi shu fang kong tiao,canonical_intent | core_command | offline_intent_definition,TCL 高频词 | TCL意图表（对比公版自由说）,B42 | B91:C91 | C43,True
+打开厨房空调,打开厨房空调,da kai chu fang kong tiao,canonical_intent | core_command | offline_intent_definition,TCL 高频词 | TCL意图表（对比公版自由说）,B45 | B92:C92 | C46,True
+关闭厨房空调,关闭厨房空调,guan bi chu fang kong tiao,canonical_intent | core_command | offline_intent_definition,TCL 高频词 | TCL意图表（对比公版自由说）,B48 | B93:C93 | C49,True
+打开儿童房空调,打开儿童房空调,da kai er tong fang kong tiao,canonical_intent | core_command | offline_intent_definition,TCL 高频词 | TCL意图表（对比公版自由说）,B51 | B94:C94 | C52,True
+关闭儿童房空调,关闭儿童房空调,guan bi er tong fang kong tiao,canonical_intent | core_command | offline_intent_definition,TCL 高频词 | TCL意图表（对比公版自由说）,B54 | B95:C95 | C55,True
+打开老人房空调,打开老人房空调,da kai lao ren fang kong tiao,canonical_intent | offline_intent_definition,TCL 高频词 | TCL意图表（对比公版自由说）,B57 | B96:C96,True
+关闭老人房空调,关闭老人房空调,guan bi lao ren  fang kong tiao,canonical_intent | offline_intent_definition,TCL 高频词 | TCL意图表（对比公版自由说）,B60 | B97:C97,True
+十度,十度,shi du,canonical_intent,TCL意图表（对比公版自由说）,B98:C98,True
+十点五度,十点五度,shi dian wu du,canonical_intent,TCL意图表（对比公版自由说）,B99:C99,True
+十一度,十一度,shi yi du,canonical_intent,TCL意图表（对比公版自由说）,B100:C100,True
+十一点五度,十一点五度,shi yi dian wu du,canonical_intent,TCL意图表（对比公版自由说）,B101:C101,True
+十二度,十二度,shi er du,canonical_intent,TCL意图表（对比公版自由说）,B102:C102,True
+十二点五度,十二点五度,shi er dian wu du,canonical_intent,TCL意图表（对比公版自由说）,B103:C103,True
+十三度,十三度,shi san du,canonical_intent,TCL意图表（对比公版自由说）,B104:C104,True
+十三点五度,十三点五度,shi san dian wu du,canonical_intent,TCL意图表（对比公版自由说）,B105:C105,True
+十四度,十四度,shi si du,canonical_intent,TCL意图表（对比公版自由说）,B106:C106,True
+十四点五度,十四点五度,shi si dian wu du,canonical_intent,TCL意图表（对比公版自由说）,B107:C107,True
+十五度,十五度,shi wu du,canonical_intent,TCL意图表（对比公版自由说）,B108:C108,True
+十五点五度,十五点五度,shi wu dian wu du,canonical_intent,TCL意图表（对比公版自由说）,B109:C109,True
+十六度,十六度,shi liu du,canonical_intent,TCL意图表（对比公版自由说）,B110:C110,True
+十六点五度,十六点五度,shi liu dian wu du,canonical_intent,TCL意图表（对比公版自由说）,B111:C111,True
+十七度,十七度,shi qi du,canonical_intent,TCL意图表（对比公版自由说）,B112:C112,True
+十七点五度,十七点五度,shi qi dian wu du,canonical_intent,TCL意图表（对比公版自由说）,B113:C113,True
+十八度,十八度,shi ba du,canonical_intent,TCL意图表（对比公版自由说）,B114:C114,True
+十八点五度,十八点五度,shi ba dian wu du,canonical_intent,TCL意图表（对比公版自由说）,B115:C115,True
+十九度,十九度,shi jiu du,canonical_intent,TCL意图表（对比公版自由说）,B116:C116,True
+十九点五度,十九点五度,shi jiu dian wu du,canonical_intent,TCL意图表（对比公版自由说）,B117:C117,True
+二十度,二十度,er shi du,canonical_intent,TCL意图表（对比公版自由说）,B118:C118,True
+二十点五度,二十点五度,er shi dian wu du,canonical_intent,TCL意图表（对比公版自由说）,B119:C119,True
+二十一度,二十一度,er shi yi du,canonical_intent,TCL意图表（对比公版自由说）,B120:C120,True
+二十一点五度,二十一点五度,er shi yi dian wu du,canonical_intent,TCL意图表（对比公版自由说）,B121:C121,True
+二十二度,二十二度,er shi er du,canonical_intent,TCL意图表（对比公版自由说）,B122:C122,True
+二十二点五度,二十二点五度,er shi er dian wu du,canonical_intent,TCL意图表（对比公版自由说）,B123:C123,True
+二十三度,二十三度,er shi san du,canonical_intent,TCL意图表（对比公版自由说）,B124:C124,True
+二十三点五度,二十三点五度,er shi san dian wu du,canonical_intent,TCL意图表（对比公版自由说）,B125:C125,True
+二十四度,二十四度,er shi si du,canonical_intent,TCL意图表（对比公版自由说）,B126:C126,True
+二十四点五度,二十四点五度,er shi si dian wu du,canonical_intent,TCL意图表（对比公版自由说）,B127:C127,True
+二十五度,二十五度,er shi wu du,canonical_intent,TCL意图表（对比公版自由说）,B128:C128,True
+二十五点五度,二十五点五度,er shi wu dian wu du,canonical_intent,TCL意图表（对比公版自由说）,B129:C129,True
+二十六度,二十六度,er shi liu du,canonical_intent,TCL意图表（对比公版自由说）,B130:C130,True
+二十六点五度,二十六点五度,er shi liu dian wu du,canonical_intent,TCL意图表（对比公版自由说）,B131:C131,True
+二十七度,二十七度,er shi qi du,canonical_intent,TCL意图表（对比公版自由说）,B132:C132,True
+二十七点五度,二十七点五度,er shi qi dian wu du,canonical_intent,TCL意图表（对比公版自由说）,B133:C133,True
+二十八度,二十八度,er shi ba du,canonical_intent,TCL意图表（对比公版自由说）,B134:C134,True
+二十八点五度,二十八点五度,er shi ba dian wu du,canonical_intent,TCL意图表（对比公版自由说）,B135:C135,True
+二十九度,二十九度,er shi jiu du,canonical_intent,TCL意图表（对比公版自由说）,B136:C136,True
+二十九点五度,二十九点五度,er shi jiu dian wu du,canonical_intent,TCL意图表（对比公版自由说）,B137:C137,True
+三十度,三十度,san shi du,canonical_intent,TCL意图表（对比公版自由说）,B138:C138,True
+三十点五度,三十点五度,san shi dian wu du,canonical_intent,TCL意图表（对比公版自由说）,B139:C139,True
+三十一度,三十一度,san shi yi du,canonical_intent,TCL意图表（对比公版自由说）,B140:C140,True
+三十一点五度,三十一点五度,san shi yi dian wu du,canonical_intent,TCL意图表（对比公版自由说）,B141:C141,True
+三十二度,三十二度,san shi er du,canonical_intent,TCL意图表（对比公版自由说）,B142:C142,True
+三十二点五度,三十二点五度,san shi er dian wu du,canonical_intent,TCL意图表（对比公版自由说）,B143:C143,True
+三十三度,三十三度,san shi san du,canonical_intent,TCL意图表（对比公版自由说）,B144:C144,True
+三十三点五度,三十三点五度,san shi san dian wu du,canonical_intent,TCL意图表（对比公版自由说）,B145:C145,True
+三十四度,三十四度,san shi si du,canonical_intent,TCL意图表（对比公版自由说）,B146:C146,True
+三十四点五度,三十四点五度,san shi si dian wu du,canonical_intent,TCL意图表（对比公版自由说）,B147:C147,True
+三十五度,三十五度,san shi wu du,canonical_intent,TCL意图表（对比公版自由说）,B148:C148,True
+三十五点五度,三十五点五度,san shi wu dian wu du,canonical_intent,TCL意图表（对比公版自由说）,B149:C149,True
+三十六度,三十六度,san shi liu du,canonical_intent,TCL意图表（对比公版自由说）,B150:C150,True
+三十六点五度,三十六点五度,san shi liu dian wu du,canonical_intent,TCL意图表（对比公版自由说）,B151:C151,True
+三十七度,三十七度,san shi qi du,canonical_intent,TCL意图表（对比公版自由说）,B152:C152,True
+三十七点五度,三十七点五度,san shi qi dian wu du,canonical_intent,TCL意图表（对比公版自由说）,B153:C153,True
+三十八度,三十八度,san shi ba du,canonical_intent,TCL意图表（对比公版自由说）,B154:C154,True
+三十八点五度,三十八点五度,san shi ba dian wu du,canonical_intent,TCL意图表（对比公版自由说）,B155:C155,True
+三十九度,三十九度,san shi jiu du,canonical_intent,TCL意图表（对比公版自由说）,B156:C156,True
+三十九点五度,三十九点五度,san shi jiu dian wu du,canonical_intent,TCL意图表（对比公版自由说）,B157:C157,True
+四十度,四十度,si shi du,canonical_intent,TCL意图表（对比公版自由说）,B158:C158,True
+四十点五度,四十点五度,si shi dian wu du,canonical_intent,TCL意图表（对比公版自由说）,B159:C159,True
+四十一度,四十一度,si shi yi du,canonical_intent,TCL意图表（对比公版自由说）,B160:C160,True
+四十一点五度,四十一点五度,si shi yi dian wu du,canonical_intent,TCL意图表（对比公版自由说）,B161:C161,True
+四十二度,四十二度,si shi er du,canonical_intent,TCL意图表（对比公版自由说）,B162:C162,True
+四十二点五度,四十二点五度,si shi er dian wu du,canonical_intent,TCL意图表（对比公版自由说）,B163:C163,True
+四十三度,四十三度,si shi san du,canonical_intent,TCL意图表（对比公版自由说）,B164:C164,True
+四十三点五度,四十三点五度,si shi san dian wu du,canonical_intent,TCL意图表（对比公版自由说）,B165:C165,True
+四十四度,四十四度,si shi si du,canonical_intent,TCL意图表（对比公版自由说）,B166:C166,True
+四十四点五度,四十四点五度,si shi si dian wu du,canonical_intent,TCL意图表（对比公版自由说）,B167:C167,True
+四十五度,四十五度,si shi wu du,canonical_intent,TCL意图表（对比公版自由说）,B168:C168,True
+四十五点五度,四十五点五度,si shi wu dian wu du,canonical_intent,TCL意图表（对比公版自由说）,B169:C169,True
+四十六度,四十六度,si shi liu du,canonical_intent,TCL意图表（对比公版自由说）,B170:C170,True
+四十六点五度,四十六点五度,si shi liu dian wu du,canonical_intent,TCL意图表（对比公版自由说）,B171:C171,True
+四十七度,四十七度,si shi qi du,canonical_intent,TCL意图表（对比公版自由说）,B172:C172,True
+四十七点五度,四十七点五度,si shi qi dian wu du,canonical_intent,TCL意图表（对比公版自由说）,B173:C173,True
+四十八度,四十八度,si shi ba du,canonical_intent,TCL意图表（对比公版自由说）,B174:C174,True
+四十八点五度,四十八点五度,si shi ba dian wu du,canonical_intent,TCL意图表（对比公版自由说）,B175:C175,True
+四十九度,四十九度,si shi jiu du,canonical_intent,TCL意图表（对比公版自由说）,B176:C176,True
+四十九点五度,四十九点五度,si shi jiu dian wu du,canonical_intent,TCL意图表（对比公版自由说）,B177:C177,True
+五十度,五十度,wu shi du,canonical_intent,TCL意图表（对比公版自由说）,B178:C178,True
+五十点五度,五十点五度,wu shi dian wu du,canonical_intent,TCL意图表（对比公版自由说）,B179:C179,True
+五十一度,五十一度,wu shi yi du,canonical_intent,TCL意图表（对比公版自由说）,B180:C180,True
+五十一点五度,五十一点五度,wu shi yi dian wu du,canonical_intent,TCL意图表（对比公版自由说）,B181:C181,True
+五十二度,五十二度,wu shi er du,canonical_intent,TCL意图表（对比公版自由说）,B182:C182,True
+五十二点五度,五十二点五度,wu shi er dian wu du,canonical_intent,TCL意图表（对比公版自由说）,B183:C183,True
+五十三度,五十三度,wu shi san du,canonical_intent,TCL意图表（对比公版自由说）,B184:C184,True
+五十三点五度,五十三点五度,wu shi san dian wu du,canonical_intent,TCL意图表（对比公版自由说）,B185:C185,True
+五十四度,五十四度,wu shi si du,canonical_intent,TCL意图表（对比公版自由说）,B186:C186,True
+五十四点五度,五十四点五度,wu shi si dian wu du,canonical_intent,TCL意图表（对比公版自由说）,B187:C187,True
+五十五度,五十五度,wu shi wu du,canonical_intent,TCL意图表（对比公版自由说）,B188:C188,True
+五十五点五度,五十五点五度,wu shi wu dian wu du,canonical_intent,TCL意图表（对比公版自由说）,B189:C189,True
+最高温度,最高温度,zui gao wen du,canonical_intent | core_command | generic_command | offline_intent_definition,TCL 高频词 | TCL意图表（对比公版自由说）,B190:C190 | B66 | C66 | F66,True
+最低温度,最低温度,zui di wen du,canonical_intent | core_command | generic_command | offline_intent_definition,TCL 高频词 | TCL意图表（对比公版自由说）,B191:C191 | B69 | C69 | F69,True
+调高温度,调高温度,tiao gao wen du,canonical_intent | core_command | offline_intent_definition,TCL 高频词 | TCL意图表（对比公版自由说）,B192:C192 | B72 | C72,True
+调低温度,调低温度,tiao di wen du,canonical_intent | core_command | offline_intent_definition,TCL 高频词 | TCL意图表（对比公版自由说）,B193:C193 | B77 | C77,True
+最大风,最大风,zui da feng,canonical_intent | core_command | generic_command | offline_intent_definition,TCL 高频词 | TCL意图表（对比公版自由说）,B194:C194 | B82 | C82 | F82,True
+最小风,最小风,zui xiao feng,canonical_intent | core_command | generic_command | offline_intent_definition,TCL 高频词 | TCL意图表（对比公版自由说）,B195:C195 | B85 | C85 | G85,True
+强劲档,强劲档,qiang jing dang,canonical_intent | core_command | offline_intent_definition,TCL 高频词 | TCL意图表（对比公版自由说）,B196:C196 | B88 | C88,True
+关闭强劲,关闭强劲,guan bi qiang jing,canonical_intent | core_command | offline_intent_definition,TCL 高频词 | TCL意图表（对比公版自由说）,B197:C197 | B91 | C91,True
+高风档,高风档,gao feng dang,canonical_intent | core_command | offline_intent_definition,TCL 高频词 | TCL意图表（对比公版自由说）,B198:C198 | B94 | C94,True
+中风档,中风档,zhong feng dang,canonical_intent | core_command | generic_command | offline_intent_definition,TCL 高频词 | TCL意图表（对比公版自由说）,B100 | B199:C199 | C100 | G101,True
+低风档,低风档,di feng dang,canonical_intent | core_command | offline_intent_definition,TCL 高频词 | TCL意图表（对比公版自由说）,B106 | B200:C200 | C106,True
+静音档,静音档,jing yin dang,canonical_intent | core_command | generic_command | offline_intent_definition,TCL 高频词 | TCL意图表（对比公版自由说）,B109 | B201:C201 | C109 | M109,True
+关闭静音,关闭静音,guan bi jing yin,canonical_intent | core_command | offline_intent_definition,TCL 高频词 | TCL意图表（对比公版自由说）,B112 | B202:C202 | C112,True
+自动档,自动档,zi dong dang,canonical_intent | core_command | offline_intent_definition,TCL 高频词 | TCL意图表（对比公版自由说）,B115 | B203:C203 | C115,True
+增大风速,增大风速,zeng da feng su,canonical_intent | core_command | offline_intent_definition,TCL 高频词 | TCL意图表（对比公版自由说）,B118 | B204:C204 | C118,True
+减小风速,减小风速,jian xiao feng su,canonical_intent | core_command | generic_command | offline_intent_definition,TCL 高频词 | TCL意图表（对比公版自由说）,B123 | B205:C205 | C123 | K127,True
+中高风,中高风,zhong gao feng,canonical_intent | core_command | offline_intent_definition,TCL 高频词 | TCL意图表（对比公版自由说）,B206:C206 | B97 | C97,True
+中低风,中低风,zhong di feng,canonical_intent | core_command | offline_intent_definition,TCL 高频词 | TCL意图表（对比公版自由说）,B103 | B207:C207 | C103,True
+制冷模式,制冷模式,zhi leng mo shi,canonical_intent | core_command | offline_intent_definition,TCL 高频词 | TCL意图表（对比公版自由说）,B129 | B208:C208 | C129,True
+制热模式,制热模式,zhi re mo shi,canonical_intent | core_command | offline_intent_definition,TCL 高频词 | TCL意图表（对比公版自由说）,B133 | B209:C209 | C133,True
+送风模式,送风模式,song feng mo shi,canonical_intent | core_command | offline_intent_definition,TCL 高频词 | TCL意图表（对比公版自由说）,B138 | B210:C210 | C138,True
+除湿模式,除湿模式,chu shi mo shi,canonical_intent | core_command | offline_intent_definition,TCL 高频词 | TCL意图表（对比公版自由说）,B141 | B211:C211 | C141,True
+自动模式,自动模式,zi dong mo shi,canonical_intent | core_command | offline_intent_definition,TCL 高频词 | TCL意图表（对比公版自由说）,B144 | B212:C212 | C144,True
+打开上下左右摆风,打开上下左右摆风,da kai shang xia zuo you bai feng,canonical_intent | generic_command | offline_intent_definition,TCL 高频词 | TCL意图表（对比公版自由说）,B147 | B213:C213 | F150,True
+关闭上下左右摆风,关闭上下左右摆风,guan bi shang xia zuo you bai feng,canonical_intent | offline_intent_definition,TCL 高频词 | TCL意图表（对比公版自由说）,B153 | B214:C214,True
+打开上下摆风,打开上下摆风,da kai shang xia bai feng,canonical_intent | generic_command | offline_intent_definition,TCL 高频词 | TCL意图表（对比公版自由说）,B159 | B215:C215 | J160,True
+关闭上下摆风,关闭上下摆风,guan bi shang xia bai feng,canonical_intent | core_command | offline_intent_definition,TCL 高频词 | TCL意图表（对比公版自由说）,B163 | B216:C216 | C164,True
+打开左右摆风,打开左右摆风,da kai zuo you bai feng,canonical_intent | offline_intent_definition,TCL 高频词 | TCL意图表（对比公版自由说）,B166 | B217:C217,True
+关闭左右摆风,关闭左右摆风,guan bi zuo you bai feng,canonical_intent | core_command | offline_intent_definition,TCL 高频词 | TCL意图表（对比公版自由说）,B169 | B218:C218 | C170,True
+向上吹,向上吹,xiang shang chui,canonical_intent | core_command | generic_command | offline_intent_definition,TCL 高频词 | TCL意图表（对比公版自由说）,B172 | B219:C219 | C172 | E172,True
+向下吹,向下吹,xiang xia chui,canonical_intent | core_command | generic_command | offline_intent_definition,TCL 高频词 | TCL意图表（对比公版自由说）,B176 | B220:C220 | C176 | E176,True
+向中间吹,向中间吹,xiang zhong jian chui,canonical_intent | core_command | generic_command | offline_intent_definition,TCL 高频词 | TCL意图表（对比公版自由说）,B180 | B221:C221 | C180 | E180,True
+向左吹,向左吹,xiang zuo chui,canonical_intent | core_command | generic_command | offline_intent_definition,TCL 高频词 | TCL意图表（对比公版自由说）,B184 | B222:C222 | C184 | E184,True
+向右吹,向右吹,xiang you chui,canonical_intent | core_command | generic_command | offline_intent_definition,TCL 高频词 | TCL意图表（对比公版自由说）,B188 | B223:C223 | C188 | E188,True
+打开环抱风,打开环抱风,da kai huan bao feng,canonical_intent | core_command | offline_intent_definition,TCL 高频词 | TCL意图表（对比公版自由说）,B192 | B224:C224 | C192,True
+关闭环抱风,关闭环抱风,guan bi huan bao feng,canonical_intent | core_command | offline_intent_definition,TCL 高频词 | TCL意图表（对比公版自由说）,B196 | B225:C225 | C196,True
+打开左扫风,打开左扫风,da kai zuo sao feng,canonical_intent | core_command | offline_intent_definition,TCL 高频词 | TCL意图表（对比公版自由说）,B200 | B226:C226 | C200,True
+关闭左扫风,关闭左扫风,guan bi zuo sao feng,canonical_intent | core_command | offline_intent_definition,TCL 高频词 | TCL意图表（对比公版自由说）,B204 | B227:C227 | C204,True
+打开右扫风,打开右扫风,da kai you sao feng,canonical_intent | core_command | offline_intent_definition,TCL 高频词 | TCL意图表（对比公版自由说）,B208 | B228:C228 | C208,True
+关闭右扫风,关闭右扫风,guan bi you sao feng,canonical_intent | core_command | offline_intent_definition,TCL 高频词 | TCL意图表（对比公版自由说）,B212 | B229:C229 | C212,True
+打开柔风,打开柔风,da kai rou feng,canonical_intent | core_command | offline_intent_definition,TCL 高频词 | TCL意图表（对比公版自由说）,B216 | B230:C230 | C216,True
+关闭柔风,关闭柔风,guan bi rou feng,canonical_intent | core_command | offline_intent_definition,TCL 高频词 | TCL意图表（对比公版自由说）,B220 | B231:C231 | C220,True
+打开左柔风,打开左柔风,da kai zuo rou feng,canonical_intent | core_command | offline_intent_definition,TCL 高频词 | TCL意图表（对比公版自由说）,B229 | B232:C232 | C229,True
+关闭左柔风,关闭左柔风,guan bi zuo rou feng,canonical_intent | core_command | offline_intent_definition,TCL 高频词 | TCL意图表（对比公版自由说）,B232 | B233:C233 | C232,True
+打开右柔风,打开右柔风,da kai you rou feng,canonical_intent | core_command | offline_intent_definition,TCL 高频词 | TCL意图表（对比公版自由说）,B234:C234 | B235 | C235,True
+关闭右柔风,关闭右柔风,guan bi you rou feng,canonical_intent | core_command | offline_intent_definition,TCL 高频词 | TCL意图表（对比公版自由说）,B235:C235 | B238 | C238,True
+打开深度柔风,打开深度柔风,da kai shen du rou feng,canonical_intent | core_command | offline_intent_definition,TCL 高频词 | TCL意图表（对比公版自由说）,B223 | B236:C236 | C224,True
+关闭深度柔风,关闭深度柔风,guan bi shen du rou feng,canonical_intent | core_command | offline_intent_definition,TCL 高频词 | TCL意图表（对比公版自由说）,B226 | B237:C237 | C226,True
+打开灯光,打开灯光,da kai deng guang,canonical_intent | core_command | offline_intent_definition,TCL 高频词 | TCL意图表（对比公版自由说）,B238:C238 | B241 | C241,True
+关闭灯光,关闭灯光,guan bi deng guang,canonical_intent | core_command | offline_intent_definition,TCL 高频词 | TCL意图表（对比公版自由说）,B239:C239 | B245 | C245,True
+打开节能,打开节能,da kai jie neng,canonical_intent | core_command | offline_intent_definition,TCL 高频词 | TCL意图表（对比公版自由说）,B240:C240 | B250 | C250,True
+关闭节能,关闭节能,guan bi jie neng,canonical_intent | core_command | offline_intent_definition,TCL 高频词 | TCL意图表（对比公版自由说）,B241:C241 | B253 | C253,True
+打开睡眠,打开睡眠,da kai shui mian,canonical_intent | core_command | offline_intent_definition,TCL 高频词 | TCL意图表（对比公版自由说）,B242:C242 | B256 | C256,True
+关闭睡眠,关闭睡眠,guan bi shui mian,canonical_intent | core_command | generic_command | offline_intent_definition,TCL 高频词 | TCL意图表（对比公版自由说）,B243:C243 | B262 | C262 | I263,True
+打开自清洁,打开自清洁,da kai zi qing jie,canonical_intent | core_command | offline_intent_definition,TCL 高频词 | TCL意图表（对比公版自由说）,B244:C244 | B266 | C266,True
+关闭自清洁,关闭自清洁,guan bi zi qing jie,canonical_intent | core_command | offline_intent_definition,TCL 高频词 | TCL意图表（对比公版自由说）,B245:C245 | B270 | C270,True
+打开辅热,打开辅热,da kai fu re,canonical_intent | core_command | offline_intent_definition,TCL 高频词 | TCL意图表（对比公版自由说）,B246:C246 | B274 | C274,True
+关闭辅热,关闭辅热,guan bi fu re,canonical_intent | core_command | offline_intent_definition,TCL 高频词 | TCL意图表（对比公版自由说）,B247:C247 | B278 | C278,True
+增大音量,增大音量,zeng da yin liang,canonical_intent | core_command | offline_intent_definition,TCL 高频词 | TCL意图表（对比公版自由说）,B248:C248 | B283 | C283,True
+降低音量,降低音量,jiang di yin liang,canonical_intent | core_command | generic_command | offline_intent_definition,TCL 高频词 | TCL意图表（对比公版自由说）,B249:C249 | B296 | C298 | G296,True
+中等音量,中等音量,zhong deng yin liang,canonical_intent | core_command | offline_intent_definition,TCL 高频词 | TCL意图表（对比公版自由说）,B250:C250 | B293 | C293,True
+最大音量,最大音量,zui da yin liang,canonical_intent | core_command | offline_intent_definition,TCL 高频词 | TCL意图表（对比公版自由说）,B251:C251 | B289 | C289,True
+最低音量,最低音量,zui di yin liang,canonical_intent | generic_command | offline_intent_definition,TCL 高频词 | TCL意图表（对比公版自由说）,B252:C252 | B302 | J303,True
+对我吹,对我吹,dui wo chui,canonical_intent | doa_command,DOA指令词 | TCL意图表（对比公版自由说）,B253:C253 | F20:H20,True
+别吹我,别吹我,bie chui wo,canonical_intent | doa_command,DOA指令词 | TCL意图表（对比公版自由说）,B254:C254 | F21:H21,True
+打开新风,打开新风,da kai xin feng,canonical_intent | core_command | offline_intent_definition,TCL 高频词 | TCL意图表（对比公版自由说）,B255:C255 | B305 | C306,True
+关闭新风,关闭新风,guan bi xin feng,canonical_intent | core_command | offline_intent_definition,TCL 高频词 | TCL意图表（对比公版自由说）,B256:C256 | B312 | C313,True
+增大新风,增大新风,zeng da xin feng,canonical_intent | core_command | offline_intent_definition,TCL 高频词 | TCL意图表（对比公版自由说）,B257:C257 | B318 | C318,True
+减小新风,减小新风,jian xiao xin feng,canonical_intent | core_command | offline_intent_definition,TCL 高频词 | TCL意图表（对比公版自由说）,B258:C258 | B324 | C324,True
+新风低风,新风低风,xin feng di feng,canonical_intent | core_command | offline_intent_definition,TCL 高频词 | TCL意图表（对比公版自由说）,B259:C259 | B329 | C329,True
+新风中风,新风中风,xin feng zhong feng,canonical_intent | core_command | offline_intent_definition,TCL 高频词 | TCL意图表（对比公版自由说）,B260:C260 | B332 | C332,True
+新风高风,新风高风,xin feng gao feng,canonical_intent | core_command | offline_intent_definition,TCL 高频词 | TCL意图表（对比公版自由说）,B261:C261 | B335 | C335,True
+新风自动风,新风自动风,xin feng zi dong feng,canonical_intent | generic_command | offline_intent_definition,TCL 高频词 | TCL意图表（对比公版自由说）,B262:C262 | B339 | J339,True
+新风最大风,新风最大风 | 新风高风,xin feng zui da feng,canonical_intent | generic_command,TCL 高频词 | TCL意图表（对比公版自由说）,B263:C263 | H336,True
+新风最小风,新风低风 | 新风最小风,xin feng zui xiao feng,canonical_intent | generic_command,TCL 高频词 | TCL意图表（对比公版自由说）,B264:C264 | I329,True
+呼吸模式,呼吸模式,hu xi mo shi,canonical_intent | core_command | offline_intent_definition,TCL 高频词 | TCL意图表（对比公版自由说）,B265:C265 | B342 | C342,True
+排气模式,排气模式,pai qi mo shi,canonical_intent | core_command | offline_intent_definition,TCL 高频词 | TCL意图表（对比公版自由说）,B266:C266 | B345 | C345,True
+打开防直吹,打开防直吹,da kai fang zhi chui,canonical_intent | core_command | offline_intent_definition,TCL 高频词 | TCL意图表（对比公版自由说）,B267:C267 | B348 | C348,True
+关闭防直吹,关闭防直吹,guan bi fang zhi chui,canonical_intent | core_command | offline_intent_definition,TCL 高频词 | TCL意图表（对比公版自由说）,B268:C268 | B351 | C351,True
+打开健康,打开健康,da kai jian kang,canonical_intent | core_command | generic_command | offline_intent_definition,TCL 高频词 | TCL意图表（对比公版自由说）,B269:C269 | B354 | C354 | E354,True
+关闭健康,关闭健康,guan bi jian kang,canonical_intent | core_command | generic_command | offline_intent_definition,TCL 高频词 | TCL意图表（对比公版自由说）,B270:C270 | B358 | C358 | E358,True
+打开除菌,打开除菌,da kai chu jun,canonical_intent | core_command | offline_intent_definition,TCL 高频词 | TCL意图表（对比公版自由说）,B271:C271 | B362 | C362,True
+关闭除菌,关闭除菌,guan bi chu jun,canonical_intent | core_command | offline_intent_definition,TCL 高频词 | TCL意图表（对比公版自由说）,B272:C272 | B366 | C366,True
+打开速冷,制冷模式 | 打开速冷,da kai su leng,canonical_intent | core_command | generic_command | offline_intent_definition,TCL 高频词 | TCL意图表（对比公版自由说）,B273:C273 | B370 | C370 | F370 | H129,True
+关闭速冷,关闭速冷,guan bi su leng,canonical_intent | core_command | generic_command | offline_intent_definition,TCL 高频词 | TCL意图表（对比公版自由说）,B274:C274 | B373 | C373 | F373,True
+打开爆炒,打开爆炒,da kai bao chao,canonical_intent | core_command | generic_command | offline_intent_definition,TCL 高频词 | TCL意图表（对比公版自由说）,B275:C275 | B376 | C376 | F376,True
+关闭爆炒,关闭爆炒,guan bi bao chao,canonical_intent | core_command | generic_command | offline_intent_definition,TCL 高频词 | TCL意图表（对比公版自由说）,B276:C276 | B379 | C379 | F379,True
+打开备菜,打开备菜,da kai bei cai,canonical_intent | core_command | generic_command | offline_intent_definition,TCL 高频词 | TCL意图表（对比公版自由说）,B277:C277 | B382 | C382 | F382,True
+关闭备菜,关闭备菜,guan bi bei cai,canonical_intent | core_command | generic_command | offline_intent_definition,TCL 高频词 | TCL意图表（对比公版自由说）,B278:C278 | B385 | C385 | F385,True
+打开防霉,打开防霉,da kai fang mei,canonical_intent | core_command | generic_command | offline_intent_definition,TCL 高频词 | TCL意图表（对比公版自由说）,B279:C279 | B388 | C388 | E388,True
+关闭防霉,关闭防霉,guan bi fang mei,canonical_intent | core_command | generic_command | offline_intent_definition,TCL 高频词 | TCL意图表（对比公版自由说）,B280:C280 | B391 | C391 | E391,True
+空调配网,空调配网,kong tiao pei wang,canonical_intent | offline_intent_definition,TCL 高频词 | TCL意图表（对比公版自由说）,B281:C281 | B394,True
+学习唤醒词,学习唤醒词,xue xi huan xing ci,canonical_intent | core_command | offline_intent_definition,TCL 高频词 | TCL意图表（对比公版自由说）,B282:C282 | B397 | C397,True
+删除唤醒词,删除唤醒词,shan chu huan xing ci,canonical_intent | core_command | offline_intent_definition,TCL 高频词 | TCL意图表（对比公版自由说）,B283:C283 | B400 | C400,True
+学习命令词,学习命令词,xue xi ming ling ci,canonical_intent | core_command | offline_intent_definition,TCL 高频词 | TCL意图表（对比公版自由说）,B284:C284 | B403 | C403,True
+删除命令词,删除命令词,shan chu ming ling ci,canonical_intent | core_command | offline_intent_definition,TCL 高频词 | TCL意图表（对比公版自由说）,B285:C285 | B406 | C406,True
+删除全部命令词,删除全部命令词,shan chu quan bu ming ling ci,canonical_intent | core_command | offline_intent_definition,TCL 高频词 | TCL意图表（对比公版自由说）,B286:C286 | B409 | C409,True
+打开净化模式,打开净化模式,da kai jing hua mo shi,canonical_intent | core_command | generic_command | offline_intent_definition,TCL 高频词 | TCL意图表（对比公版自由说）,B287:C287 | B412 | D412 | E412,True
+关闭净化模式,关闭净化模式 | 关闭新风,guan bi jing hua mo shi,canonical_intent | core_command | generic_command | offline_intent_definition,TCL 高频词 | TCL意图表（对比公版自由说）,B288:C288 | B415 | C417 | G316,True
+增大净化风速,增大净化风速,zeng da jing hua feng su,canonical_intent | offline_intent_definition,TCL 高频词 | TCL意图表（对比公版自由说）,B289:C289 | B418,True
+减小净化风速,减小净化风速,jian xiao jing hua feng su,canonical_intent | offline_intent_definition,TCL 高频词 | TCL意图表（对比公版自由说）,B290:C290 | B421,True
+净化最小风,净化最小风,jing hua zui xiao feng,canonical_intent | core_command | offline_intent_definition,TCL 高频词 | TCL意图表（对比公版自由说）,B291:C291 | B424 | C424,True
+净化最大风,净化最大风,jing hua zui da feng,canonical_intent | core_command | offline_intent_definition,TCL 高频词 | TCL意图表（对比公版自由说）,B292:C292 | B427 | C427,True
+净化低风,净化低风,jing hua di feng,canonical_intent | core_command | offline_intent_definition,TCL 高频词 | TCL意图表（对比公版自由说）,B293:C293 | B430 | C430,True
+净化中风,净化中风,jing hua zhong feng,canonical_intent | core_command | offline_intent_definition,TCL 高频词 | TCL意图表（对比公版自由说）,B294:C294 | B433 | C433,True
+净化高风,净化高风,jing hua gao feng,canonical_intent | core_command | offline_intent_definition,TCL 高频词 | TCL意图表（对比公版自由说）,B295:C295 | B436 | C436,True
+净化自动风,净化自动风,jing hua zi dong feng,canonical_intent | core_command | offline_intent_definition,TCL 高频词 | TCL意图表（对比公版自由说）,B296:C296 | B439 | C439,True
+挂断电话,挂断电话,gua duan dian hua,canonical_intent | core_command | offline_intent_definition,TCL 高频词 | TCL意图表（对比公版自由说）,B297:C297 | B442 | C442,True
+打开雷达,打开雷达,da kai lei da,canonical_intent | core_command | offline_intent_definition,TCL 高频词 | TCL意图表（对比公版自由说）,B298:C298 | B445 | C445,True
+关闭雷达,关闭雷达,guan bi lei da,canonical_intent | core_command | offline_intent_definition,TCL 高频词 | TCL意图表（对比公版自由说）,B299:C299 | B448 | C448,True
+风吹人,风吹人,feng chui ren,canonical_intent | core_command | offline_intent_definition,TCL 高频词 | TCL意图表（对比公版自由说）,B300:C300 | B451 | C453,True
+关闭风吹人,关闭风吹人,guan bi feng chui ren,canonical_intent | core_command | offline_intent_definition,TCL 高频词 | TCL意图表（对比公版自由说）,B301:C301 | B454 | C456,True
+风避人,风避人,feng bi ren,canonical_intent | core_command | offline_intent_definition,TCL 高频词 | TCL意图表（对比公版自由说）,B302:C302 | B457 | C459,True
+关闭风避人,关闭风避人,guan bi feng bi ren,canonical_intent | core_command | offline_intent_definition,TCL 高频词 | TCL意图表（对比公版自由说）,B303:C303 | B460 | C462,True
+打开蓝牙,打开蓝牙,da kai lan ya,canonical_intent | core_command | offline_intent_definition,TCL 高频词 | TCL意图表（对比公版自由说）,B304:C304 | B463 | C464,True
+关闭蓝牙,关闭蓝牙,guan bi lan ya,canonical_intent | core_command | offline_intent_definition,TCL 高频词 | TCL意图表（对比公版自由说）,B305:C305 | B466 | C466,True
+打开夜灯,打开夜灯,da kai ye deng,canonical_intent | core_command | offline_intent_definition,TCL 高频词 | TCL意图表（对比公版自由说）,B306:C306 | B469 | C469,True
+关闭夜灯,关闭夜灯,guan bi ye deng,canonical_intent | core_command | offline_intent_definition,TCL 高频词 | TCL意图表（对比公版自由说）,B307:C307 | B472 | C472,True
+调温度,调温度,tiao wen du,canonical_intent | core_command | offline_intent_definition,TCL 高频词 | TCL意图表（对比公版自由说）,B308:C308 | B475 | C475,True
+调风速,调风速,tiao feng su,canonical_intent | core_command | offline_intent_definition,TCL 高频词 | TCL意图表（对比公版自由说）,B309:C309 | B478 | C478,True
+调模式,调模式,tiao mo shi,canonical_intent | core_command | offline_intent_definition,TCL 高频词 | TCL意图表（对比公版自由说）,B310:C310 | B481 | C481,True
+调音量,调音量,tiao yin liang,canonical_intent | core_command | offline_intent_definition,TCL 高频词 | TCL意图表（对比公版自由说）,B311:C311 | B484 | C484,True
+调风摆,调风摆,tiao feng bai,canonical_intent | core_command | offline_intent_definition,TCL 高频词 | TCL意图表（对比公版自由说）,B312:C312 | B487 | C487,True
+打开AI模式,打开AI模式,,canonical_intent | offline_intent_definition,TCL 高频词 | TCL意图表（对比公版自由说）,B313:C313 | B490,True
+关闭AI模式,关闭AI模式,,canonical_intent | core_command | offline_intent_definition,TCL 高频词 | TCL意图表（对比公版自由说）,B314:C314 | B493 | C493,True
+打开离家模式,打开离家模式,,canonical_intent | core_command | offline_intent_definition,TCL 高频词 | TCL意图表（对比公版自由说）,B315:C315 | B496 | C497,True
+关闭离家模式,关闭离家模式,,canonical_intent | core_command | offline_intent_definition,TCL 高频词 | TCL意图表（对比公版自由说）,B316:C316 | B499 | C499,True
+打开全域风,打开全域风,,canonical_intent | core_command | offline_intent_definition,TCL 高频词 | TCL意图表（对比公版自由说）,B317:C317 | B502 | C504,True
+关闭全域风,关闭全域风,,canonical_intent | core_command | offline_intent_definition,TCL 高频词 | TCL意图表（对比公版自由说）,B318:C318 | B505 | C505,True
+打开全域无风,打开全域无风,,canonical_intent | core_command | offline_intent_definition,TCL 高频词 | TCL意图表（对比公版自由说）,B319:C319 | B508 | C510,True
+关闭全域无风,关闭全域无风,,canonical_intent | core_command | offline_intent_definition,TCL 高频词 | TCL意图表（对比公版自由说）,B320:C320 | B511 | C511,True
+打开人近风柔,打开人近风柔,,canonical_intent | core_command | offline_intent_definition,TCL 高频词 | TCL意图表（对比公版自由说）,B321:C321 | B514 | C514 | C515,True
+关闭人近风柔,关闭人近风柔,,canonical_intent | core_command | offline_intent_definition,TCL 高频词 | TCL意图表（对比公版自由说）,B322:C322 | B517 | C517 | C518,True
+打开人远风强,打开人远风强,,canonical_intent | core_command | offline_intent_definition,TCL 高频词 | TCL意图表（对比公版自由说）,B323:C323 | B520 | C520,True
+关闭人远风强,关闭人远风强,,canonical_intent | core_command | offline_intent_definition,TCL 高频词 | TCL意图表（对比公版自由说）,B324:C324 | B523 | C523,True
+打开人走节能,打开人走节能,,canonical_intent | core_command | offline_intent_definition,TCL 高频词 | TCL意图表（对比公版自由说）,B325:C325 | B526 | C526,True
+关闭人走节能,关闭人走节能,,canonical_intent | core_command | offline_intent_definition,TCL 高频词 | TCL意图表（对比公版自由说）,B326:C326 | B529 | C529,True
+打开唯一唤醒,打开唯一唤醒,,canonical_intent | core_command | offline_intent_definition,TCL 高频词 | TCL意图表（对比公版自由说）,B327:C327 | B532 | C532,True
+关闭唯一唤醒,关闭唯一唤醒,,canonical_intent | core_command | offline_intent_definition,TCL 高频词 | TCL意图表（对比公版自由说）,B328:C328 | B533 | C533,True
+开机,打开空调,,core_command | generic_command,TCL 高频词,C3 | F3,True
+打开采暖机,打开空调,,core_command,TCL 高频词,D3,True
+空调开开,打开空调,,generic_command,TCL 高频词,E3,True
+开空调,打开空调,,core_command | generic_command,TCL 高频词,C5 | G3,True
+空调打开,打开空调,,generic_command,TCL 高频词,H3,True
+开启空调,打开空调,,generic_command,TCL 高频词,I3,True
+空调开机,打开空调,,generic_command,TCL 高频词,J3,True
+空调开启,打开空调,,generic_command,TCL 高频词,K3,True
+启动空调,打开空调,,generic_command,TCL 高频词,F4 | L3,True
+空调启动,打开空调,,generic_command,TCL 高频词,M3,True
+开开空调,打开空调,,generic_command,TCL 高频词,N3,True
+不要关闭空调,打开空调,,generic_command,TCL 高频词,O3,True
+不要关机,打开空调,,generic_command,TCL 高频词,P3,True
+打开空气能,打开空调,,core_command,TCL 高频词,D4,True
+开一下空调,打开空调,,generic_command,TCL 高频词,E4,True
+空调开,打开空调,,generic_command,TCL 高频词,G4,True
+打开电源,打开空调,,generic_command,TCL 高频词,H4,True
+空调开起来,打开空调,,generic_command,TCL 高频词,I4,True
+不要关空调,打开空调,,generic_command,TCL 高频词,J4,True
+打开热泵,打开空调,,core_command,TCL 高频词,D5,True
+关机,关闭空调,,core_command | generic_command,TCL 高频词,C6 | E6,True
+关闭采暖机,关闭空调,,core_command,TCL 高频词,D6,True
+关空调,关闭空调,,generic_command,TCL 高频词,F6,True
+关掉空调,关闭空调,,generic_command,TCL 高频词,G6,True
+空调关闭,关闭空调,,generic_command,TCL 高频词,H6,True
+空调关了,关闭空调,,generic_command,TCL 高频词,I6,True
+空调关掉,关闭空调,,generic_command,TCL 高频词,J6,True
+空调关,关闭空调,,generic_command,TCL 高频词,K6,True
+空调停止,关闭空调,,generic_command,TCL 高频词,L6,True
+结束空调,关闭空调,,generic_command,TCL 高频词,M6,True
+不要开机,关闭空调,,generic_command,TCL 高频词,N6,True
+不要开空调,关闭空调,,generic_command,TCL 高频词,O6,True
+不要打开空调,关闭空调,,generic_command,TCL 高频词,P6,True
+关闭空气能,关闭空调,,core_command,TCL 高频词,D7,True
+关一下空调,关闭空调,,generic_command,TCL 高频词,E7,True
+关上空调,关闭空调,,generic_command,TCL 高频词,F7,True
+空调关机,关闭空调,,generic_command,TCL 高频词,G7,True
+关了空调,关闭空调,,generic_command,TCL 高频词,H7,True
+空调关上,关闭空调,,generic_command,TCL 高频词,I7,True
+停止空调,关闭空调,,generic_command,TCL 高频词,J7,True
+停空调,关闭空调,,generic_command,TCL 高频词,K7,True
+关闭热泵,关闭空调,,core_command,TCL 高频词,D8,True
+定时N小时,定时N小时,,core_command | offline_intent_definition | parameter_template_not_playable,TCL 高频词,B9 | B9/B15/B18/B63 | C9,True
+定时N小时开机,定时N小时开机,,core_command | offline_intent_definition | parameter_template_not_playable,TCL 高频词,B15 | B9/B15/B18/B63 | C15,True
+定时N小时关机,定时N小时关机,,core_command | offline_intent_definition | parameter_template_not_playable,TCL 高频词,B18 | B9/B15/B18/B63 | C18,True
+客厅空调开机,打开客厅空调,,core_command,TCL 高频词,C21,True
+客厅空调关机,关闭客厅空调,,core_command,TCL 高频词,C24,True
+主卧空调开机,打开主卧空调,,core_command,TCL 高频词,C27,True
+主卧空调关机,关闭主卧空调,,core_command,TCL 高频词,C30,True
+次卧空调开机,打开次卧空调,,core_command,TCL 高频词,C33,True
+次卧空调关机,关闭次卧空调,,core_command,TCL 高频词,C36,True
+书房空调开机,打开书房空调,,core_command,TCL 高频词,C39,True
+书房空调关机,关闭书房空调,,core_command,TCL 高频词,C42,True
+厨房空调开机,打开厨房空调,,core_command,TCL 高频词,C45,True
+厨房空调关机,关闭厨房空调,,core_command,TCL 高频词,C48,True
+儿童房空调开机,打开儿童房空调,,core_command,TCL 高频词,C51,True
+儿童房空调关机,关闭儿童房空调,,core_command,TCL 高频词,C54,True
+长辈房空调开机,打开老人房空调,,core_command,TCL 高频词,C57,True
+打开长辈房空调,打开老人房空调,,core_command,TCL 高频词,C58,True
+长辈房空调关机,关闭老人房空调,,core_command,TCL 高频词,C60,True
+关闭长辈房空调,关闭老人房空调,,core_command,TCL 高频词,C61,True
+N度（N = 10~55，精度0.5度）,N度（N = 10~55，精度0.5度）,,offline_intent_definition,TCL 高频词,B63,True
+N度,N度 | N度（N = 10~55，精度0.5度）,,core_command | parameter_template_not_playable,TCL 高频词,B9/B15/B18/B63 | C63,True
+调到N度,N度（N = 10~55，精度0.5度）,,generic_command,TCL 高频词,E63,True
+温度调到N度,N度（N = 10~55，精度0.5度）,,generic_command,TCL 高频词,F63,True
+空调调到N度,N度（N = 10~55，精度0.5度）,,generic_command,TCL 高频词,G63,True
+空调开到N度,N度（N = 10~55，精度0.5度）,,generic_command,TCL 高频词,H63,True
+空调调至N度,N度（N = 10~55，精度0.5度）,,generic_command,TCL 高频词,I63,True
+开到N度,N度（N = 10~55，精度0.5度）,,generic_command,TCL 高频词,J63,True
+调成N度,N度（N = 10~55，精度0.5度）,,generic_command,TCL 高频词,K63,True
+最大温度,最高温度,,generic_command,TCL 高频词,E66,True
+温度调到最高,最高温度,,generic_command,TCL 高频词,G66,True
+调到最高温度,最高温度,,generic_command,TCL 高频词,H66,True
+调到最大温度,最高温度,,generic_command,TCL 高频词,I66,True
+温度调到最大,最高温度,,generic_command,TCL 高频词,J66,True
+最小温度,最低温度,,generic_command,TCL 高频词,E69,True
+温度调到最低,最低温度,,generic_command,TCL 高频词,G69,True
+调到最低温度,最低温度,,generic_command,TCL 高频词,H69,True
+调到最小温度,最低温度,,generic_command,TCL 高频词,I69,True
+温度调到最小,最低温度,,generic_command,TCL 高频词,J69,True
+调大温度,调高温度,,core_command,TCL 高频词,D72,True
+提高温度,调高温度,,generic_command,TCL 高频词,E72,True
+空调太冷了,调高温度,,generic_command,TCL 高频词,F72,True
+调高一度,调高温度,,core_command | generic_command,TCL 高频词,C74 | G72,True
+温度高一点,调高温度,,generic_command,TCL 高频词,H72,True
+升高一度,调高温度,,generic_command,TCL 高频词,I72,True
+温度升高,调高温度,,generic_command,TCL 高频词,J72,True
+好冷啊,调高温度,,generic_command,TCL 高频词,K72,True
+有点凉,调高温度,,generic_command,TCL 高频词,L72,True
+冷死了,调高温度,,generic_command,TCL 高频词,M72,True
+我好冷,调高温度,,generic_command,TCL 高频词,N72,True
+非常冷,调高温度,,generic_command,TCL 高频词,O72,True
+好冻啊,调高温度,,generic_command,TCL 高频词,P72 | P73,True
+升高温度,调高温度,,core_command,TCL 高频词,C73,True
+有点冷,调高温度,,core_command,TCL 高频词,D73,True
+调高一点温度,调高温度,,generic_command,TCL 高频词,E73,True
+增大一度,调高温度,,generic_command,TCL 高频词,F73,True
+上升温度,调高温度,,generic_command,TCL 高频词,G73,True
+温度提升,调高温度,,generic_command,TCL 高频词,H73,True
+升温,调高温度,,generic_command,TCL 高频词,I73,True
+风好凉,调高温度,,generic_command,TCL 高频词,J73,True
+冷死我了,调高温度,,generic_command,TCL 高频词,K73,True
+冻死我了,调高温度,,generic_command,TCL 高频词,L73,True
+太冻了,调高温度,,generic_command,TCL 高频词,M73,True
+冻死了,调高温度,,generic_command,TCL 高频词,N73,True
+超级冷,调高温度,,generic_command,TCL 高频词,O73,True
+太冷了,调高温度,,core_command,TCL 高频词,D74,True
+提高一度,调高温度,,generic_command,TCL 高频词,E74,True
+温度再高一点,调高温度,,generic_command,TCL 高频词,F74,True
+温度上升,调高温度,,generic_command,TCL 高频词,G74,True
+加一度,调高温度,,generic_command,TCL 高频词,H74,True
+升一度,调高温度,,generic_command,TCL 高频词,I74,True
+冷的不行了,调高温度,,generic_command,TCL 高频词,J74,True
+温度太低了,调高温度,,generic_command,TCL 高频词,K74,True
+还是冷,调高温度,,generic_command,TCL 高频词,L74,True
+我很冷,调高温度,,generic_command,TCL 高频词,M74,True
+上升一度,调高温度,,generic_command,TCL 高频词,N74,True
+再调高一度,调高温度,,generic_command,TCL 高频词,O74,True
+特别冷,调高温度,,generic_command,TCL 高频词,P74,True
+增大温度,调高温度,,core_command,TCL 高频词,C75,True
+温度加一,调高温度,,generic_command,TCL 高频词,E75,True
+温度加一度,调高温度,,generic_command,TCL 高频词,F75,True
+温度调高,调高温度,,generic_command,TCL 高频词,G75,True
+增加温度,调高温度,,generic_command,TCL 高频词,H75,True
+增加一度,调高温度,,generic_command,TCL 高频词,I75,True
+有些冷,调高温度,,generic_command,TCL 高频词,J75,True
+调热一点,调高温度,,generic_command,TCL 高频词,K75,True
+再高一度,调高温度,,generic_command,TCL 高频词,L75,True
+调热一些,调高温度,,generic_command,TCL 高频词,M75,True
+温度高点,调高温度,,generic_command,TCL 高频词,N75,True
+暖和点,调高温度,,generic_command,TCL 高频词,O75,True
+加大温度,调高温度,,core_command,TCL 高频词,C76,True
+太热了,调低温度,,core_command,TCL 高频词,D77,True
+调低一度,调低温度,,core_command | generic_command,TCL 高频词,C79 | E77,True
+降低一度,调低温度,,generic_command,TCL 高频词,F77,True
+温度调低一点,调低温度,,generic_command,TCL 高频词,G77,True
+空调太热了,调低温度,,generic_command,TCL 高频词,H77,True
+温度低一点,调低温度,,generic_command,TCL 高频词,I77,True
+温度降低,调低温度,,generic_command,TCL 高频词,J77,True
+温度降低一度,调低温度,,generic_command,TCL 高频词,K77,True
+空调调低一点,调低温度,,generic_command,TCL 高频词,L77,True
+温度降一度,调低温度,,generic_command,TCL 高频词,M77,True
+下调一度,调低温度,,generic_command,TCL 高频词,N77,True
+我很热,调低温度,,generic_command,TCL 高频词,O77,True
+下降温度,调低温度,,generic_command,TCL 高频词,P77,True
+降低温度,调低温度,,core_command,TCL 高频词,C78,True
+有点热,调低温度,,core_command,TCL 高频词,D78,True
+下降一度,调低温度,,generic_command,TCL 高频词,E78,True
+减小一度,调低温度,,generic_command,TCL 高频词,F78,True
+减一度,调低温度,,generic_command,TCL 高频词,G78,True
+调低一点温度,调低温度,,generic_command,TCL 高频词,H78,True
+降温,调低温度,,generic_command,TCL 高频词,I78,True
+我好讷,调低温度,,generic_command,TCL 高频词,J78,True
+我好乐,调低温度,,generic_command,TCL 高频词,K78,True
+温度减一,调低温度,,generic_command,TCL 高频词,L78,True
+温度再低一点,调低温度,,generic_command,TCL 高频词,M78,True
+温度下降,调低温度,,generic_command,TCL 高频词,N78,True
+温度减一度,调低温度,,generic_command,TCL 高频词,O78,True
+温度调低,调低温度,,generic_command,TCL 高频词,P78,True
+好热啊,调低温度,,generic_command,TCL 高频词,E79,True
+热死了,调低温度,,generic_command,TCL 高频词,F79,True
+我好热,调低温度,,generic_command,TCL 高频词,G79,True
+非常热,调低温度,,generic_command,TCL 高频词,H79,True
+超级热,调低温度,,generic_command,TCL 高频词,I79,True
+特别热,调低温度,,generic_command,TCL 高频词,J79,True
+风好热,调低温度,,generic_command,TCL 高频词,K79,True
+再调低一度,调低温度,,generic_command,TCL 高频词,L79 | P79,True
+热的不行了,调低温度,,generic_command,TCL 高频词,M79,True
+热死我了,调低温度,,generic_command,TCL 高频词,N79,True
+温度太高了,调低温度,,generic_command,TCL 高频词,O79,True
+调小温度,调低温度,,core_command,TCL 高频词,C80,True
+有些热,调低温度,,generic_command,TCL 高频词,E80,True
+再降低一度,调低温度,,generic_command,TCL 高频词,F80,True
+调冷一度,调低温度,,generic_command,TCL 高频词,G80,True
+再低一度,调低温度,,generic_command,TCL 高频词,H80,True
+调冷一些,调低温度,,generic_command,TCL 高频词,I80,True
+温度低点,调低温度,,generic_command,TCL 高频词,J80,True
+凉快点,调低温度,,generic_command,TCL 高频词,K80,True
+减小温度,调低温度,,core_command,TCL 高频词,C81,True
+风速调到最大,最大风,,generic_command,TCL 高频词,E82,True
+风速最大,最大风,,generic_command,TCL 高频词,G82,True
+最大风量,最大风,,generic_command,TCL 高频词,H82,True
+最高风速,最大风,,generic_command,TCL 高频词,I82,True
+风速调到最高,最大风,,generic_command,TCL 高频词,J82,True
+调到最高风,最大风,,generic_command,TCL 高频词,K82,True
+调到最大风速,最大风,,generic_command,TCL 高频词,L82,True
+风量调到最大,最大风,,generic_command,TCL 高频词,M82,True
+风开到最大,最大风,,generic_command,TCL 高频词,N82,True
+风调到最大,最大风,,generic_command,TCL 高频词,O82,True
+风速开到最大,最大风,,generic_command,TCL 高频词,P82,True
+风量最大,最大风,,generic_command,TCL 高频词,E83,True
+风力开到最大,最大风,,generic_command,TCL 高频词,F83,True
+调到最高风速,最大风,,generic_command,TCL 高频词,G83,True
+调到最大风量,最大风,,generic_command,TCL 高频词,H83,True
+最大风力,最大风,,generic_command,TCL 高频词,I83,True
+开最大风,最大风,,generic_command,TCL 高频词,J83,True
+调到最大风,最大风,,generic_command,TCL 高频词,K83,True
+风力调到最大,最大风,,generic_command,TCL 高频词,L83,True
+把风速调到最高,最大风,,generic_command,TCL 高频词,M83,True
+最高风,最大风,,generic_command,TCL 高频词,N83,True
+风最大,最大风,,generic_command,TCL 高频词,O83,True
+风速调到最低,最小风,,generic_command,TCL 高频词,E85,True
+风速调到最小,最小风,,generic_command,TCL 高频词,F85,True
+最低风速,最小风,,generic_command,TCL 高频词,H85,True
+风速最小,最小风,,generic_command,TCL 高频词,I85,True
+把风速调到最低,最小风,,generic_command,TCL 高频词,J85,True
+风开到最小,最小风,,generic_command,TCL 高频词,K85,True
+风调到最小,最小风,,generic_command,TCL 高频词,L85,True
+调到最低风速,最小风,,generic_command,TCL 高频词,M85,True
+最小风量,最小风,,generic_command,TCL 高频词,N85,True
+风速开到最小,最小风,,generic_command,TCL 高频词,O85,True
+风力调到最小,最小风,,generic_command,TCL 高频词,P85,True
+风力开到最小,最小风,,generic_command,TCL 高频词,E86,True
+最小风力,最小风,,generic_command,TCL 高频词,F86,True
+开最小风,最小风,,generic_command,TCL 高频词,G86,True
+风速最低,最小风,,generic_command,TCL 高频词,H86,True
+风量最小,最小风,,generic_command,TCL 高频词,I86,True
+最低风,最小风,,generic_command,TCL 高频词,J86,True
+风最小,最小风,,generic_command,TCL 高频词,K86,True
+开一下强力,强劲档,,generic_command,TCL 高频词,E88,True
+开一下强力风,强劲档,,generic_command,TCL 高频词,F88,True
+强力风速,强劲档,,generic_command,TCL 高频词,G88,True
+强力模式,强劲档,,generic_command,TCL 高频词,H88,True
+强力风,强劲档,,generic_command,TCL 高频词,I88,True
+开强力,强劲档,,generic_command,TCL 高频词,J88,True
+打开强风,强劲档,,generic_command,TCL 高频词,K88,True
+打开强力模式,强劲档,,generic_command,TCL 高频词,L88,True
+开启强力模式,强劲档,,generic_command,TCL 高频词,M88,True
+风挡设为强力,强劲档,,generic_command,TCL 高频词,N88,True
+强力档,强劲档,,generic_command,TCL 高频词,O88,True
+风速设为强力,强劲档,,generic_command,TCL 高频词,P88,True
+打开强劲,强劲档,,core_command | generic_command,TCL 高频词,C89 | J89,True
+开强风,强劲档,,generic_command,TCL 高频词,E89,True
+开启强力,强劲档,,generic_command,TCL 高频词,F89,True
+开启强力风速,强劲档,,generic_command,TCL 高频词,G89,True
+开启强风,强劲档,,generic_command,TCL 高频词,H89,True
+强劲风速,强劲档,,generic_command,TCL 高频词,I89,True
+打开强力,强劲档,,generic_command,TCL 高频词,K89,True
+超强风档,强劲档,,generic_command,TCL 高频词,L89,True
+打开强力风速,强劲档,,generic_command,TCL 高频词,M89,True
+强劲风,强劲档,,generic_command,TCL 高频词,N89,True
+强风模式,强劲档,,generic_command,TCL 高频词,O89,True
+强劲模式,强劲档,,generic_command,TCL 高频词,P89,True
+高风,高风档,,generic_command,TCL 高频词,E94,True
+大风,高风档,,generic_command,TCL 高频词,F94,True
+调到高风速,高风档,,generic_command,TCL 高频词,G94,True
+打开高风速,高风档,,generic_command,TCL 高频词,H94,True
+调成高风速,高风档,,generic_command,TCL 高频词,I94,True
+开高风,高风档,,generic_command,TCL 高频词,J94,True
+风速调到高风速,高风档,,generic_command,TCL 高频词,K94,True
+风速调到高档,高风档,,generic_command,TCL 高频词,L94,True
+风速调到高速,高风档,,generic_command,TCL 高频词,M94,True
+调到高风,高风档,,generic_command,TCL 高频词,N94,True
+调到大风,高风档,,generic_command,TCL 高频词,O94,True
+调到高风风速,高风档,,generic_command,TCL 高频词,P94,True
+打开高风,高风档,,generic_command,TCL 高频词,E95,True
+开一下大风,高风档,,generic_command,TCL 高频词,F95,True
+开一下高风,高风档,,generic_command,TCL 高频词,G95,True
+开一下高风速,高风档,,generic_command,TCL 高频词,H95,True
+开一下高速风,高风档,,generic_command,TCL 高频词,I95,True
+高级风,高风档,,generic_command,TCL 高频词,J95,True
+高速风,高风档,,generic_command,TCL 高频词,K95,True
+高风速,高风档,,generic_command,TCL 高频词,L95,True
+调到中风速,中风档,,generic_command,TCL 高频词,E100,True
+中风,中风档,,generic_command,TCL 高频词,F100,True
+风速调到中速,中风档,,generic_command,TCL 高频词,G100,True
+调到中风,中风档,,generic_command,TCL 高频词,H100,True
+调到中风风速,中风档,,generic_command,TCL 高频词,I100,True
+调到中速,中风档,,generic_command,TCL 高频词,J100,True
+风速调到中档,中风档,,generic_command,TCL 高频词,K100,True
+开中风,中风档,,generic_command,TCL 高频词,L100,True
+打开中风速,中风档,,generic_command,TCL 高频词,M100,True
+开一下中风,中风档,,generic_command,TCL 高频词,N100,True
+开一下中风速,中风档,,generic_command,TCL 高频词,O100,True
+开一下中速风,中风档,,generic_command,TCL 高频词,P100,True
+打开中速风,中风档,,generic_command,TCL 高频词,E101,True
+中等风,中风档,,generic_command,TCL 高频词,F101,True
+中档风,中风档,,generic_command,TCL 高频词,H101,True
+中速风,中风档,,generic_command,TCL 高频词,I101,True
+中级风,中风档,,generic_command,TCL 高频词,J101,True
+中风速,中风档,,generic_command,TCL 高频词,K101,True
+低风,低风档,,generic_command,TCL 高频词,E106,True
+调到低风速,低风档,,generic_command,TCL 高频词,F106,True
+调成低风速,低风档,,generic_command,TCL 高频词,G106,True
+打开低风,低风档,,generic_command,TCL 高频词,H106,True
+开低风,低风档,,generic_command,TCL 高频词,I106,True
+小风,低风档,,generic_command,TCL 高频词,J106,True
+打开低风速,低风档,,generic_command,TCL 高频词,K106,True
+低风速,低风档,,generic_command,TCL 高频词,L106,True
+风速调到低风速,低风档,,generic_command,TCL 高频词,M106,True
+风速调到低风档,低风档,,generic_command,TCL 高频词,N106,True
+风速调到低速,低风档,,generic_command,TCL 高频词,O106,True
+调到低风,低风档,,generic_command,TCL 高频词,P106,True
+调到低风风速,低风档,,generic_command,TCL 高频词,E107,True
+开一下低风,低风档,,generic_command,TCL 高频词,F107,True
+开一下小风,低风档,,generic_command,TCL 高频词,G107,True
+开一下低风速,低风档,,generic_command,TCL 高频词,H107,True
+开一下低速风,低风档,,generic_command,TCL 高频词,I107,True
+低级风,低风档,,generic_command,TCL 高频词,J107,True
+低速风,低风档,,generic_command,TCL 高频词,K107,True
+调到小风,低风档,,generic_command,TCL 高频词,L107,True
+调成低速风,低风档,,generic_command,TCL 高频词,M107,True
+低档风,低风档,,generic_command,TCL 高频词,N107,True
+静音风,静音档,,generic_command,TCL 高频词,E109,True
+调到静音风,静音档,,generic_command,TCL 高频词,F109,True
+设为静音风,静音档,,generic_command,TCL 高频词,G109,True
+静音风开启,静音档,,generic_command,TCL 高频词,H109,True
+打开静音风,静音档,,generic_command,TCL 高频词,I109,True
+打开静音档,静音档,,generic_command,TCL 高频词,J109,True
+打开静音,静音档,,core_command | generic_command,TCL 高频词,C110 | K109,True
+风挡设为静音,静音档,,generic_command,TCL 高频词,L109,True
+设为静音档,静音档,,generic_command,TCL 高频词,N109,True
+风速设为静音,静音档,,generic_command,TCL 高频词,O109,True
+静音模式,静音档,,generic_command,TCL 高频词,P109,True
+自动风速,自动档,,generic_command,TCL 高频词,E115,True
+风速自动,自动档,,generic_command,TCL 高频词,F115,True
+调成自动风,自动档,,generic_command,TCL 高频词,G115 | I115,True
+打开自动风,自动档,,generic_command,TCL 高频词,H115,True
+开一下自动风,自动档,,generic_command,TCL 高频词,J115,True
+开一下自动风速,自动档,,generic_command,TCL 高频词,K115,True
+风速调到自动,自动档,,generic_command,TCL 高频词,L115,True
+自动风,自动档,,generic_command,TCL 高频词,M115,True
+自动风档,自动档,,generic_command,TCL 高频词,N115,True
+风档自动,自动档,,generic_command,TCL 高频词,O115,True
+调大风量,增大风速,,generic_command,TCL 高频词,E118,True
+增大风量,增大风速,,generic_command,TCL 高频词,F118,True
+加大风速,增大风速,,core_command | generic_command,TCL 高频词,C119 | G118,True
+加大风量,增大风速,,generic_command,TCL 高频词,H118,True
+调大风速,增大风速,,core_command | generic_command,TCL 高频词,C121 | I118,True
+风速调大,增大风速,,generic_command,TCL 高频词,J118,True
+风速大一点,增大风速,,generic_command,TCL 高频词,K118,True
+风速调高,增大风速,,generic_command,TCL 高频词,L118,True
+风速加大,增大风速,,generic_command,TCL 高频词,M118,True
+风速调大一点,增大风速,,generic_command,TCL 高频词,N118,True
+风量调大,增大风速,,generic_command,TCL 高频词,O118,True
+风档升高,增大风速,,generic_command,TCL 高频词,P118,True
+加大风力,增大风速,,generic_command,TCL 高频词,E119,True
+调高风速,增大风速,,core_command | generic_command,TCL 高频词,C120 | F119,True
+风量加大,增大风速,,generic_command,TCL 高频词,G119,True
+升高风速,增大风速,,generic_command,TCL 高频词,H119,True
+风速调高一点,增大风速,,generic_command,TCL 高频词,I119,True
+增加风速,增大风速,,generic_command,TCL 高频词,J119,True
+风量调高,增大风速,,generic_command,TCL 高频词,K119,True
+风力加大,增大风速,,generic_command,TCL 高频词,L119,True
+风力调大,增大风速,,generic_command,TCL 高频词,M119,True
+风大一点,增大风速,,generic_command,TCL 高频词,N119,True
+增加风量,增大风速,,generic_command,TCL 高频词,O119,True
+调高风量,增大风速,,generic_command,TCL 高频词,P119,True
+风速太小了,增大风速,,generic_command,TCL 高频词,E120,True
+增大风档,增大风速,,generic_command,TCL 高频词,F120,True
+调大风档,增大风速,,generic_command,TCL 高频词,G120,True
+加大风档,增大风速,,generic_command,TCL 高频词,H120,True
+调高风档,增大风速,,generic_command,TCL 高频词,I120,True
+升高风档,增大风速,,generic_command,TCL 高频词,J120,True
+风档增大,增大风速,,generic_command,TCL 高频词,K120,True
+风档调大,增大风速,,generic_command,TCL 高频词,L120,True
+风档加大,增大风速,,generic_command,TCL 高频词,M120,True
+风档调高,增大风速,,generic_command,TCL 高频词,N120,True
+风再大一点,增大风速,,generic_command,TCL 高频词,O120,True
+提高风量,增大风速,,generic_command,TCL 高频词,P120,True
+大点风,增大风速,,generic_command,TCL 高频词,E121,True
+风大点,增大风速,,generic_command,TCL 高频词,F121,True
+调高一点风速,增大风速,,generic_command,TCL 高频词,G121,True
+增大一点风速,增大风速,,generic_command,TCL 高频词,H121,True
+风量大一点,增大风速,,generic_command,TCL 高频词,I121,True
+风速加一,增大风速,,generic_command,TCL 高频词,J121,True
+风太小了,增大风速,,generic_command,TCL 高频词,K121,True
+调低风速,减小风速,,core_command | generic_command,TCL 高频词,C127 | E123,True
+风速调低,减小风速,,generic_command,TCL 高频词,F123,True
+风速小一点,减小风速,,generic_command,TCL 高频词,G123,True
+风速调小,减小风速,,generic_command,TCL 高频词,H123,True
+调低风量,减小风速,,generic_command,TCL 高频词,I123,True
+风速降低,减小风速,,generic_command,TCL 高频词,J123,True
+风太大了,减小风速,,generic_command,TCL 高频词,K123,True
+风速调小一点,减小风速,,generic_command,TCL 高频词,L123,True
+减小风量,减小风速,,generic_command,TCL 高频词,M123,True
+风速调低一点,减小风速,,generic_command,TCL 高频词,N123,True
+风速小点声,减小风速,,generic_command,TCL 高频词,O123,True
+调小风速,减小风速,,core_command | generic_command,TCL 高频词,C125 | P123,True
+降低风速,减小风速,,core_command,TCL 高频词,C124,True
+降低风量,减小风速,,generic_command,TCL 高频词,E124,True
+风速减小,减小风速,,core_command | generic_command,TCL 高频词,C126 | F124,True
+调低风,减小风速,,generic_command,TCL 高频词,G124,True
+降低风,减小风速,,generic_command,TCL 高频词,H124,True
+风量调小,减小风速,,generic_command,TCL 高频词,I124,True
+风力小一点,减小风速,,generic_command,TCL 高频词,J124,True
+减小风,减小风速,,generic_command,TCL 高频词,K124,True
+风速低一点,减小风速,,generic_command,TCL 高频词,L124,True
+风小一点,减小风速,,generic_command,TCL 高频词,M124,True
+调小风量,减小风速,,generic_command,TCL 高频词,N124,True
+风速变小,减小风速,,generic_command,TCL 高频词,O124,True
+风速调低点,减小风速,,generic_command,TCL 高频词,P124,True
+风档减小,减小风速,,generic_command,TCL 高频词,E125,True
+风档调小,减小风速,,generic_command,TCL 高频词,F125,True
+风档降低,减小风速,,generic_command,TCL 高频词,G125,True
+风有点大,减小风速,,generic_command,TCL 高频词,H125,True
+风好大,减小风速,,generic_command,TCL 高频词,I125,True
+风很大,减小风速,,generic_command,TCL 高频词,J125,True
+风小点,减小风速,,generic_command,TCL 高频词,K125,True
+调低一点风速,减小风速,,generic_command,TCL 高频词,L125,True
+减少一点风速,减小风速,,generic_command,TCL 高频词,M125,True
+降低一点风速,减小风速,,generic_command,TCL 高频词,N125,True
+风调小一点,减小风速,,generic_command,TCL 高频词,O125,True
+风速调小点,减小风速,,generic_command,TCL 高频词,P125,True
+风量调低,减小风速,,generic_command,TCL 高频词,E126,True
+小点风,减小风速,,generic_command,TCL 高频词,F126,True
+风力调小,减小风速,,generic_command,TCL 高频词,G126,True
+风速小一些,减小风速,,generic_command,TCL 高频词,H126,True
+减少风速,减小风速,,generic_command,TCL 高频词,I126,True
+风量调小一点,减小风速,,generic_command,TCL 高频词,J126,True
+风速小,减小风速,,generic_command,TCL 高频词,K126,True
+风量小一点,减小风速,,generic_command,TCL 高频词,L126,True
+风量减小,减小风速,,generic_command,TCL 高频词,M126,True
+减少风量,减小风速,,generic_command,TCL 高频词,N126,True
+风力减小,减小风速,,generic_command,TCL 高频词,O126,True
+风档调低,减小风速,,generic_command,TCL 高频词,P126,True
+太大风了,减小风速,,generic_command,TCL 高频词,E127,True
+风量降低,减小风速,,generic_command,TCL 高频词,F127,True
+风速降低一点,减小风速,,generic_command,TCL 高频词,G127,True
+风速太大了,减小风速,,generic_command,TCL 高频词,H127,True
+风速低点,减小风速,,generic_command,TCL 高频词,I127,True
+减小风力,减小风速,,generic_command,TCL 高频词,J127,True
+减小风档,减小风速,,generic_command,TCL 高频词,L127,True
+调小风档,减小风速,,generic_command,TCL 高频词,M127,True
+降低风档,减小风速,,generic_command,TCL 高频词,N127,True
+调低风档,减小风速,,generic_command,TCL 高频词,O127,True
+制冷,制冷模式,,generic_command,TCL 高频词,E129,True
+打开制冷模式,制冷模式,,generic_command,TCL 高频词,F129,True
+打开制冷,制冷模式,,generic_command,TCL 高频词,G129,True
+打开空调制冷,制冷模式,,generic_command,TCL 高频词,I129,True
+打开空调制冷模式,制冷模式,,generic_command,TCL 高频词,J129,True
+空调制冷,制冷模式,,generic_command,TCL 高频词,K129,True
+打开冷风,制冷模式,,generic_command,TCL 高频词,L129,True
+开冷风,制冷模式,,generic_command,TCL 高频词,M129,True
+开启冷风,制冷模式,,generic_command,TCL 高频词,E130,True
+改成制冷模式,制冷模式,,generic_command,TCL 高频词,F130,True
+开一下制冷功能,制冷模式,,generic_command,TCL 高频词,G130,True
+调整为制冷模式,制冷模式,,generic_command,TCL 高频词,H130,True
+开制冷,制冷模式,,generic_command,TCL 高频词,I130,True
+换成制冷模式,制冷模式,,generic_command,TCL 高频词,J130,True
+改为制冷模式,制冷模式,,generic_command,TCL 高频词,K130,True
+开始制冷,制冷模式,,generic_command,TCL 高频词,G131 | L130,True
+开启制冷模式,制冷模式,,generic_command,TCL 高频词,M130,True
+打开制冷功能,制冷模式,,generic_command,TCL 高频词,E131,True
+开机制冷,制冷模式,,generic_command,TCL 高频词,F131,True
+开一下制冷,制冷模式,,generic_command,TCL 高频词,H131,True
+开启制冷,制冷模式,,generic_command,TCL 高频词,I131,True
+吹冷风,制冷模式,,generic_command,TCL 高频词,J131,True
+调成制冷模式,制冷模式,,generic_command,TCL 高频词,K131,True
+开一下制冷模式,制冷模式,,generic_command,TCL 高频词,L131,True
+我要冷气,制冷模式,,generic_command,TCL 高频词,M131,True
+请制冷,制冷模式,,generic_command,TCL 高频词,N131,True
+制热,制热模式,,generic_command,TCL 高频词,E133,True
+打开制热模式,制热模式,,generic_command,TCL 高频词,F133,True
+打开暖风,制热模式,,generic_command,TCL 高频词,G133,True
+打开制热,制热模式,,generic_command,TCL 高频词,H133,True
+打开热风,制热模式,,generic_command,TCL 高频词,I133,True
+开启制热模式,制热模式,,generic_command,TCL 高频词,J133,True
+调到制热模式,制热模式,,generic_command,TCL 高频词,K133,True
+开暖风,制热模式,,generic_command,TCL 高频词,L133,True
+调成制热模式,制热模式,,generic_command,TCL 高频词,M133,True
+打开空调制热模式,制热模式,,generic_command,TCL 高频词,N133,True
+打开空调制热,制热模式,,generic_command,TCL 高频词,O133,True
+开热风,制热模式,,generic_command,TCL 高频词,P133,True
+吹热风,制热模式,,generic_command,TCL 高频词,E134,True
+空调制热,制热模式,,generic_command,TCL 高频词,F134,True
+开启暖风,制热模式,,generic_command,TCL 高频词,G134,True
+暖风模式,制热模式,,generic_command,TCL 高频词,H134,True
+开启热风,制热模式,,generic_command,TCL 高频词,I134,True
+改成制热模式,制热模式,,generic_command,TCL 高频词,J134,True
+打开暖气,制热模式,,generic_command,TCL 高频词,K134,True
+调整为制热模式,制热模式,,generic_command,TCL 高频词,L134,True
+开暖气,制热模式,,generic_command,TCL 高频词,M134,True
+吹暖风,制热模式,,generic_command,TCL 高频词,N134,True
+开启制热,制热模式,,generic_command,TCL 高频词,O134,True
+打开空调暖风,制热模式,,generic_command,TCL 高频词,P134,True
+打开暖风模式,制热模式,,generic_command,TCL 高频词,E135,True
+打开空调热风,制热模式,,generic_command,TCL 高频词,F135,True
+热风模式,制热模式,,generic_command,TCL 高频词,G135,True
+空调制热模式,制热模式,,generic_command,TCL 高频词,H135,True
+调到制热,制热模式,,generic_command,TCL 高频词,I135,True
+换成制热模式,制热模式,,generic_command,TCL 高频词,J135,True
+调为制热模式,制热模式,,generic_command,TCL 高频词,K135,True
+调制热模式,制热模式,,generic_command,TCL 高频词,L135,True
+打开加热模式,制热模式,,generic_command,TCL 高频词,M135,True
+调成制热,制热模式,,generic_command,TCL 高频词,N135,True
+空调调到制热模式,制热模式,,generic_command,TCL 高频词,O135,True
+开始制热,制热模式,,generic_command,TCL 高频词,P135,True
+开机制热,制热模式,,generic_command,TCL 高频词,E136,True
+开启暖风模式,制热模式,,generic_command,TCL 高频词,F136,True
+空调加热,制热模式,,generic_command,TCL 高频词,G136,True
+改为制热模式,制热模式,,generic_command,TCL 高频词,H136,True
+打开制热功能,制热模式,,generic_command,TCL 高频词,I136,True
+开一下制热,制热模式,,generic_command,TCL 高频词,J136,True
+开一下加热,制热模式,,generic_command,TCL 高频词,K136,True
+开一下制热模式,制热模式,,generic_command,TCL 高频词,L136,True
+开一下加热模式,制热模式,,generic_command,TCL 高频词,M136,True
+开一下制热功能,制热模式,,generic_command,TCL 高频词,N136,True
+开一下加热功能,制热模式,,generic_command,TCL 高频词,O136,True
+加热模式,制热模式,,generic_command,TCL 高频词,P136,True
+我要暖气,制热模式,,generic_command,TCL 高频词,E137,True
+请制热,制热模式,,generic_command,TCL 高频词,F137,True
+打开送风模式,送风模式,,generic_command,TCL 高频词,E138,True
+打开送风,送风模式,,generic_command,TCL 高频词,F138,True
+开始吹风,送风模式,,generic_command,TCL 高频词,G138,True
+送风,送风模式,,generic_command,TCL 高频词,H138,True
+打开送风功能,送风模式,,generic_command,TCL 高频词,I138,True
+开启送风模式,送风模式,,generic_command,TCL 高频词,J138,True
+打开空调送风,送风模式,,generic_command,TCL 高频词,K138,True
+打开空调送风模式,送风模式,,generic_command,TCL 高频词,L138,True
+空调送风,送风模式,,generic_command,TCL 高频词,M138,True
+开送风,送风模式,,generic_command,TCL 高频词,N138,True
+调成送风模式,送风模式,,generic_command,TCL 高频词,O138,True
+改成送风模式,送风模式,,generic_command,TCL 高频词,P138,True
+调整为送风模式,送风模式,,generic_command,TCL 高频词,E139,True
+换成送风模式,送风模式,,generic_command,TCL 高频词,F139,True
+开启送风功能,送风模式,,generic_command,TCL 高频词,G139,True
+开机送风,送风模式,,generic_command,TCL 高频词,H139,True
+开一下送风,送风模式,,generic_command,TCL 高频词,I139,True
+开一下送风模式,送风模式,,generic_command,TCL 高频词,J139,True
+开一下送风功能,送风模式,,generic_command,TCL 高频词,K139,True
+切换到送风模式,送风模式,,generic_command,TCL 高频词,L139,True
+请送风,送风模式,,generic_command,TCL 高频词,M139,True
+打开除湿模式,除湿模式,,generic_command,TCL 高频词,E141,True
+除湿,除湿模式,,generic_command,TCL 高频词,F141,True
+打开除湿,除湿模式,,generic_command,TCL 高频词,G141,True
+打开除湿功能,除湿模式,,generic_command,TCL 高频词,H141,True
+开启除湿模式,除湿模式,,generic_command,TCL 高频词,I141,True
+打开空调除湿,除湿模式,,generic_command,TCL 高频词,J141,True
+打开空调除湿模式,除湿模式,,generic_command,TCL 高频词,K141,True
+空调除湿,除湿模式,,generic_command,TCL 高频词,L141,True
+开除湿,除湿模式,,generic_command,TCL 高频词,M141,True
+调成除湿模式,除湿模式,,generic_command,TCL 高频词,N141,True
+改成除湿模式,除湿模式,,generic_command,TCL 高频词,O141,True
+调整为除湿模式,除湿模式,,generic_command,TCL 高频词,P141,True
+换成除湿模式,除湿模式,,generic_command,TCL 高频词,E142,True
+开启除湿功能,除湿模式,,generic_command,TCL 高频词,F142,True
+开机除湿,除湿模式,,generic_command,TCL 高频词,G142,True
+开始除湿,除湿模式,,generic_command,TCL 高频词,H142,True
+开一下除湿,除湿模式,,generic_command,TCL 高频词,I142,True
+开一下除湿模式,除湿模式,,generic_command,TCL 高频词,J142,True
+开一下除湿功能,除湿模式,,generic_command,TCL 高频词,K142,True
+打开去湿,除湿模式,,generic_command,TCL 高频词,L142,True
+切换到除湿模式,除湿模式,,generic_command,TCL 高频词,M142,True
+去湿模式,除湿模式,,generic_command,TCL 高频词,N142,True
+开一下去湿,除湿模式,,generic_command,TCL 高频词,O142,True
+请除湿,除湿模式,,generic_command,TCL 高频词,P142,True
+打开自动模式,自动模式,,generic_command,TCL 高频词,E144,True
+自动模式打开,自动模式,,generic_command,TCL 高频词,F144,True
+开启自动模式,自动模式,,generic_command,TCL 高频词,F145 | G144,True
+自动模式开启,自动模式,,generic_command,TCL 高频词,H144,True
+打开自动,自动模式,,generic_command,TCL 高频词,I144,True
+自动打开,自动模式,,generic_command,TCL 高频词,J144,True
+打开自动功能,自动模式,,generic_command,TCL 高频词,K144,True
+自动功能打开,自动模式,,generic_command,TCL 高频词,L144,True
+开一下自动,自动模式,,generic_command,TCL 高频词,M144,True
+自动开一下,自动模式,,generic_command,TCL 高频词,N144,True
+开始自动模式,自动模式,,generic_command,TCL 高频词,O144,True
+自动模式开始,自动模式,,generic_command,TCL 高频词,P144,True
+启动自动模式,自动模式,,generic_command,TCL 高频词,E145,True
+切换到自动模式,自动模式,,generic_command,TCL 高频词,G145,True
+切换到自动,自动模式,,generic_command,TCL 高频词,H145,True
+打开扫风,打开上下左右摆风,,core_command,TCL 高频词,C147,True
+扫风打开,打开上下左右摆风,,generic_command,TCL 高频词,E147,True
+摆风打开,打开上下左右摆风,,generic_command,TCL 高频词,F147,True
+开摆风,打开上下左右摆风,,generic_command,TCL 高频词,G147,True
+开扫风,打开上下左右摆风,,generic_command,TCL 高频词,H147,True
+打开摇摆,打开上下左右摆风,,generic_command,TCL 高频词,I147,True
+摇摆打开,打开上下左右摆风,,generic_command,TCL 高频词,J147,True
+打开导风板,打开上下左右摆风,,generic_command,TCL 高频词,K147,True
+导风板打开,打开上下左右摆风,,generic_command,TCL 高频词,L147,True
+开导风板,打开上下左右摆风,,generic_command,TCL 高频词,M147,True
+开启摆风,打开上下左右摆风,,generic_command,TCL 高频词,N147,True
+摆风开启,打开上下左右摆风,,generic_command,TCL 高频词,O147,True
+开一下摆风,打开上下左右摆风,,generic_command,TCL 高频词,P147,True
+打开摆风,打开上下左右摆风,,core_command,TCL 高频词,C148,True
+开一下扫风,打开上下左右摆风,,generic_command,TCL 高频词,E148,True
+开启扫风,打开上下左右摆风,,generic_command,TCL 高频词,F148 | H151,True
+摆风开一下,打开上下左右摆风,,generic_command,TCL 高频词,G148,True
+开一下摇摆,打开上下左右摆风,,generic_command,TCL 高频词,H148,True
+扫风模式,打开上下左右摆风,,generic_command,TCL 高频词,I148,True
+摇摆动起来,打开上下左右摆风,,generic_command,TCL 高频词,J148,True
+全扫风,打开上下左右摆风,,generic_command,TCL 高频词,K148,True
+打开全扫风,打开上下左右摆风,,generic_command,TCL 高频词,L148,True
+全摆风,打开上下左右摆风,,generic_command,TCL 高频词,M148,True
+空调摆风摆起来,打开上下左右摆风,,generic_command,TCL 高频词,N148,True
+空调摆风扫起来,打开上下左右摆风,,generic_command,TCL 高频词,O148,True
+空调扫风摆起来,打开上下左右摆风,,generic_command,TCL 高频词,P148,True
+空调摇摆打开,打开上下左右摆风,,generic_command,TCL 高频词,E149,True
+开启空调摆风,打开上下左右摆风,,generic_command,TCL 高频词,F149,True
+开启空调扫风,打开上下左右摆风,,generic_command,TCL 高频词,G149,True
+开启空调摇摆,打开上下左右摆风,,generic_command,TCL 高频词,H149,True
+空调扫风开启,打开上下左右摆风,,generic_command,TCL 高频词,I149,True
+空调摆风开启,打开上下左右摆风,,generic_command,TCL 高频词,J149,True
+空调摇摆开启,打开上下左右摆风,,generic_command,TCL 高频词,K149,True
+开一下空调扫风,打开上下左右摆风,,generic_command,TCL 高频词,L149,True
+开一下空调摆风,打开上下左右摆风,,generic_command,TCL 高频词,M149,True
+开一下空调摇摆,打开上下左右摆风,,generic_command,TCL 高频词,N149,True
+空调扫风开一下,打开上下左右摆风,,generic_command,TCL 高频词,O149,True
+空调摆风开一下,打开上下左右摆风,,generic_command,TCL 高频词,P149,True
+空调扫风扫起来,打开上下左右摆风,,generic_command,TCL 高频词,E150,True
+打开上下左右扫风,打开上下左右摆风,,generic_command,TCL 高频词,G150,True
+摇摆开一下,打开上下左右摆风,,generic_command,TCL 高频词,H150,True
+扫风开起来,打开上下左右摆风,,generic_command,TCL 高频词,I150,True
+摆风开起来,打开上下左右摆风,,generic_command,TCL 高频词,J150,True
+摇摆开起来,打开上下左右摆风,,generic_command,TCL 高频词,K150,True
+打开空调摆风,打开上下左右摆风,,generic_command,TCL 高频词,L150,True
+打开空调扫风,打开上下左右摆风,,generic_command,TCL 高频词,M150,True
+打开空调摇摆,打开上下左右摆风,,generic_command,TCL 高频词,N150,True
+空调扫风打开,打开上下左右摆风,,generic_command,TCL 高频词,O150,True
+空调摆风打开,打开上下左右摆风,,generic_command,TCL 高频词,P150,True
+空调摇摆开一下,打开上下左右摆风,,generic_command,TCL 高频词,E151,True
+摆风,打开上下左右摆风,,generic_command,TCL 高频词,F151,True
+打开风摆,打开上下左右摆风,,generic_command,TCL 高频词,G151,True
+扫风开一下,打开上下左右摆风,,generic_command,TCL 高频词,I151,True
+关闭扫风,关闭上下左右摆风,,core_command,TCL 高频词,C153,True
+扫风关闭,关闭上下左右摆风,,generic_command,TCL 高频词,E153,True
+扫风关掉,关闭上下左右摆风,,generic_command,TCL 高频词,F153,True
+摆风关闭,关闭上下左右摆风,,generic_command,TCL 高频词,G153,True
+摆风关掉,关闭上下左右摆风,,generic_command,TCL 高频词,H153,True
+关摆风,关闭上下左右摆风,,generic_command,TCL 高频词,I153,True
+关扫风,关闭上下左右摆风,,generic_command,TCL 高频词,J153,True
+关摇摆,关闭上下左右摆风,,generic_command,TCL 高频词,K153,True
+摇摆关掉,关闭上下左右摆风,,generic_command,TCL 高频词,L153,True
+扫风关了吧,关闭上下左右摆风,,generic_command,TCL 高频词,M153,True
+关一下扫风,关闭上下左右摆风,,generic_command,TCL 高频词,N153,True
+关一下摆风,关闭上下左右摆风,,generic_command,TCL 高频词,O153,True
+扫风关一下,关闭上下左右摆风,,generic_command,TCL 高频词,P153,True
+关闭摆风,关闭上下左右摆风,,core_command,TCL 高频词,C154,True
+摆风关一下,关闭上下左右摆风,,generic_command,TCL 高频词,E154,True
+关一下摇摆,关闭上下左右摆风,,generic_command,TCL 高频词,F154,True
+摇摆关一下,关闭上下左右摆风,,generic_command,TCL 高频词,G154,True
+退出扫风,关闭上下左右摆风,,generic_command,TCL 高频词,H154,True
+退出摆风,关闭上下左右摆风,,generic_command,TCL 高频词,I154,True
+退出摇摆,关闭上下左右摆风,,generic_command,TCL 高频词,J154,True
+取消摆风,关闭上下左右摆风,,generic_command,TCL 高频词,K154,True
+取消扫风,关闭上下左右摆风,,generic_command,TCL 高频词,L154,True
+取消摇摆,关闭上下左右摆风,,generic_command,TCL 高频词,M154,True
+关闭全扫风,关闭上下左右摆风,,generic_command,TCL 高频词,N154,True
+关闭全摆风,关闭上下左右摆风,,generic_command,TCL 高频词,O154,True
+停掉扫风,关闭上下左右摆风,,generic_command,TCL 高频词,P154,True
+空调摆风关闭,关闭上下左右摆风,,generic_command,TCL 高频词,E155,True
+空调扫风关闭,关闭上下左右摆风,,generic_command,TCL 高频词,F155,True
+空调摇摆关闭,关闭上下左右摆风,,generic_command,TCL 高频词,G155,True
+空调摆风关掉,关闭上下左右摆风,,generic_command,TCL 高频词,H155,True
+空调扫风关掉,关闭上下左右摆风,,generic_command,TCL 高频词,I155,True
+空调摇摆关掉,关闭上下左右摆风,,generic_command,TCL 高频词,J155,True
+关一下空调摆风,关闭上下左右摆风,,generic_command,TCL 高频词,K155,True
+关一下空调扫风,关闭上下左右摆风,,generic_command,TCL 高频词,L155,True
+关一下空调摇摆,关闭上下左右摆风,,generic_command,TCL 高频词,M155,True
+空调扫风关一下,关闭上下左右摆风,,generic_command,TCL 高频词,N155,True
+空调摆风关一下,关闭上下左右摆风,,generic_command,TCL 高频词,O155,True
+空调摇摆关一下,关闭上下左右摆风,,generic_command,TCL 高频词,P155,True
+扫风停止,关闭上下左右摆风,,generic_command,TCL 高频词,E156,True
+停止摆风,关闭上下左右摆风,,generic_command,TCL 高频词,F156,True
+停止扫风,关闭上下左右摆风,,generic_command,TCL 高频词,G156,True
+摆风停止,关闭上下左右摆风,,generic_command,TCL 高频词,H156,True
+关掉摆风,关闭上下左右摆风,,generic_command,TCL 高频词,I156,True
+关闭摇摆,关闭上下左右摆风,,generic_command,TCL 高频词,J156,True
+关闭风摆,关闭上下左右摆风,,generic_command,TCL 高频词,K156,True
+摇摆关闭,关闭上下左右摆风,,generic_command,TCL 高频词,L156,True
+关掉空调摇摆,关闭上下左右摆风,,generic_command,TCL 高频词,M156,True
+关闭空调摆风,关闭上下左右摆风,,generic_command,TCL 高频词,N156,True
+关闭空调扫风,关闭上下左右摆风,,generic_command,TCL 高频词,O156 | P156,True
+停掉摆风,关闭上下左右摆风,,generic_command,TCL 高频词,E157,True
+停掉摇摆,关闭上下左右摆风,,generic_command,TCL 高频词,F157,True
+全扫风关闭,关闭上下左右摆风,,generic_command,TCL 高频词,G157,True
+全摆风关闭,关闭上下左右摆风,,generic_command,TCL 高频词,H157,True
+全扫风关掉,关闭上下左右摆风,,generic_command,TCL 高频词,I157,True
+全摆风关掉,关闭上下左右摆风,,generic_command,TCL 高频词,J157,True
+关掉空调摆风,关闭上下左右摆风,,generic_command,TCL 高频词,K157,True
+关掉空调扫风,关闭上下左右摆风,,generic_command,TCL 高频词,L157,True
+关掉扫风,关闭上下左右摆风,,generic_command,TCL 高频词,M157,True
+上下风,打开上下摆风,,core_command | generic_command,TCL 高频词,C159 | J159,True
+上下摆风,打开上下摆风,,core_command | generic_command,TCL 高频词,C160 | E159,True
+上下扫风,打开上下摆风,,core_command | generic_command,TCL 高频词,C162 | F159,True
+上下摆动,打开上下摆风,,generic_command,TCL 高频词,G159,True
+打开上下扫风,打开上下摆风,,core_command | generic_command,TCL 高频词,C161 | H159,True
+上下吹风,打开上下摆风,,generic_command,TCL 高频词,I159,True
+上下摇摆,打开上下摆风,,generic_command,TCL 高频词,G160 | K159,True
+开启上下摆风,打开上下摆风,,generic_command,TCL 高频词,K160 | L159,True
+开上下摆风,打开上下摆风,,generic_command,TCL 高频词,M159,True
+空调上下摆风,打开上下摆风,,generic_command,TCL 高频词,N159,True
+打开上下摇摆,打开上下摆风,,generic_command,TCL 高频词,H160 | O159,True
+开一下上下摆风,打开上下摆风,,generic_command,TCL 高频词,P159,True
+开一下上下扫风,打开上下摆风,,generic_command,TCL 高频词,E160,True
+开一下上下摇摆,打开上下摆风,,generic_command,TCL 高频词,F160,True
+上下摇摆打开,打开上下摆风,,generic_command,TCL 高频词,I160,True
+打开上下吹风,打开上下摆风,,generic_command,TCL 高频词,L160,True
+上下吹风打开,打开上下摆风,,generic_command,TCL 高频词,M160 | O160,True
+开启上下吹风,打开上下摆风,,generic_command,TCL 高频词,N160,True
+打开空调上下扫风,打开上下摆风,,generic_command,TCL 高频词,P160,True
+打开空调上下摆风,打开上下摆风,,generic_command,TCL 高频词,E161,True
+空调上下扫风打开,打开上下摆风,,generic_command,TCL 高频词,F161,True
+空调上下摆风打开,打开上下摆风,,generic_command,TCL 高频词,G161,True
+上下送风,打开上下摆风,,generic_command,TCL 高频词,H161,True
+关闭上下扫风,关闭上下摆风,,core_command | generic_command,TCL 高频词,C163 | E163,True
+停止上下摆动,关闭上下摆风,,generic_command,TCL 高频词,F163,True
+关掉上下摆风,关闭上下摆风,,generic_command,TCL 高频词,G163,True
+关上下摆风,关闭上下摆风,,generic_command,TCL 高频词,H163,True
+停止上下摇摆,关闭上下摆风,,generic_command,TCL 高频词,I163,True
+关闭上下摇摆,关闭上下摆风,,generic_command,TCL 高频词,J163,True
+关闭上下风,关闭上下摆风,,generic_command,TCL 高频词,K163 | M164,True
+上下摆风停止,关闭上下摆风,,generic_command,TCL 高频词,G164 | L163,True
+关闭上下摆动,关闭上下摆风,,generic_command,TCL 高频词,M163,True
+停止上下摆风,关闭上下摆风,,generic_command,TCL 高频词,N163,True
+关闭上下吹风,关闭上下摆风,,generic_command,TCL 高频词,O163,True
+关闭上下摆风模式,关闭上下摆风,,generic_command,TCL 高频词,P163,True
+停止上下吹风,关闭上下摆风,,generic_command,TCL 高频词,E164,True
+停止上下扫风,关闭上下摆风,,core_command | generic_command,TCL 高频词,C165 | F164,True
+上下扫风关掉,关闭上下摆风,,generic_command,TCL 高频词,H164,True
+上下扫风关闭,关闭上下摆风,,generic_command,TCL 高频词,I164,True
+上下摇摆关闭,关闭上下摆风,,generic_command,TCL 高频词,J164,True
+上下摇摆关掉,关闭上下摆风,,generic_command,TCL 高频词,K164,True
+关掉上下风,关闭上下摆风,,generic_command,TCL 高频词,L164,True
+上下风关闭,关闭上下摆风,,generic_command,TCL 高频词,N164,True
+上下风关掉,关闭上下摆风,,generic_command,TCL 高频词,O164,True
+左右风,打开左右摆风,,core_command | generic_command,TCL 高频词,C166 | M166,True
+打开左右扫风,打开左右摆风,,core_command | generic_command,TCL 高频词,D166 | L166,True
+左右摆风,打开左右摆风,,core_command | generic_command,TCL 高频词,C167 | E166,True
+左右扫风,打开左右摆风,,core_command | generic_command,TCL 高频词,C168 | F166,True
+左右摇摆,打开左右摆风,,generic_command,TCL 高频词,G166,True
+左右摆动,打开左右摆风,,generic_command,TCL 高频词,H166,True
+开启左右摆风,打开左右摆风,,generic_command,TCL 高频词,I166,True
+左右吹风,打开左右摆风,,generic_command,TCL 高频词,J166,True
+开左右摆风,打开左右摆风,,generic_command,TCL 高频词,K166,True
+空调左右摆风,打开左右摆风,,generic_command,TCL 高频词,G167 | N166,True
+打开左右摇摆,打开左右摆风,,generic_command,TCL 高频词,O166,True
+开一下左右摆风,打开左右摆风,,generic_command,TCL 高频词,P166,True
+开一下左右摇摆,打开左右摆风,,generic_command,TCL 高频词,E167,True
+空调左右扫风,打开左右摆风,,generic_command,TCL 高频词,F167,True
+打开空调左右摇摆,打开左右摆风,,generic_command,TCL 高频词,H167,True
+空调左右吹风,打开左右摆风,,generic_command,TCL 高频词,I167,True
+打开空调左右风,打开左右摆风,,generic_command,TCL 高频词,J167,True
+开左右扫风,打开左右摆风,,generic_command,TCL 高频词,K167,True
+关闭左右扫风,关闭左右摆风,,core_command | generic_command,TCL 高频词,C169 | G169,True
+停止左右摆动,关闭左右摆风,,generic_command,TCL 高频词,E169,True
+取消左右摆风,关闭左右摆风,,generic_command,TCL 高频词,F169,True
+取消左右扫风,关闭左右摆风,,generic_command,TCL 高频词,H169,True
+关掉左右摆风,关闭左右摆风,,generic_command,TCL 高频词,I169,True
+停止左右摇摆,关闭左右摆风,,generic_command,TCL 高频词,J169,True
+关闭左右摇摆,关闭左右摆风,,generic_command,TCL 高频词,K169,True
+关左右摆风,关闭左右摆风,,generic_command,TCL 高频词,L169,True
+关闭左右风,关闭左右摆风,,generic_command,TCL 高频词,M169,True
+左右摆风停止,关闭左右摆风,,generic_command,TCL 高频词,J170 | N169,True
+关闭左右摆动,关闭左右摆风,,generic_command,TCL 高频词,O169,True
+停止左右摆风模式,关闭左右摆风,,generic_command,TCL 高频词,P169,True
+关闭左右吹风,关闭左右摆风,,generic_command,TCL 高频词,E170,True
+关闭左右摆风模式,关闭左右摆风,,generic_command,TCL 高频词,F170,True
+停止左右风,关闭左右摆风,,generic_command,TCL 高频词,G170,True
+停止左右吹风,关闭左右摆风,,generic_command,TCL 高频词,H170,True
+停止左右扫风,关闭左右摆风,,core_command | generic_command,TCL 高频词,C171 | I170,True
+关左右扫风,关闭左右摆风,,generic_command,TCL 高频词,K170,True
+左右摇摆停止,关闭左右摆风,,generic_command,TCL 高频词,L170,True
+停止左右摆风,关闭左右摆风,,generic_command,TCL 高频词,M170,True
+风向上吹,向上吹,,generic_command,TCL 高频词,F172,True
+往上吹,向上吹,,generic_command,TCL 高频词,G172,True
+向上摆风,向上吹,,generic_command,TCL 高频词,H172,True
+往上吹风,向上吹,,generic_command,TCL 高频词,I172,True
+风往上吹,向上吹,,generic_command,TCL 高频词,E173 | J172,True
+风向朝上,向上吹,,generic_command,TCL 高频词,K172,True
+往上摆,向上吹,,generic_command,TCL 高频词,L172,True
+向上摆,向上吹,,generic_command,TCL 高频词,M172,True
+风向向上,向上吹,,generic_command,TCL 高频词,N172,True
+向上边吹风,向上吹,,generic_command,TCL 高频词,O172,True
+往上边吹,向上吹,,generic_command,TCL 高频词,P172,True
+风往上边吹,向上吹,,generic_command,TCL 高频词,F173,True
+上定格,向上吹,,generic_command,TCL 高频词,G173,True
+向上送风,向上吹,,generic_command,TCL 高频词,H173,True
+上送风,向上吹,,generic_command,TCL 高频词,I173,True
+上吹风,向上吹,,generic_command,TCL 高频词,J173,True
+风往上面吹,向上吹,,generic_command,TCL 高频词,K173,True
+不要向下吹,向上吹 | 打开防直吹,,generic_command,TCL 高频词,L173 | N348,True
+向下边吹 向上边吹,向上吹,,generic_command,TCL 高频词,M173,True
+风向上边吹,向上吹,,generic_command,TCL 高频词,N173,True
+往上送风,向上吹,,generic_command,TCL 高频词,O173,True
+吹上面,向上吹,,generic_command,TCL 高频词,P173,True
+吹上边,向上吹,,generic_command,TCL 高频词,E174,True
+吹一下上边,向上吹,,generic_command,TCL 高频词,F174,True
+吹一下上面,向上吹,,generic_command,TCL 高频词,G174,True
+风往上打,向上吹,,generic_command,TCL 高频词,H174,True
+向上吹风,向上吹,,generic_command,TCL 高频词,I174,True
+风向下吹,向下吹,,generic_command,TCL 高频词,F176,True
+往下吹,向下吹,,generic_command,TCL 高频词,G176,True
+向下摆风,向下吹,,generic_command,TCL 高频词,H176,True
+往下吹风,向下吹,,generic_command,TCL 高频词,I176,True
+风往下吹,向下吹,,generic_command,TCL 高频词,E177 | J176,True
+风向朝下,向下吹,,generic_command,TCL 高频词,K176,True
+往下摆,向下吹,,generic_command,TCL 高频词,L176,True
+向下摆,向下吹,,generic_command,TCL 高频词,M176,True
+风向向下,向下吹,,generic_command,TCL 高频词,N176,True
+向下边吹风,向下吹,,generic_command,TCL 高频词,O176,True
+往下边吹,向下吹,,generic_command,TCL 高频词,P176,True
+风往下边吹,向下吹,,generic_command,TCL 高频词,F177,True
+下定格,向下吹,,generic_command,TCL 高频词,G177,True
+向下送风,向下吹,,generic_command,TCL 高频词,H177,True
+下送风,向下吹,,generic_command,TCL 高频词,I177,True
+下吹风,向下吹,,generic_command,TCL 高频词,J177,True
+风往下面吹,向下吹,,generic_command,TCL 高频词,K177,True
+风往下打,向下吹,,generic_command,TCL 高频词,L177,True
+向下边吹,向下吹,,generic_command,TCL 高频词,M177,True
+风向下边吹,向下吹,,generic_command,TCL 高频词,N177,True
+往下送风,向下吹,,generic_command,TCL 高频词,O177,True
+吹下面,向下吹,,generic_command,TCL 高频词,P177,True
+吹下边,向下吹,,generic_command,TCL 高频词,E178,True
+吹一下下边,向下吹,,generic_command,TCL 高频词,F178,True
+吹一下下面,向下吹,,generic_command,TCL 高频词,G178,True
+向下吹风,向下吹,,generic_command,TCL 高频词,H178,True
+风向中间吹,向中间吹,,generic_command,TCL 高频词,F180 | K180 | M181,True
+往中间吹,向中间吹,,generic_command,TCL 高频词,G180 | P180,True
+向中间摆风,向中间吹,,generic_command,TCL 高频词,H180,True
+往中间吹风,向中间吹,,generic_command,TCL 高频词,I180,True
+风往中间吹,向中间吹,,generic_command,TCL 高频词,E181 | J180 | K181,True
+往中间摆,向中间吹,,generic_command,TCL 高频词,L180,True
+向中间摆,向中间吹,,generic_command,TCL 高频词,M180,True
+风向向中间,向中间吹,,generic_command,TCL 高频词,N180,True
+向中间吹风,向中间吹,,generic_command,TCL 高频词,O180,True
+中间定格,向中间吹,,generic_command,TCL 高频词,F181,True
+中定格,向中间吹,,generic_command,TCL 高频词,G181,True
+向中间送风,向中间吹,,generic_command,TCL 高频词,H181,True
+中间送风,向中间吹,,generic_command,TCL 高频词,I181,True
+中间吹风,向中间吹,,generic_command,TCL 高频词,J181,True
+向中吹,向中间吹,,generic_command,TCL 高频词,L181,True
+往中间送风,向中间吹,,generic_command,TCL 高频词,N181,True
+吹中间,向中间吹,,generic_command,TCL 高频词,O181,True
+中送风,向中间吹,,generic_command,TCL 高频词,P181,True
+中吹风,向中间吹,,generic_command,TCL 高频词,E182,True
+吹一下中间,向中间吹,,generic_command,TCL 高频词,F182,True
+吹向中间,向中间吹,,generic_command,TCL 高频词,G182,True
+风往中间打,向中间吹,,generic_command,TCL 高频词,H182,True
+风向左吹,向左吹,,generic_command,TCL 高频词,F184,True
+往左吹,向左吹,,generic_command,TCL 高频词,G184,True
+向左摆风,向左吹,,generic_command,TCL 高频词,H184,True
+往左吹风,向左吹,,generic_command,TCL 高频词,I184,True
+风往左吹,向左吹,,generic_command,TCL 高频词,E185 | J184,True
+风向朝左,向左吹,,generic_command,TCL 高频词,K184,True
+往左摆,向左吹,,generic_command,TCL 高频词,L184,True
+向左摆,向左吹,,generic_command,TCL 高频词,M184,True
+风向向左,向左吹,,generic_command,TCL 高频词,N184,True
+向左边吹风,向左吹,,generic_command,TCL 高频词,O184,True
+往左边吹,向左吹,,generic_command,TCL 高频词,P184,True
+风往左边吹,向左吹,,generic_command,TCL 高频词,F185,True
+左定格,向左吹,,generic_command,TCL 高频词,G185,True
+向左送风,向左吹,,generic_command,TCL 高频词,H185,True
+左送风,向左吹,,generic_command,TCL 高频词,I185,True
+左吹风,向左吹,,generic_command,TCL 高频词,J185,True
+风往左面吹,向左吹,,generic_command,TCL 高频词,K185,True
+左边吹风,向左吹,,generic_command,TCL 高频词,L185,True
+向左边吹,向左吹,,generic_command,TCL 高频词,M185,True
+风向左边吹,向左吹,,generic_command,TCL 高频词,N185,True
+往左送风,向左吹,,generic_command,TCL 高频词,O185,True
+吹左面,向左吹,,generic_command,TCL 高频词,P185,True
+吹左边,向左吹,,generic_command,TCL 高频词,E186,True
+吹一下左边,向左吹,,generic_command,TCL 高频词,F186,True
+吹一下左面,向左吹,,generic_command,TCL 高频词,G186,True
+风往左打,向左吹,,generic_command,TCL 高频词,H186,True
+向左吹风,向左吹,,generic_command,TCL 高频词,I186,True
+风向右吹,向右吹,,generic_command,TCL 高频词,F188,True
+往右吹,向右吹,,generic_command,TCL 高频词,G188,True
+向右摆风,向右吹,,generic_command,TCL 高频词,H188,True
+往右吹风,向右吹,,generic_command,TCL 高频词,I188,True
+风往右吹,向右吹,,generic_command,TCL 高频词,E189 | J188,True
+风向朝右,向右吹,,generic_command,TCL 高频词,K188,True
+往右摆,向右吹,,generic_command,TCL 高频词,L188,True
+向右摆,向右吹,,generic_command,TCL 高频词,M188,True
+风向向右,向右吹,,generic_command,TCL 高频词,N188,True
+向右边吹风,向右吹,,generic_command,TCL 高频词,O188,True
+往右边吹,向右吹,,generic_command,TCL 高频词,P188,True
+风往右边吹,向右吹,,generic_command,TCL 高频词,F189,True
+右定格,向右吹,,generic_command,TCL 高频词,G189,True
+向右送风,向右吹,,generic_command,TCL 高频词,H189,True
+右送风,向右吹,,generic_command,TCL 高频词,I189,True
+右吹风,向右吹,,generic_command,TCL 高频词,J189,True
+风往右面吹,向右吹,,generic_command,TCL 高频词,K189,True
+右边吹风,向右吹,,generic_command,TCL 高频词,L189,True
+向右边吹,向右吹,,generic_command,TCL 高频词,M189,True
+风向右边吹,向右吹,,generic_command,TCL 高频词,N189,True
+往右送风,向右吹,,generic_command,TCL 高频词,O189,True
+吹右面,向右吹,,generic_command,TCL 高频词,P189,True
+吹右边,向右吹,,generic_command,TCL 高频词,E190,True
+吹一下右边,向右吹,,generic_command,TCL 高频词,F190,True
+吹一下右面,向右吹,,generic_command,TCL 高频词,G190,True
+风往右打,向右吹,,generic_command,TCL 高频词,H190,True
+向右吹风,向右吹,,generic_command,TCL 高频词,I190,True
+环抱风打开,打开环抱风,,generic_command,TCL 高频词,E192,True
+开启环抱风,打开环抱风,,generic_command,TCL 高频词,F192,True
+环抱风开启,打开环抱风,,generic_command,TCL 高频词,G192,True
+开一下环抱风,打开环抱风,,generic_command,TCL 高频词,H192,True
+环抱风开一下,打开环抱风,,generic_command,TCL 高频词,I192,True
+开开环抱风,打开环抱风,,generic_command,TCL 高频词,J192,True
+环抱风开开,打开环抱风,,generic_command,TCL 高频词,K192,True
+开环抱风,打开环抱风,,generic_command,TCL 高频词,L192,True
+启动环抱风,打开环抱风,,generic_command,TCL 高频词,M192,True
+环抱风启动,打开环抱风,,generic_command,TCL 高频词,N192,True
+环抱风开起来,打开环抱风,,generic_command,TCL 高频词,O192,True
+运行环抱风,打开环抱风,,generic_command,TCL 高频词,P192,True
+开下环抱风,打开环抱风,,generic_command,TCL 高频词,E193,True
+环抱风开下,打开环抱风,,generic_command,TCL 高频词,F193,True
+开始环抱风,打开环抱风,,generic_command,TCL 高频词,G193,True
+环抱风开始,打开环抱风,,generic_command,TCL 高频词,H193,True
+要环抱风,打开环抱风,,generic_command,TCL 高频词,I193,True
+环绕风打开,打开环抱风,,generic_command,TCL 高频词,J193,True
+开启环绕风,打开环抱风,,generic_command,TCL 高频词,K193,True
+环绕风开启,打开环抱风,,generic_command,TCL 高频词,L193,True
+开一下环绕风,打开环抱风,,generic_command,TCL 高频词,M193,True
+环绕风开一下,打开环抱风,,generic_command,TCL 高频词,N193,True
+开开环绕风,打开环抱风,,generic_command,TCL 高频词,O193,True
+环绕风开开,打开环抱风,,generic_command,TCL 高频词,P193,True
+开环绕风,打开环抱风,,generic_command,TCL 高频词,E194,True
+开下环绕风,打开环抱风,,generic_command,TCL 高频词,F194,True
+环绕风开下,打开环抱风,,generic_command,TCL 高频词,G194,True
+环抱风,打开环抱风,,generic_command,TCL 高频词,H194,True
+环绕风,打开环抱风,,generic_command,TCL 高频词,I194,True
+环抱风模式,打开环抱风,,generic_command,TCL 高频词,J194,True
+左扫风,打开左扫风,,generic_command,TCL 高频词,E200,True
+左摆风,打开左扫风,,generic_command,TCL 高频词,F200,True
+右扫风,打开右扫风,,generic_command,TCL 高频词,E208,True
+右摆风,打开右扫风,,generic_command,TCL 高频词,F208,True
+打开无风感,打开柔风,,generic_command,TCL 高频词,E216,True
+打开柔风感,打开柔风,,generic_command,TCL 高频词,F216,True
+柔风打开,打开柔风,,generic_command,TCL 高频词,G216,True
+柔风开启,打开柔风,,generic_command,TCL 高频词,H216 | I217,True
+无风感打开,打开柔风,,generic_command,TCL 高频词,I216,True
+无风感开启,打开柔风,,generic_command,TCL 高频词,J216,True
+设置柔风,打开柔风,,generic_command,TCL 高频词,K216,True
+调到柔风,打开柔风,,generic_command,TCL 高频词,L216,True
+开柔风,打开柔风,,generic_command,TCL 高频词,M216,True
+柔风开开,打开柔风,,generic_command,TCL 高频词,N216,True
+开开柔风,打开柔风,,generic_command,TCL 高频词,O216,True
+开一下柔风,打开柔风,,generic_command,TCL 高频词,P216,True
+柔风开一下,打开柔风,,generic_command,TCL 高频词,E217,True
+开一下无风感,打开柔风,,generic_command,TCL 高频词,F217,True
+无风感开一下,打开柔风,,generic_command,TCL 高频词,G217,True
+开启柔风,打开柔风,,generic_command,TCL 高频词,H217 | K218,True
+开启无风感,打开柔风,,generic_command,TCL 高频词,J217,True
+打开微风感,打开柔风,,generic_command,TCL 高频词,K217,True
+微风感打开,打开柔风,,generic_command,TCL 高频词,L217,True
+柔风开起来,打开柔风,,generic_command,TCL 高频词,M217,True
+打开空调柔风,打开柔风,,generic_command,TCL 高频词,N217,True
+空调柔风打开,打开柔风,,generic_command,TCL 高频词,O217,True
+柔风模式打开,打开柔风,,generic_command,TCL 高频词,P217,True
+打开柔风功能,打开柔风,,generic_command,TCL 高频词,E218,True
+柔风功能打开,打开柔风,,generic_command,TCL 高频词,F218,True
+打开柔风模式,打开柔风,,generic_command,TCL 高频词,G218,True
+切换柔风,打开柔风,,generic_command,TCL 高频词,H218,True
+设为柔风,打开柔风,,generic_command,TCL 高频词,I218,True
+开空调柔风,打开柔风,,generic_command,TCL 高频词,J218,True
+柔风模式,打开柔风,,generic_command,TCL 高频词,L218,True
+关闭无风感,关闭柔风,,generic_command,TCL 高频词,E220,True
+无风感关闭,关闭柔风,,generic_command,TCL 高频词,F220,True
+关掉柔风感,关闭柔风,,generic_command,TCL 高频词,G220,True
+无风感关掉,关闭柔风,,generic_command,TCL 高频词,H220,True
+柔风关闭,关闭柔风,,generic_command,TCL 高频词,I220,True
+柔风关掉,关闭柔风,,generic_command,TCL 高频词,J220,True
+停止柔风,关闭柔风,,generic_command,TCL 高频词,K220,True
+柔风停止,关闭柔风,,generic_command,TCL 高频词,L220,True
+取消柔风,关闭柔风,,generic_command,TCL 高频词,M220,True
+柔风取消,关闭柔风,,generic_command,TCL 高频词,N220,True
+柔风关了吧,关闭柔风,,generic_command,TCL 高频词,O220,True
+关一下柔风,关闭柔风,,generic_command,TCL 高频词,P220,True
+退出柔风,关闭柔风,,generic_command,TCL 高频词,E221,True
+退出无风感,关闭柔风,,generic_command,TCL 高频词,F221,True
+关柔风,关闭柔风,,generic_command,TCL 高频词,G221,True
+柔风关一下,关闭柔风,,generic_command,TCL 高频词,H221,True
+关闭空调柔风,关闭柔风,,generic_command,TCL 高频词,I221,True
+空调柔风关闭,关闭柔风,,generic_command,TCL 高频词,J221,True
+柔风退出,关闭柔风,,generic_command,TCL 高频词,K221,True
+空调柔风关掉,关闭柔风,,generic_command,TCL 高频词,L221,True
+关闭微风感,关闭柔风,,generic_command,TCL 高频词,M221,True
+微风感关闭,关闭柔风,,generic_command,TCL 高频词,N221,True
+无风感关了吧,关闭柔风,,generic_command,TCL 高频词,O221,True
+结束柔风,关闭柔风,,generic_command,TCL 高频词,P221,True
+深度柔风,打开深度柔风,,core_command,TCL 高频词,C223,True
+左柔风,打开左柔风,,generic_command,TCL 高频词,E229,True
+右柔风,打开右柔风,,generic_command,TCL 高频词,E235,True
+灯光开启,打开灯光,,generic_command,TCL 高频词,E241,True
+灯光打开,打开灯光,,generic_command,TCL 高频词,F241,True
+打开显示,打开灯光,,core_command | generic_command,TCL 高频词,C242 | G241,True
+开启屏显,打开灯光,,generic_command,TCL 高频词,H241,True
+开灯光,打开灯光,,generic_command,TCL 高频词,I241,True
+开启灯光,打开灯光,,generic_command,TCL 高频词,J241,True
+打开屏幕,打开灯光,,generic_command,TCL 高频词,K241,True
+打开显示屏,打开灯光,,generic_command,TCL 高频词,L241,True
+打开屏显,打开灯光,,generic_command,TCL 高频词,M241,True
+开屏显,打开灯光,,generic_command,TCL 高频词,N241,True
+开一下灯光,打开灯光,,generic_command,TCL 高频词,O241,True
+开一下屏显,打开灯光,,generic_command,TCL 高频词,P241,True
+开一下屏幕,打开灯光,,generic_command,TCL 高频词,E242,True
+打开数显,打开灯光,,generic_command,TCL 高频词,F242,True
+数显打开,打开灯光,,generic_command,TCL 高频词,G242,True
+灯光开开,打开灯光,,generic_command,TCL 高频词,H242,True
+开开灯光,打开灯光,,generic_command,TCL 高频词,I242,True
+打开温度显示,打开灯光,,generic_command,TCL 高频词,J242,True
+温度显示打开,打开灯光,,generic_command,TCL 高频词,K242,True
+开一下温度显示,打开灯光,,generic_command,TCL 高频词,L242,True
+温度显示开一下,打开灯光,,generic_command,TCL 高频词,M242,True
+显示开一下,打开灯光,,generic_command,TCL 高频词,N242,True
+屏显开一下,打开灯光,,generic_command,TCL 高频词,O242,True
+数显开一下,打开灯光,,generic_command,TCL 高频词,P242,True
+开一下数显,打开灯光,,generic_command,TCL 高频词,E243,True
+开一下空调灯光,打开灯光,,generic_command,TCL 高频词,F243,True
+空调灯光打开,打开灯光,,generic_command,TCL 高频词,G243,True
+空调显示打开,打开灯光,,generic_command,TCL 高频词,H243,True
+空调屏显打开,打开灯光,,generic_command,TCL 高频词,I243,True
+显示温度,打开灯光,,generic_command,TCL 高频词,J243,True
+灯开下,打开灯光,,generic_command,TCL 高频词,K243,True
+灯开一下,打开灯光,,generic_command,TCL 高频词,L243,True
+开灯,打开灯光,,generic_command,TCL 高频词,M243,True
+关闭灯,关闭灯光,,generic_command,TCL 高频词,E245,True
+关灯,关闭灯光,,generic_command,TCL 高频词,F245,True
+灯光关闭,关闭灯光,,generic_command,TCL 高频词,G245,True
+灯光关,关闭灯光,,generic_command,TCL 高频词,H245,True
+灯关了,关闭灯光,,generic_command,TCL 高频词,I245,True
+关闭显示屏,关闭灯光,,generic_command,TCL 高频词,J245,True
+关闭显示,关闭灯光,,core_command | generic_command,TCL 高频词,C246 | K245,True
+关灯光,关闭灯光,,generic_command,TCL 高频词,L245,True
+关屏显,关闭灯光,,generic_command,TCL 高频词,M245,True
+关掉屏显,关闭灯光,,generic_command,TCL 高频词,N245,True
+关一下显示灯光,关闭灯光,,generic_command,TCL 高频词,O245,True
+显示灯光关一下,关闭灯光,,generic_command,TCL 高频词,P245,True
+关闭屏幕灯光,关闭灯光,,generic_command,TCL 高频词,E246,True
+屏幕灯光关闭,关闭灯光,,generic_command,TCL 高频词,F246,True
+关闭温度显示,关闭灯光,,generic_command,TCL 高频词,G246,True
+温度显示关闭,关闭灯光,,generic_command,TCL 高频词,H246,True
+关掉灯光,关闭灯光,,generic_command,TCL 高频词,I246,True
+灯光关掉,关闭灯光,,generic_command,TCL 高频词,J246,True
+数显关闭,关闭灯光,,generic_command,TCL 高频词,K246,True
+数显关掉,关闭灯光,,generic_command,TCL 高频词,L246,True
+关掉数显,关闭灯光,,generic_command,TCL 高频词,M246,True
+关闭数显,关闭灯光,,generic_command,TCL 高频词,N246,True
+不要灯光,关闭灯光,,generic_command,TCL 高频词,O246,True
+关一下灯光,关闭灯光,,generic_command,TCL 高频词,P246,True
+关一下屏显,关闭灯光,,generic_command,TCL 高频词,E247,True
+屏显关一下,关闭灯光,,generic_command,TCL 高频词,F247,True
+空调灯光关掉,关闭灯光,,generic_command,TCL 高频词,G247,True
+空调灯光关闭,关闭灯光,,generic_command,TCL 高频词,H247,True
+空调灯光关一下,关闭灯光,,generic_command,TCL 高频词,I247,True
+关闭屏显,关闭灯光,,generic_command,TCL 高频词,J247,True
+灯关上,关闭灯光,,generic_command,TCL 高频词,K247,True
+灯关下,关闭灯光,,generic_command,TCL 高频词,L247,True
+灯关一下,关闭灯光,,generic_command,TCL 高频词,M247,True
+灯光结束,关闭灯光,,generic_command,TCL 高频词,N247,True
+关一下数显,关闭灯光,,generic_command,TCL 高频词,O247,True
+数显关一下,关闭灯光,,generic_command,TCL 高频词,P247,True
+灯光关一下,关闭灯光,,generic_command,TCL 高频词,E248,True
+取消灯光,关闭灯光,,generic_command,TCL 高频词,F248,True
+退出灯光,关闭灯光,,generic_command,TCL 高频词,G248,True
+停止灯光,关闭灯光,,generic_command,TCL 高频词,H248,True
+结束灯光,关闭灯光,,generic_command,TCL 高频词,I248,True
+灯光给关闭,关闭灯光,,generic_command,TCL 高频词,J248,True
+灯光给关掉,关闭灯光,,generic_command,TCL 高频词,K248,True
+灯光关了吧,关闭灯光,,generic_command,TCL 高频词,L248,True
+灯光取消,关闭灯光,,generic_command,TCL 高频词,M248,True
+AI省电,打开节能,,core_command,TCL 高频词,D250,True
+开启节能,打开节能,,generic_command,TCL 高频词,E250,True
+节能打开,打开节能,,generic_command,TCL 高频词,F250,True
+打开节能模式,打开节能,,generic_command,TCL 高频词,G250,True
+空调节能模式,打开节能,,generic_command,TCL 高频词,H250,True
+打开空调节能,打开节能,,generic_command,TCL 高频词,I250,True
+空调节能打开,打开节能,,generic_command,TCL 高频词,J250,True
+节能开启,打开节能,,generic_command,TCL 高频词,K250,True
+开启空调节能,打开节能,,generic_command,TCL 高频词,L250,True
+空调节能开启,打开节能,,generic_command,TCL 高频词,M250,True
+开一下节能,打开节能,,generic_command,TCL 高频词,N250,True
+节能开一下,打开节能,,generic_command,TCL 高频词,O250,True
+节能模式开一下,打开节能,,generic_command,TCL 高频词,P250,True
+节能模式,打开节能,,core_command,TCL 高频词,C251,True
+打开AI节能,打开节能,,core_command,TCL 高频词,D251,True
+开一下空调节能,打开节能,,generic_command,TCL 高频词,E251,True
+空调节能开一下,打开节能,,generic_command,TCL 高频词,F251,True
+节能开起来,打开节能,,generic_command,TCL 高频词,G251,True
+开下节能模式,打开节能,,generic_command,TCL 高频词,H251,True
+开始节能模式,打开节能,,generic_command,TCL 高频词,I251,True
+节能模式开下,打开节能,,generic_command,TCL 高频词,J251,True
+节能模式开始,打开节能,,generic_command,TCL 高频词,K251,True
+省电模式,打开节能,,generic_command,TCL 高频词,L251,True
+AI节能,打开节能,,core_command,TCL 高频词,C252,True
+打开AI省电,打开节能,,core_command,TCL 高频词,D252,True
+节能关闭,关闭节能,,generic_command,TCL 高频词,E253,True
+节能关掉,关闭节能,,generic_command,TCL 高频词,F253,True
+关一下节能,关闭节能,,generic_command,TCL 高频词,G253,True
+节能模式关一下,关闭节能,,generic_command,TCL 高频词,H253,True
+节能功能关掉,关闭节能,,generic_command,TCL 高频词,I253,True
+节能关一下,关闭节能,,generic_command,TCL 高频词,J253,True
+节能功能关一下,关闭节能,,generic_command,TCL 高频词,K253,True
+取消节能,关闭节能,,generic_command,TCL 高频词,L253,True
+节能取消,关闭节能,,generic_command,TCL 高频词,M253,True
+节能模式取消,关闭节能,,generic_command,TCL 高频词,N253,True
+退出节能模式,关闭节能,,generic_command,TCL 高频词,O253,True
+节能模式退出,关闭节能,,generic_command,TCL 高频词,P253,True
+关闭AI节能,关闭节能,,core_command,TCL 高频词,C254,True
+节能退出,关闭节能,,generic_command,TCL 高频词,E254,True
+停止节能模式,关闭节能,,generic_command,TCL 高频词,F254,True
+停止节能,关闭节能,,generic_command,TCL 高频词,G254,True
+节能停止,关闭节能,,generic_command,TCL 高频词,H254,True
+节能模式停止,关闭节能,,generic_command,TCL 高频词,I254,True
+节能关了吧,关闭节能,,generic_command,TCL 高频词,J254,True
+节能模式关了吧,关闭节能,,generic_command,TCL 高频词,K254,True
+关上节能,关闭节能,,generic_command,TCL 高频词,L254,True
+关节能,关闭节能,,generic_command,TCL 高频词,M254,True
+关下节能,关闭节能,,generic_command,TCL 高频词,N254,True
+关掉节能,关闭节能,,generic_command,TCL 高频词,O254,True
+关闭AI省电,关闭节能,,core_command,TCL 高频词,C255,True
+调到睡眠模式,打开睡眠,,generic_command,TCL 高频词,E256,True
+睡眠模式,打开睡眠,,core_command | generic_command,TCL 高频词,C257 | F256,True
+调成睡眠模式,打开睡眠,,generic_command,TCL 高频词,G256,True
+打开睡眠模式,打开睡眠,,generic_command,TCL 高频词,H256,True
+我要睡觉,打开睡眠,,generic_command,TCL 高频词,I256,True
+睡眠状态,打开睡眠,,generic_command,TCL 高频词,J256,True
+开启睡眠模式,打开睡眠,,generic_command,TCL 高频词,K256,True
+打开静眠,打开睡眠,,generic_command,TCL 高频词,L256,True
+开一下睡眠,打开睡眠,,generic_command,TCL 高频词,M256,True
+开一下静眠,打开睡眠,,generic_command,TCL 高频词,N256,True
+我要睡觉了,打开睡眠,,generic_command,TCL 高频词,O256,True
+进入睡眠模式,打开睡眠,,generic_command,TCL 高频词,P256,True
+进入睡觉模式,打开睡眠,,generic_command,TCL 高频词,E257,True
+睡眠模式打开,打开睡眠,,generic_command,TCL 高频词,F257,True
+睡眠模式开启,打开睡眠,,generic_command,TCL 高频词,G257,True
+设为睡眠模式,打开睡眠,,generic_command,TCL 高频词,H257,True
+我要睡了,打开睡眠,,generic_command,TCL 高频词,I257,True
+睡眠打开,打开睡眠,,generic_command,TCL 高频词,J257,True
+睡眠功能打开,打开睡眠,,generic_command,TCL 高频词,K257,True
+打开睡眠功能,打开睡眠,,generic_command,TCL 高频词,L257,True
+我去睡觉了,打开睡眠,,generic_command,TCL 高频词,M257,True
+开始做梦了,打开睡眠,,generic_command,TCL 高频词,N257,True
+我要做梦了,打开睡眠,,generic_command,TCL 高频词,O257,True
+开启睡眠,打开睡眠,,generic_command,TCL 高频词,P257,True
+睡觉模式,打开睡眠,,generic_command,TCL 高频词,E258,True
+舒睡模式,打开睡眠,,generic_command,TCL 高频词,F258,True
+打开舒睡,打开睡眠,,generic_command,TCL 高频词,G258,True
+舒睡打开,打开睡眠,,generic_command,TCL 高频词,H258,True
+开启舒睡,打开睡眠,,generic_command,TCL 高频词,I258,True
+舒睡开启,打开睡眠,,generic_command,TCL 高频词,J258,True
+开一下舒睡,打开睡眠,,generic_command,TCL 高频词,K258,True
+舒睡开一下,打开睡眠,,generic_command,TCL 高频词,L258,True
+要舒睡,打开睡眠,,generic_command,TCL 高频词,M258,True
+舒睡功能,打开睡眠,,generic_command,TCL 高频词,N258,True
+舒适模式打开,打开睡眠,,generic_command,TCL 高频词,O258,True
+舒适模式开启,打开睡眠,,generic_command,TCL 高频词,P258,True
+睡眠开启,打开睡眠,,generic_command,TCL 高频词,E259,True
+睡眠开一下,打开睡眠,,generic_command,TCL 高频词,F259,True
+睡眠功能开一下,打开睡眠,,generic_command,TCL 高频词,G259,True
+启动睡眠,打开睡眠,,generic_command,TCL 高频词,H259,True
+睡眠启动,打开睡眠,,generic_command,TCL 高频词,I259,True
+睡眠模式启动,打开睡眠,,generic_command,TCL 高频词,J259,True
+开下睡眠,打开睡眠,,generic_command,TCL 高频词,K259,True
+开始睡眠,打开睡眠,,generic_command,TCL 高频词,L259,True
+睡眠开始,打开睡眠,,generic_command,TCL 高频词,M259,True
+睡眠开下,打开睡眠,,generic_command,TCL 高频词,N259,True
+睡眠模式开始,打开睡眠,,generic_command,TCL 高频词,O259,True
+睡眠模式开下,打开睡眠,,generic_command,TCL 高频词,P259,True
+舒睡模式开一下,打开睡眠,,generic_command,TCL 高频词,E260,True
+舒睡模式开始,打开睡眠,,generic_command,TCL 高频词,F260,True
+关闭睡眠模式,关闭睡眠,,generic_command,TCL 高频词,E262,True
+取消睡眠模式,关闭睡眠,,generic_command,TCL 高频词,F262,True
+取消睡眠,关闭睡眠,,generic_command,TCL 高频词,G262,True
+退出睡眠,关闭睡眠,,generic_command,TCL 高频词,H262,True
+关睡眠,关闭睡眠,,generic_command,TCL 高频词,I262,True
+睡眠模式关掉,关闭睡眠,,generic_command,TCL 高频词,J262,True
+睡觉模式关闭,关闭睡眠,,generic_command,TCL 高频词,K262,True
+睡眠模式退出,关闭睡眠,,generic_command,TCL 高频词,L262,True
+关一下睡眠模式,关闭睡眠,,generic_command,TCL 高频词,M262,True
+睡眠模式关一下,关闭睡眠,,generic_command,TCL 高频词,N262,True
+退出睡眠模式,关闭睡眠,,generic_command,TCL 高频词,O262,True
+退出睡觉模式,关闭睡眠,,generic_command,TCL 高频词,P262,True
+结束睡眠模式,关闭睡眠,,generic_command,TCL 高频词,E263,True
+睡眠模式结束,关闭睡眠,,generic_command,TCL 高频词,F263 | F264,True
+关了睡眠模式,关闭睡眠,,generic_command,TCL 高频词,G263,True
+我起床了,关闭睡眠,,generic_command,TCL 高频词,H263,True
+睡眠关闭,关闭睡眠,,generic_command,TCL 高频词,J263,True
+睡眠模式关闭,关闭睡眠,,generic_command,TCL 高频词,K263,True
+关一下睡眠,关闭睡眠,,generic_command,TCL 高频词,L263,True
+睡眠关一下,关闭睡眠,,generic_command,TCL 高频词,M263,True
+睡眠模式取消,关闭睡眠,,generic_command,TCL 高频词,N263,True
+睡眠退出,关闭睡眠,,generic_command,TCL 高频词,O263,True
+停止睡眠模式,关闭睡眠,,generic_command,TCL 高频词,P263,True
+睡眠模式停止,关闭睡眠,,generic_command,TCL 高频词,E264,True
+睡眠模式关了吧,关闭睡眠,,generic_command,TCL 高频词,G264,True
+关掉睡眠,关闭睡眠,,generic_command,TCL 高频词,H264,True
+睡眠关掉,关闭睡眠,,generic_command,TCL 高频词,I264,True
+不要睡眠,关闭睡眠,,generic_command,TCL 高频词,J264,True
+停止睡眠,关闭睡眠,,generic_command,TCL 高频词,K264,True
+结束睡眠,关闭睡眠,,generic_command,TCL 高频词,L264,True
+我睡醒了,关闭睡眠,,generic_command,TCL 高频词,M264,True
+睡醒了,关闭睡眠,,generic_command,TCL 高频词,N264,True
+开启自清洁,打开自清洁,,generic_command,TCL 高频词,E266,True
+打开自清洁模式,打开自清洁,,generic_command,TCL 高频词,F266,True
+空调自清洁,打开自清洁,,generic_command,TCL 高频词,G266,True
+自清洁模式,打开自清洁,,generic_command,TCL 高频词,H266,True
+开自清洁,打开自清洁,,generic_command,TCL 高频词,I266,True
+开启自清洁模式,打开自清洁,,generic_command,TCL 高频词,J266,True
+打开自清洁功能,打开自清洁,,generic_command,TCL 高频词,K266,True
+打开空调自清洁,打开自清洁,,generic_command,TCL 高频词,L266,True
+打开自动清洁,打开自清洁,,generic_command,TCL 高频词,M266,True
+开一下自清洁,打开自清洁,,generic_command,TCL 高频词,N266,True
+自清洁打开,打开自清洁,,generic_command,TCL 高频词,O266,True
+开始自清洁,打开自清洁,,generic_command,TCL 高频词,P266,True
+自清洁开始,打开自清洁,,generic_command,TCL 高频词,E267,True
+清洁开始,打开自清洁,,generic_command,TCL 高频词,F267,True
+打开蒸发器清洁,打开自清洁,,generic_command,TCL 高频词,G267,True
+蒸发器清洁打开,打开自清洁,,generic_command,TCL 高频词,H267,True
+开始蒸发器清洁,打开自清洁,,generic_command,TCL 高频词,I267,True
+蒸发器清洁开始,打开自清洁,,generic_command,TCL 高频词,J267,True
+自清洁开一下,打开自清洁,,generic_command,TCL 高频词,K267,True
+自清洁功能开一下,打开自清洁,,generic_command,TCL 高频词,L267,True
+启动自清洁,打开自清洁,,generic_command,TCL 高频词,M267,True
+自清洁启动,打开自清洁,,generic_command,TCL 高频词,N267,True
+自清洁功能启动,打开自清洁,,generic_command,TCL 高频词,O267,True
+自清洁模式启动,打开自清洁,,generic_command,TCL 高频词,P267,True
+开一下蒸发器清洁,打开自清洁,,generic_command,TCL 高频词,E268,True
+清洁模式,打开自清洁,,generic_command,TCL 高频词,F268,True
+自清洁开起来,打开自清洁,,generic_command,TCL 高频词,G268,True
+开下自清洁,打开自清洁,,generic_command,TCL 高频词,H268,True
+打开空调清洁模式,打开自清洁,,generic_command,TCL 高频词,I268,True
+自清洁关闭,关闭自清洁,,generic_command,TCL 高频词,E270,True
+关闭清洁,关闭自清洁,,generic_command,TCL 高频词,F270,True
+清洁关闭,关闭自清洁,,generic_command,TCL 高频词,G270,True
+自清洁关掉,关闭自清洁,,generic_command,TCL 高频词,H270,True
+关掉自清洁,关闭自清洁,,generic_command,TCL 高频词,I270,True
+关闭蒸发器清洁,关闭自清洁,,generic_command,TCL 高频词,J270 | M271,True
+关掉蒸发器清洁,关闭自清洁,,generic_command,TCL 高频词,K270 | L271,True
+蒸发器清洁关闭,关闭自清洁,,generic_command,TCL 高频词,L270 | N271,True
+蒸发器清洁关掉,关闭自清洁,,generic_command,TCL 高频词,M270 | O271,True
+退出自清洁,关闭自清洁,,generic_command,TCL 高频词,N270,True
+自清洁退出,关闭自清洁,,generic_command,TCL 高频词,O270,True
+取消自清洁,关闭自清洁,,generic_command,TCL 高频词,P270,True
+自清洁取消,关闭自清洁,,generic_command,TCL 高频词,E271,True
+退出蒸发器清洁,关闭自清洁,,generic_command,TCL 高频词,F271,True
+蒸发器清洁退出,关闭自清洁,,generic_command,TCL 高频词,G271,True
+关一下自清洁,关闭自清洁,,generic_command,TCL 高频词,H271,True
+结束自清洁,关闭自清洁,,generic_command,TCL 高频词,I271,True
+自清洁结束,关闭自清洁,,generic_command,TCL 高频词,J271,True
+结束蒸发器清洁,关闭自清洁,,generic_command,TCL 高频词,K271,True
+关闭空调自清洁,关闭自清洁,,generic_command,TCL 高频词,P271,True
+关掉空调自清洁,关闭自清洁,,generic_command,TCL 高频词,E272,True
+不要开自清洁,关闭自清洁,,generic_command,TCL 高频词,F272,True
+不要开清洁,关闭自清洁,,generic_command,TCL 高频词,G272,True
+不要打开自清洁,关闭自清洁,,generic_command,TCL 高频词,H272,True
+不要打开清洁,关闭自清洁,,generic_command,TCL 高频词,I272,True
+自清洁关了吧,关闭自清洁,,generic_command,TCL 高频词,J272,True
+自清洁停掉,关闭自清洁,,generic_command,TCL 高频词,K272,True
+自清洁关一下,关闭自清洁,,generic_command,TCL 高频词,L272,True
+蒸发器清洁关一下,关闭自清洁,,generic_command,TCL 高频词,M272,True
+关闭空调清洁模式,关闭自清洁,,generic_command,TCL 高频词,N272,True
+关闭空调清洁,关闭自清洁,,generic_command,TCL 高频词,O272,True
+退出空调自清洁,关闭自清洁,,generic_command,TCL 高频词,P272,True
+打开电辅热,打开辅热,,generic_command,TCL 高频词,E274,True
+打开电加热,打开辅热,,generic_command,TCL 高频词,F274,True
+辅热模式,打开辅热,,generic_command,TCL 高频词,G274,True
+开启辅热,打开辅热,,generic_command,TCL 高频词,H274,True
+开辅热,打开辅热,,generic_command,TCL 高频词,I274,True
+电辅热模式,打开辅热,,generic_command,TCL 高频词,J274,True
+开电辅热,打开辅热,,generic_command,TCL 高频词,K274,True
+开启电辅热,打开辅热,,generic_command,TCL 高频词,L274,True
+电加热模式,打开辅热,,generic_command,TCL 高频词,M274,True
+辅热开启,打开辅热,,generic_command,TCL 高频词,N274,True
+开一下电辅热,打开辅热,,generic_command,TCL 高频词,O274,True
+开一下电加热,打开辅热,,generic_command,TCL 高频词,P274,True
+开一下辅热,打开辅热,,generic_command,TCL 高频词,E275,True
+电加热打开,打开辅热,,generic_command,TCL 高频词,F275,True
+电加热开启,打开辅热,,generic_command,TCL 高频词,G275,True
+开始电辅热,打开辅热,,generic_command,TCL 高频词,H275,True
+开始电加热,打开辅热,,generic_command,TCL 高频词,I275,True
+设为电加热模式,打开辅热,,generic_command,TCL 高频词,J275,True
+辅热打开,打开辅热,,generic_command,TCL 高频词,K275,True
+启动电加热,打开辅热,,generic_command,TCL 高频词,L275,True
+电加热启动,打开辅热,,generic_command,TCL 高频词,M275,True
+启动电辅热,打开辅热,,generic_command,TCL 高频词,N275,True
+电辅热启动,打开辅热,,generic_command,TCL 高频词,O275,True
+电加热开起来,打开辅热,,generic_command,TCL 高频词,P275,True
+电辅热开起来,打开辅热,,generic_command,TCL 高频词,E276,True
+打开空调电加热,打开辅热,,generic_command,TCL 高频词,F276,True
+打开空调电辅热,打开辅热,,generic_command,TCL 高频词,G276,True
+打开空调辅热,打开辅热,,generic_command,TCL 高频词,H276,True
+空调辅热打开,打开辅热,,generic_command,TCL 高频词,I276,True
+空调电加热打开,打开辅热,,generic_command,TCL 高频词,J276,True
+电辅热开始,打开辅热,,generic_command,TCL 高频词,K276,True
+开电加热,打开辅热,,generic_command,TCL 高频词,L276,True
+关闭电辅热,关闭辅热,,generic_command,TCL 高频词,E278,True
+关闭电加热,关闭辅热,,generic_command,TCL 高频词,F278,True
+关掉电辅热,关闭辅热,,generic_command,TCL 高频词,G278,True
+关掉电加热,关闭辅热,,generic_command,TCL 高频词,H278,True
+辅热关闭,关闭辅热,,generic_command,TCL 高频词,I278,True
+辅热关掉,关闭辅热,,generic_command,TCL 高频词,J278,True
+退出电辅热,关闭辅热,,generic_command,TCL 高频词,K278,True
+退出电加热,关闭辅热,,generic_command,TCL 高频词,L278,True
+电加热退出,关闭辅热,,generic_command,TCL 高频词,M278,True
+电辅热退出,关闭辅热,,generic_command,TCL 高频词,N278,True
+关一下电加热,关闭辅热,,generic_command,TCL 高频词,O278,True
+关一下电辅热,关闭辅热,,generic_command,TCL 高频词,P278,True
+取消电加热,关闭辅热,,generic_command,TCL 高频词,E279,True
+取消电辅热,关闭辅热,,generic_command,TCL 高频词,F279,True
+结束电辅热,关闭辅热,,generic_command,TCL 高频词,G279,True
+结束电加热,关闭辅热,,generic_command,TCL 高频词,H279,True
+关一下空调辅热,关闭辅热,,generic_command,TCL 高频词,I279,True
+关一下空调电加热,关闭辅热,,generic_command,TCL 高频词,J279,True
+关一下空调电辅热,关闭辅热,,generic_command,TCL 高频词,K279,True
+关辅热,关闭辅热,,generic_command,TCL 高频词,L279,True
+关电辅热,关闭辅热,,generic_command,TCL 高频词,M279,True
+关电加热,关闭辅热,,generic_command,TCL 高频词,N279,True
+不要电加热,关闭辅热,,generic_command,TCL 高频词,O279,True
+不要电辅热,关闭辅热,,generic_command,TCL 高频词,P279,True
+不要开电加热,关闭辅热,,generic_command,TCL 高频词,E280,True
+不要开电辅热,关闭辅热,,generic_command,TCL 高频词,F280,True
+不要打开电加热,关闭辅热,,generic_command,TCL 高频词,G280,True
+不要打开电辅热,关闭辅热,,generic_command,TCL 高频词,H280,True
+电加热关了吧,关闭辅热,,generic_command,TCL 高频词,I280,True
+电辅热关了吧,关闭辅热,,generic_command,TCL 高频词,J280,True
+电辅热取消,关闭辅热,,generic_command,TCL 高频词,K280,True
+电加热取消,关闭辅热,,generic_command,TCL 高频词,L280,True
+关闭空调辅热,关闭辅热,,generic_command,TCL 高频词,M280,True
+关闭空调电加热,关闭辅热,,generic_command,TCL 高频词,N280,True
+关闭空调电辅热,关闭辅热,,generic_command,TCL 高频词,O280,True
+关掉空调辅热,关闭辅热,,generic_command,TCL 高频词,P280,True
+关掉空调电辅热,关闭辅热,,generic_command,TCL 高频词,E281,True
+关掉空调电加热,关闭辅热,,generic_command,TCL 高频词,F281,True
+取消辅热,关闭辅热,,generic_command,TCL 高频词,G281,True
+停止辅热,关闭辅热,,generic_command,TCL 高频词,H281,True
+结束辅热,关闭辅热,,generic_command,TCL 高频词,I281,True
+调大音量,增大音量,,core_command | generic_command,TCL 高频词,C284 | E283,True
+加大音量,增大音量,,core_command | generic_command,TCL 高频词,C287 | F283,True
+升高音量,增大音量,,generic_command,TCL 高频词,G283,True
+调高音量,增大音量,,core_command | generic_command,TCL 高频词,C285 | H283,True
+增加音量,增大音量,,generic_command,TCL 高频词,I283,True
+音量大一点,增大音量,,generic_command,TCL 高频词,J283,True
+音量增大,增大音量,,core_command | generic_command,TCL 高频词,C286 | K283 | N284,True
+音量加大,增大音量,,generic_command,TCL 高频词,L283 | O284,True
+音量升高,增大音量,,generic_command,TCL 高频词,F285 | M283,True
+音量调高,增大音量,,generic_command,TCL 高频词,N283 | P284,True
+音量增加,增大音量,,generic_command,TCL 高频词,O283,True
+音量加点,增大音量,,generic_command,TCL 高频词,P283,True
+声音大点,增大音量,,generic_command,TCL 高频词,E284,True
+声音大一点,增大音量,,generic_command,TCL 高频词,F284,True
+大声点,增大音量,,generic_command,TCL 高频词,G284,True
+声音太小,增大音量,,generic_command,TCL 高频词,H284,True
+声音有点小,增大音量,,generic_command,TCL 高频词,I284,True
+大点声,增大音量,,generic_command,TCL 高频词,J284,True
+提高音量,增大音量,,generic_command,TCL 高频词,K284,True
+提高声音,增大音量,,generic_command,TCL 高频词,L284,True
+调大声音,增大音量,,generic_command,TCL 高频词,M284,True
+音量变大,增大音量,,generic_command,TCL 高频词,E285,True
+声音变大,增大音量,,generic_command,TCL 高频词,G285,True
+声音加大,增大音量,,generic_command,TCL 高频词,H285,True
+喇叭大点,增大音量,,generic_command,TCL 高频词,I285,True
+太小声了,增大音量,,generic_command,TCL 高频词,J285,True
+声音再大点,增大音量,,generic_command,TCL 高频词,K285,True
+音量再大点,增大音量,,generic_command,TCL 高频词,L285,True
+增大喇叭音量,增大音量,,generic_command,TCL 高频词,M285,True
+调高喇叭音量,增大音量,,generic_command,TCL 高频词,N285,True
+喇叭音量大一点,增大音量,,generic_command,TCL 高频词,O285,True
+增大音响音量,增大音量,,generic_command,TCL 高频词,P285,True
+增大音响声音,增大音量,,generic_command,TCL 高频词,E286,True
+调高音响音量,增大音量,,generic_command,TCL 高频词,F286,True
+调高音响声音,增大音量,,generic_command,TCL 高频词,G286,True
+增大一点音量,增大音量,,generic_command,TCL 高频词,H286,True
+声音太小了,增大音量,,generic_command,TCL 高频词,I286,True
+音量太小了,增大音量,,generic_command,TCL 高频词,J286,True
+声音调大,增大音量,,generic_command,TCL 高频词,K286,True
+声音调大一点,增大音量,,generic_command,TCL 高频词,L286,True
+声音增大,增大音量,,generic_command,TCL 高频词,M286,True
+声音增大一点,增大音量,,generic_command,TCL 高频词,N286,True
+增大声音,增大音量,,generic_command,TCL 高频词,O286,True
+调高声音,增大音量,,generic_command,TCL 高频词,P286,True
+声音不够大,增大音量,,generic_command,TCL 高频词,E287,True
+音量不够大,增大音量,,generic_command,TCL 高频词,F287,True
+音量开大,增大音量,,generic_command,TCL 高频词,G287,True
+音量开大点,增大音量,,generic_command,TCL 高频词,H287,True
+音量开大些,增大音量,,generic_command,TCL 高频词,I287,True
+音量开大一点,增大音量,,generic_command,TCL 高频词,J287,True
+音量大点,增大音量,,generic_command,TCL 高频词,K287,True
+音量最大,最大音量,,core_command | generic_command,TCL 高频词,C290 | E289,True
+音量调至最大,最大音量,,generic_command,TCL 高频词,F289,True
+声音最大,最大音量,,generic_command,TCL 高频词,G289,True
+最大声音,最大音量,,generic_command,TCL 高频词,H289,True
+最大声,最大音量,,generic_command,TCL 高频词,I289,True
+声音调到最大,最大音量,,generic_command,TCL 高频词,J289,True
+声音增到最大,最大音量,,generic_command,TCL 高频词,K289,True
+声音升到最大,最大音量,,generic_command,TCL 高频词,L289,True
+声音加到最大,最大音量,,generic_command,TCL 高频词,M289,True
+音量调到最大,最大音量,,generic_command,TCL 高频词,N289,True
+音量开到最大,最大音量,,generic_command,TCL 高频词,O289,True
+音量增到最大,最大音量,,generic_command,TCL 高频词,P289,True
+音量升到最大,最大音量,,generic_command,TCL 高频词,E290,True
+音量加到最大,最大音量,,generic_command,TCL 高频词,F290,True
+声音开到最大,最大音量,,generic_command,TCL 高频词,G290,True
+喇叭调到最大,最大音量,,generic_command,TCL 高频词,H290,True
+音量调到最高,最大音量,,generic_command,TCL 高频词,I290,True
+音量百分百,最大音量,,generic_command,TCL 高频词,J290,True
+声音百分百,最大音量,,generic_command,TCL 高频词,K290,True
+声音一百,最大音量,,generic_command,TCL 高频词,L290,True
+音量一百,最大音量,,generic_command,TCL 高频词,M290,True
+空调音量最大,最大音量,,generic_command,TCL 高频词,N290,True
+空调声音最大,最大音量,,generic_command,TCL 高频词,O290,True
+空调最大音量,最大音量,,generic_command,TCL 高频词,P290,True
+空调最大声音,最大音量,,generic_command,TCL 高频词,E291,True
+最大喇叭音量,最大音量,,generic_command,TCL 高频词,F291,True
+最大喇叭声音,最大音量,,generic_command,TCL 高频词,G291,True
+音量中等,中等音量,,core_command,TCL 高频词,D293,True
+音量适中,中等音量,,core_command,TCL 高频词,C294,True
+中档音量,中等音量,,core_command,TCL 高频词,C295,True
+减小音量,降低音量,,core_command,TCL 高频词,C296,True
+调小音量,降低音量,,core_command | generic_command,TCL 高频词,C297 | E296,True
+小点音量,降低音量,,generic_command,TCL 高频词,F296,True
+调低音量,降低音量,,core_command | generic_command,TCL 高频词,C299 | H296,True
+减少音量,降低音量,,generic_command,TCL 高频词,I296,True
+音量小一点,降低音量,,generic_command,TCL 高频词,J296,True
+音量减小,降低音量,,core_command | generic_command,TCL 高频词,C301 | K296,True
+音量降低,降低音量,,generic_command,TCL 高频词,L296,True
+音量减少,降低音量,,generic_command,TCL 高频词,M296,True
+音量调低,降低音量,,generic_command,TCL 高频词,N296,True
+音量减点,降低音量,,generic_command,TCL 高频词,O296,True
+声音小点,降低音量,,generic_command,TCL 高频词,P296,True
+声音小一点,降低音量,,generic_command,TCL 高频词,E297,True
+小声点,降低音量,,generic_command,TCL 高频词,F297,True
+声音太大,降低音量,,generic_command,TCL 高频词,G297,True
+声音有点大,降低音量,,generic_command,TCL 高频词,H297,True
+降低声音,降低音量,,generic_command,TCL 高频词,I297 | M297,True
+调小声音,降低音量,,generic_command,TCL 高频词,J297,True
+小点声,降低音量,,generic_command,TCL 高频词,K297,True
+减小声音,降低音量,,generic_command,TCL 高频词,L297,True
+喇叭小点,降低音量,,generic_command,TCL 高频词,N297,True
+声音变小,降低音量,,generic_command,TCL 高频词,O297,True
+太大声了,降低音量,,generic_command,TCL 高频词,P297,True
+声音再小点,降低音量,,generic_command,TCL 高频词,E298,True
+音量再小点,降低音量,,generic_command,TCL 高频词,F298,True
+音量有点大,降低音量,,generic_command,TCL 高频词,G298,True
+声音调小一点,降低音量,,generic_command,TCL 高频词,H298,True
+音量调小一点,降低音量,,generic_command,TCL 高频词,I298,True
+喇叭音量小点,降低音量,,generic_command,TCL 高频词,J298,True
+喇叭声音小点,降低音量,,generic_command,TCL 高频词,K298,True
+太吵了,降低音量,,generic_command,TCL 高频词,L298,True
+减小一点音量,降低音量,,generic_command,TCL 高频词,M298,True
+声音太大了,降低音量,,generic_command,TCL 高频词,N298 | P299,True
+音量太大了,降低音量,,generic_command,TCL 高频词,O298,True
+声音调小,降低音量,,generic_command,TCL 高频词,E299 | M299 | P298,True
+声音减小,降低音量,,generic_command,TCL 高频词,F299,True
+声音减小一点,降低音量,,generic_command,TCL 高频词,G299,True
+调低声音,降低音量,,generic_command,TCL 高频词,H299,True
+你太吵了,降低音量,,generic_command,TCL 高频词,I299,True
+声音太吵了,降低音量,,generic_command,TCL 高频词,J299,True
+音量开小些,降低音量,,generic_command,TCL 高频词,K299,True
+音量开小点,降低音量,,generic_command,TCL 高频词,L299,True
+声音开小些,降低音量,,generic_command,TCL 高频词,N299,True
+音量开小一点,降低音量,,generic_command,TCL 高频词,O299,True
+音量小点,降低音量,,core_command,TCL 高频词,C300,True
+声音开小一些,降低音量,,generic_command,TCL 高频词,E300,True
+声音开小一点,降低音量,,generic_command,TCL 高频词,F300,True
+声音开小点,降低音量,,generic_command,TCL 高频词,G300,True
+最小音量,最低音量,,core_command,TCL 高频词,C302,True
+音量最小,最低音量,,generic_command,TCL 高频词,E302,True
+音量调至最小,最低音量,,generic_command,TCL 高频词,F302,True
+声音最小,最低音量,,generic_command,TCL 高频词,G302,True
+最小声音,最低音量,,generic_command,TCL 高频词,G303 | H302,True
+最小声,最低音量,,core_command | generic_command,TCL 高频词,C303 | I302,True
+声音调到最小,最低音量,,generic_command,TCL 高频词,J302,True
+声音开到最小,最低音量,,generic_command,TCL 高频词,K302,True
+声音降到最小,最低音量,,generic_command,TCL 高频词,L302,True
+声音减到最小,最低音量,,generic_command,TCL 高频词,M302,True
+音量调到最小,最低音量,,generic_command,TCL 高频词,N302,True
+音量开到最小,最低音量,,generic_command,TCL 高频词,O302,True
+音量降到最小,最低音量,,generic_command,TCL 高频词,P302,True
+音量减到最小,最低音量,,generic_command,TCL 高频词,E303,True
+喇叭调到最小,最低音量,,generic_command,TCL 高频词,F303,True
+音量静音,最低音量,,generic_command,TCL 高频词,H303,True
+声音静音,最低音量,,generic_command,TCL 高频词,I303,True
+音量最低,最低音量,,generic_command,TCL 高频词,K303,True
+开新风,打开新风,,core_command | generic_command,TCL 高频词,C305 | O305,True
+新风打开,打开新风,,generic_command,TCL 高频词,E305,True
+开启新风,打开新风,,generic_command,TCL 高频词,F305,True
+新风开启,打开新风,,generic_command,TCL 高频词,G305,True
+开始新风,打开新风,,generic_command,TCL 高频词,H305,True
+新风开始,打开新风,,generic_command,TCL 高频词,I305,True
+开一下新风,打开新风,,generic_command,TCL 高频词,J305,True
+新风开一下,打开新风,,generic_command,TCL 高频词,K305,True
+新风模式开一下,打开新风,,generic_command,TCL 高频词,L305,True
+新风模式打开,打开新风,,generic_command,TCL 高频词,M305,True
+新风模式开启,打开新风,,generic_command,TCL 高频词,N305,True
+设定新风,打开新风,,generic_command,TCL 高频词,P305,True
+空气太差,打开新风,,generic_command,TCL 高频词,E306,True
+空气好差,打开新风,,generic_command,TCL 高频词,F306,True
+空气闷死了,打开新风,,generic_command,TCL 高频词,G306,True
+闷坏了,打开新风,,generic_command,TCL 高频词,H306,True
+闷死了,打开新风,,generic_command,TCL 高频词,I306,True
+启动新风,打开新风,,generic_command,TCL 高频词,J306,True
+新风启动,打开新风,,generic_command,TCL 高频词,K306,True
+新风模式启动,打开新风,,generic_command,TCL 高频词,L306,True
+开下新风,打开新风,,generic_command,TCL 高频词,M306,True
+新风功能打开,打开新风,,generic_command,TCL 高频词,N306,True
+新风功能开一下,打开新风,,generic_command,TCL 高频词,O306,True
+新风功能开启,打开新风,,generic_command,TCL 高频词,P306,True
+打开独立新风,打开新风,,core_command,TCL 高频词,C307,True
+新风功能开始,打开新风,,generic_command,TCL 高频词,E307,True
+小蓝翼打开,打开新风,,generic_command,TCL 高频词,F307,True
+开启小蓝翼,打开新风,,generic_command,TCL 高频词,G307,True
+小蓝翼开启,打开新风,,generic_command,TCL 高频词,H307,True
+开始小蓝翼,打开新风,,generic_command,TCL 高频词,I307,True
+开一下小蓝翼,打开新风,,generic_command,TCL 高频词,J307,True
+小蓝翼开一下,打开新风,,generic_command,TCL 高频词,K307,True
+切换新风,打开新风,,generic_command,TCL 高频词,L307,True
+新风系统打开,打开新风,,generic_command,TCL 高频词,M307,True
+新风系统开启,打开新风,,generic_command,TCL 高频词,N307,True
+新风系统开一下,打开新风,,generic_command,TCL 高频词,O307,True
+新风系统开开,打开新风,,generic_command,TCL 高频词,P307,True
+打开小蓝翼,打开新风,,core_command | generic_command,TCL 高频词,C308 | E308,True
+好闷啊,打开新风,,generic_command,TCL 高频词,F308,True
+打开空调新风,打开新风,,generic_command,TCL 高频词,G308,True
+空调新风打开,打开新风,,generic_command,TCL 高频词,H308,True
+开启空调新风,打开新风,,generic_command,TCL 高频词,I308,True
+空调新风开启,打开新风,,generic_command,TCL 高频词,J308,True
+开一下空调新风,打开新风,,generic_command,TCL 高频词,K308,True
+空调新风开一下,打开新风,,generic_command,TCL 高频词,L308,True
+新风开起来,打开新风,,generic_command,TCL 高频词,M308,True
+设为新风模式,打开新风,,generic_command,TCL 高频词,N308,True
+打开空调小蓝翼,打开新风,,generic_command,TCL 高频词,O308,True
+空调小蓝翼打开,打开新风,,generic_command,TCL 高频词,P308,True
+新风模式,打开新风,,core_command,TCL 高频词,C309,True
+空气好闷,打开新风,,generic_command,TCL 高频词,E309,True
+空气很闷,打开新风,,generic_command,TCL 高频词,F309,True
+空气不流动,打开新风,,generic_command,TCL 高频词,G309,True
+不通风,打开新风,,generic_command,TCL 高频词,H309,True
+空气不流通,打开新风,,generic_command,TCL 高频词,I309,True
+小蓝翼开起来,打开新风,,generic_command,TCL 高频词,J309,True
+小蓝翼升起来,打开新风,,generic_command,TCL 高频词,K309,True
+升起小蓝翼,打开新风,,generic_command,TCL 高频词,L309,True
+满屋新空气,打开新风,,generic_command,TCL 高频词,M309,True
+打开新风小蓝翼,打开新风,,generic_command,TCL 高频词,N309,True
+打开小蓝翼新风,打开新风,,generic_command,TCL 高频词,O309,True
+小蓝翼新风打开,打开新风,,generic_command,TCL 高频词,P309,True
+通风换气,打开新风,,generic_command,TCL 高频词,E310,True
+空气闷,打开新风,,generic_command,TCL 高频词,F310,True
+空气太闷,打开新风,,generic_command,TCL 高频词,G310,True
+有点闷,打开新风,,generic_command,TCL 高频词,H310,True
+空气很差,打开新风,,generic_command,TCL 高频词,I310,True
+太闷了,打开新风,,generic_command,TCL 高频词,J310,True
+关新风,关闭新风,,core_command,TCL 高频词,C312,True
+新风关闭,关闭新风,,generic_command,TCL 高频词,E312,True
+新风关掉,关闭新风,,generic_command,TCL 高频词,F312,True
+关掉新风,关闭新风,,generic_command,TCL 高频词,G312,True
+关一下新风,关闭新风,,generic_command,TCL 高频词,H312,True
+新风关一下,关闭新风,,generic_command,TCL 高频词,I312,True
+退出新风,关闭新风,,generic_command,TCL 高频词,J312,True
+取消新风模式,关闭新风,,generic_command,TCL 高频词,K312,True
+停掉新风,关闭新风,,generic_command,TCL 高频词,L312,True
+新风停掉,关闭新风,,generic_command,TCL 高频词,M312,True
+新风模式关闭,关闭新风,,generic_command,TCL 高频词,N312,True
+新风模式关掉,关闭新风,,generic_command,TCL 高频词,O312,True
+新风模式关一下,关闭新风,,generic_command,TCL 高频词,P312,True
+新风模式退出,关闭新风,,generic_command,TCL 高频词,E313,True
+新风功能关闭,关闭新风,,generic_command,TCL 高频词,F313,True
+新风功能关掉,关闭新风,,generic_command,TCL 高频词,G313,True
+新风功能关一下,关闭新风,,generic_command,TCL 高频词,H313,True
+新风功能退出,关闭新风,,generic_command,TCL 高频词,I313,True
+小蓝翼关闭,关闭新风,,generic_command,TCL 高频词,J313,True
+小蓝翼关掉,关闭新风,,generic_command,TCL 高频词,K313,True
+关掉小蓝翼,关闭新风,,generic_command,TCL 高频词,L313,True
+退出小蓝翼,关闭新风,,generic_command,TCL 高频词,M313,True
+小蓝翼退出,关闭新风,,generic_command,TCL 高频词,N313,True
+小蓝翼关一下,关闭新风,,generic_command,TCL 高频词,O313,True
+关一下小蓝翼,关闭新风,,generic_command,TCL 高频词,P313,True
+关闭独立新风,关闭新风,,core_command,TCL 高频词,C314,True
+关闭小蓝翼,关闭新风,,core_command | generic_command,TCL 高频词,C315 | E314,True
+关闭空调新风,关闭新风,,generic_command,TCL 高频词,F314,True
+空调新风关闭,关闭新风,,generic_command,TCL 高频词,G314,True
+关掉空调新风,关闭新风,,generic_command,TCL 高频词,H314,True
+空调新风关掉,关闭新风,,generic_command,TCL 高频词,I314,True
+空调新风模式关闭,关闭新风,,generic_command,TCL 高频词,J314,True
+空调新风模式关掉,关闭新风,,generic_command,TCL 高频词,K314,True
+退出空调新风,关闭新风,,generic_command,TCL 高频词,L314,True
+空调新风退出,关闭新风,,generic_command,TCL 高频词,M314,True
+关一下空调新风,关闭新风,,generic_command,TCL 高频词,N314,True
+空调新风关一下,关闭新风,,generic_command,TCL 高频词,O314,True
+关闭空调小蓝翼,关闭新风,,generic_command,TCL 高频词,P314,True
+关闭新风小蓝翼,关闭新风,,generic_command,TCL 高频词,E315,True
+新风小蓝翼关闭,关闭新风,,generic_command,TCL 高频词,F315,True
+关掉新风小蓝翼,关闭新风,,generic_command,TCL 高频词,G315,True
+新风小蓝翼关掉,关闭新风,,generic_command,TCL 高频词,H315,True
+不要新风,关闭新风,,generic_command,TCL 高频词,I315,True
+不要开新风,关闭新风,,generic_command,TCL 高频词,J315,True
+不要打开新风,关闭新风,,generic_command,TCL 高频词,K315,True
+不要小蓝翼,关闭新风,,generic_command,TCL 高频词,L315,True
+不要打开小蓝翼,关闭新风,,generic_command,TCL 高频词,M315 | N315,True
+结束新风,关闭新风,,generic_command,TCL 高频词,O315,True
+净化模式关掉,关闭新风,,generic_command,TCL 高频词,P315,True
+关闭呼吸模式,关闭新风,,generic_command,TCL 高频词,E316,True
+关闭排气模式,关闭新风,,generic_command,TCL 高频词,F316,True
+关掉呼吸模式,关闭新风,,generic_command,TCL 高频词,H316,True
+关掉排气模式,关闭新风,,generic_command,TCL 高频词,I316,True
+关掉净化模式,关闭新风,,generic_command,TCL 高频词,J316,True
+呼吸模式关闭,关闭新风,,generic_command,TCL 高频词,K316,True
+呼吸模式关掉,关闭新风,,generic_command,TCL 高频词,L316,True
+排气模式关闭,关闭新风,,generic_command,TCL 高频词,M316,True
+排气模式关掉,关闭新风,,generic_command,TCL 高频词,N316,True
+净化模式关闭,关闭新风,,generic_command,TCL 高频词,O316,True
+新风增大,增大新风,,generic_command,TCL 高频词,E318,True
+新风加大,增大新风,,generic_command,TCL 高频词,F318,True
+新风调大,增大新风,,generic_command,TCL 高频词,G318,True
+新风调高,增大新风,,generic_command,TCL 高频词,H318,True
+新风升高,增大新风,,generic_command,TCL 高频词,I318,True
+升高新风,增大新风,,generic_command,TCL 高频词,J318,True
+新风大一点,增大新风,,generic_command,TCL 高频词,K318,True
+新风调大一点,增大新风,,generic_command,TCL 高频词,L318,True
+新风调高一点,增大新风,,generic_command,TCL 高频词,M318,True
+新风增大一点,增大新风,,generic_command,TCL 高频词,N318,True
+新风风速增大,增大新风,,generic_command,TCL 高频词,O318,True
+新风风速加大,增大新风,,generic_command,TCL 高频词,P318,True
+加大新风,增大新风,,core_command,TCL 高频词,C319,True
+新风风速调大,增大新风,,generic_command,TCL 高频词,E319,True
+新风风速调高,增大新风,,generic_command,TCL 高频词,F319,True
+新风风速大一点,增大新风,,generic_command,TCL 高频词,G319,True
+新风风速调大点,增大新风,,generic_command,TCL 高频词,H319,True
+新风风速调高点,增大新风,,generic_command,TCL 高频词,I319,True
+新风风档增大,增大新风,,generic_command,TCL 高频词,J319,True
+新风风档调高,增大新风,,generic_command,TCL 高频词,K319,True
+新风风档大一点,增大新风,,generic_command,TCL 高频词,L319,True
+增大新风风速,增大新风,,generic_command,TCL 高频词,M319,True
+加大新风风速,增大新风,,generic_command,TCL 高频词,N319,True
+调大新风风速,增大新风,,generic_command,TCL 高频词,O319,True
+调高新风风速,增大新风,,generic_command,TCL 高频词,P319,True
+调高新风,增大新风,,core_command,TCL 高频词,C320,True
+升高新风风速,增大新风,,generic_command,TCL 高频词,E320,True
+新风猛一点,增大新风,,generic_command,TCL 高频词,F320,True
+新风快一点,增大新风,,generic_command,TCL 高频词,G320,True
+换气快一点,增大新风,,generic_command,TCL 高频词,H320,True
+增大新风风量,增大新风,,generic_command,TCL 高频词,I320,True
+加大新风风量,增大新风,,generic_command,TCL 高频词,J320,True
+调大新风风量,增大新风,,generic_command,TCL 高频词,K320,True
+调高新风风量,增大新风,,generic_command,TCL 高频词,L320,True
+升高新风风量,增大新风,,generic_command,TCL 高频词,M320,True
+新风风量加大,增大新风,,generic_command,TCL 高频词,N320,True
+新风风量增大,增大新风,,generic_command,TCL 高频词,O320,True
+新风风量调高,增大新风,,generic_command,TCL 高频词,P320,True
+调大新风,增大新风,,core_command,TCL 高频词,C321,True
+新风风量升高,增大新风,,generic_command,TCL 高频词,E321,True
+增大空调新风,增大新风,,generic_command,TCL 高频词,F321,True
+加大空调新风,增大新风,,generic_command,TCL 高频词,G321,True
+调大空调新风,增大新风,,generic_command,TCL 高频词,H321,True
+调高空调新风,增大新风,,generic_command,TCL 高频词,I321,True
+升高空调新风,增大新风,,generic_command,TCL 高频词,J321,True
+空调新风增大,增大新风,,generic_command,TCL 高频词,K321,True
+空调新风加大,增大新风,,generic_command,TCL 高频词,L321,True
+空调新风调大,增大新风,,generic_command,TCL 高频词,M321,True
+空调新风调高,增大新风,,generic_command,TCL 高频词,N321,True
+空调新风升高,增大新风,,generic_command,TCL 高频词,O321,True
+空调新风大一点,增大新风,,generic_command,TCL 高频词,P321,True
+新风量增大,增大新风,,generic_command,TCL 高频词,E322,True
+新风量加大,增大新风,,generic_command,TCL 高频词,F322,True
+新风量调大,增大新风,,generic_command,TCL 高频词,G322,True
+新风量调高,增大新风,,generic_command,TCL 高频词,H322,True
+新风量升高,增大新风,,generic_command,TCL 高频词,I322,True
+增大新风量,增大新风,,generic_command,TCL 高频词,J322,True
+加大新风量,增大新风,,generic_command,TCL 高频词,K322,True
+调大新风量,增大新风,,generic_command,TCL 高频词,L322,True
+调高新风量,增大新风,,generic_command,TCL 高频词,M322,True
+升高新风量,增大新风,,generic_command,TCL 高频词,N322,True
+新风减小,减小新风,,generic_command,TCL 高频词,E324,True
+新风调小,减小新风,,generic_command,TCL 高频词,F324,True
+新风降低,减小新风,,generic_command,TCL 高频词,G324,True
+新风调低,减小新风,,generic_command,TCL 高频词,H324,True
+新风变小,减小新风,,generic_command,TCL 高频词,I324,True
+新风小一点,减小新风,,generic_command,TCL 高频词,J324,True
+新风风速小一点,减小新风,,generic_command,TCL 高频词,K324 | P324,True
+新风风档小一点,减小新风,,generic_command,TCL 高频词,E325 | L324,True
+新风风速减小,减小新风,,generic_command,TCL 高频词,M324,True
+新风风速调小,减小新风,,generic_command,TCL 高频词,N324,True
+新风风速降低,减小新风,,generic_command,TCL 高频词,O324,True
+调小新风,减小新风,,core_command,TCL 高频词,C325,True
+减小新风风速,减小新风,,generic_command,TCL 高频词,F325,True
+调小新风风速,减小新风,,generic_command,TCL 高频词,G325,True
+降低新风风速,减小新风,,generic_command,TCL 高频词,H325,True
+调低新风风速,减小新风,,generic_command,TCL 高频词,I325,True
+减小新风风量,减小新风,,generic_command,TCL 高频词,J325,True
+调小新风风量,减小新风,,generic_command,TCL 高频词,K325,True
+降低新风风量,减小新风,,generic_command,TCL 高频词,L325,True
+调低新风风量,减小新风,,generic_command,TCL 高频词,M325,True
+减小空调新风,减小新风,,generic_command,TCL 高频词,N325,True
+调小空调新风,减小新风,,generic_command,TCL 高频词,O325,True
+降低空调新风,减小新风,,generic_command,TCL 高频词,P325,True
+调低新风,减小新风,,core_command,TCL 高频词,C326,True
+调低空调新风,减小新风,,generic_command,TCL 高频词,E326,True
+空调新风降低,减小新风,,generic_command,TCL 高频词,F326,True
+空调新风调低,减小新风,,generic_command,TCL 高频词,G326,True
+空调新风调小,减小新风,,generic_command,TCL 高频词,H326,True
+空调新风减小,减小新风,,generic_command,TCL 高频词,I326,True
+新风风量减小,减小新风,,generic_command,TCL 高频词,J326,True
+新风风量调小,减小新风,,generic_command,TCL 高频词,K326,True
+新风风量降低,减小新风,,generic_command,TCL 高频词,L326,True
+新风风量调低,减小新风,,generic_command,TCL 高频词,M326,True
+减小新风量,减小新风,,generic_command,TCL 高频词,N326,True
+调小新风量,减小新风,,generic_command,TCL 高频词,O326,True
+降低新风量,减小新风,,generic_command,TCL 高频词,P326,True
+降低新风,减小新风,,core_command,TCL 高频词,C327,True
+调低新风量,减小新风,,generic_command,TCL 高频词,E327,True
+新风量减小,减小新风,,generic_command,TCL 高频词,F327,True
+新风量调小,减小新风,,generic_command,TCL 高频词,G327,True
+新风量降低,减小新风,,generic_command,TCL 高频词,H327,True
+新风量调低,减小新风,,generic_command,TCL 高频词,I327,True
+新风调到低风,新风低风,,generic_command,TCL 高频词,E329,True
+新风设为低风,新风低风,,generic_command,TCL 高频词,F329,True
+新风降到低风,新风低风,,generic_command,TCL 高频词,G329,True
+新风调到最小,新风低风,,generic_command,TCL 高频词,H329,True
+最小新风,新风低风,,generic_command,TCL 高频词,J329,True
+最低新风,新风低风,,generic_command,TCL 高频词,K329,True
+新风调到静音,新风低风,,generic_command,TCL 高频词,L329,True
+新风空调最小风,新风低风,,generic_command,TCL 高频词,M329,True
+新风调到最小风,新风低风,,generic_command,TCL 高频词,N329,True
+新风设为最小风,新风低风,,generic_command,TCL 高频词,O329,True
+新风调到最低风,新风低风,,generic_command,TCL 高频词,P329,True
+新风设为最低风,新风低风,,generic_command,TCL 高频词,E330,True
+新风低风档,新风低风,,generic_command,TCL 高频词,F330,True
+新风一档风,新风低风,,generic_command,TCL 高频词,G330,True
+新风量低风档,新风低风,,generic_command,TCL 高频词,H330,True
+新风量最低风,新风低风,,generic_command,TCL 高频词,I330,True
+新风量最小风,新风低风,,generic_command,TCL 高频词,J330,True
+新风静音档,新风低风,,generic_command,TCL 高频词,K330,True
+新风静音风,新风低风,,generic_command,TCL 高频词,L330,True
+新风最低风,新风低风,,generic_command,TCL 高频词,M330,True
+新风调到中风,新风中风,,generic_command,TCL 高频词,E332 | H332,True
+新风设为中风,新风中风,,generic_command,TCL 高频词,F332 | N332,True
+新风设置中风,新风中风,,generic_command,TCL 高频词,G332,True
+新风中等风,新风中风,,generic_command,TCL 高频词,I332 | K332,True
+新风中速风,新风中风,,generic_command,TCL 高频词,J332,True
+新风中风档,新风中风,,generic_command,TCL 高频词,L332,True
+新风调到中速风,新风中风,,generic_command,TCL 高频词,M332,True
+新风空调中风档,新风中风,,generic_command,TCL 高频词,O332,True
+新风二档风,新风中风,,generic_command,TCL 高频词,P332,True
+新风量中风档,新风中风,,generic_command,TCL 高频词,E333,True
+新风量中速风,新风中风,,generic_command,TCL 高频词,F333,True
+新风量中等风,新风中风,,generic_command,TCL 高频词,G333,True
+新风调到高风,新风高风,,generic_command,TCL 高频词,E335 | H335,True
+新风设为高风,新风高风,,generic_command,TCL 高频词,F335 | N335,True
+新风升到高风,新风高风,,generic_command,TCL 高频词,G335,True
+新风高风档,新风高风,,generic_command,TCL 高频词,I335,True
+新风高速风,新风高风,,generic_command,TCL 高频词,J335,True
+新风高等风,新风高风,,generic_command,TCL 高频词,K335,True
+新风调到高速风,新风高风,,generic_command,TCL 高频词,M335,True
+新风空调高风档,新风高风,,generic_command,TCL 高频词,O335,True
+新风三档风,新风高风,,generic_command,TCL 高频词,P335,True
+新风调到最大,新风高风,,generic_command,TCL 高频词,E336,True
+新风最大档,新风高风,,generic_command,TCL 高频词,F336,True
+新风最高风,新风高风,,generic_command,TCL 高频词,G336,True
+新风调到最高,新风高风,,generic_command,TCL 高频词,I336,True
+新风风速最大风,新风高风,,generic_command,TCL 高频词,J336,True
+新风风档最大风,新风高风,,generic_command,TCL 高频词,K336,True
+新风量高风档,新风高风,,generic_command,TCL 高频词,L336,True
+新风量高速风,新风高风,,generic_command,TCL 高频词,M336,True
+新风量最大风,新风高风,,generic_command,TCL 高频词,N336,True
+新风强力档,新风高风,,generic_command,TCL 高频词,O336,True
+新风强力风,新风高风,,generic_command,TCL 高频词,P336,True
+新风强劲档,新风高风,,generic_command,TCL 高频词,E337,True
+新风强劲风,新风高风,,generic_command,TCL 高频词,F337,True
+最大新风,新风高风,,generic_command,TCL 高频词,G337,True
+新风自动,新风自动风,,core_command,TCL 高频词,C339,True
+新风智能,新风自动风,,core_command,TCL 高频词,D339,True
+新风风速自动,新风自动风,,generic_command,TCL 高频词,E339,True
+新风调到自动,新风自动风,,generic_command,TCL 高频词,F339,True
+新风自动模式,新风自动风,,generic_command,TCL 高频词,G339,True
+新风设为自动档,新风自动风,,generic_command,TCL 高频词,H339,True
+新风自动档,新风自动风,,generic_command,TCL 高频词,I339,True
+新风智能风,新风自动风,,generic_command,TCL 高频词,K339,True
+新风风档自动,新风自动风,,generic_command,TCL 高频词,L339,True
+新风调到智能风,新风自动风,,generic_command,TCL 高频词,M339,True
+空调新风自动档,新风自动风,,generic_command,TCL 高频词,N339,True
+新风量自动,新风自动风,,generic_command,TCL 高频词,O339,True
+新风量自动档,新风自动风,,generic_command,TCL 高频词,P339,True
+自动新风,新风自动风,,core_command,TCL 高频词,C340,True
+智能新风,新风自动风,,core_command,TCL 高频词,C341,True
+打开呼吸模式,呼吸模式,,generic_command,TCL 高频词,E342,True
+开启呼吸模式,呼吸模式,,generic_command,TCL 高频词,F342,True
+开呼吸模式,呼吸模式,,generic_command,TCL 高频词,G342,True
+呼吸模式打开,呼吸模式,,generic_command,TCL 高频词,H342,True
+呼吸模式开一下,呼吸模式,,generic_command,TCL 高频词,I342,True
+呼吸模式开启,呼吸模式,,generic_command,TCL 高频词,J342,True
+空调呼吸模式,呼吸模式,,generic_command,TCL 高频词,K342,True
+空调呼吸功能,呼吸模式,,generic_command,TCL 高频词,L342,True
+空气呼吸模式,呼吸模式,,generic_command,TCL 高频词,M342,True
+切换到呼吸模式,呼吸模式,,generic_command,TCL 高频词,N342,True
+调整为呼吸模式,呼吸模式,,generic_command,TCL 高频词,O342,True
+打开新风呼吸模式,呼吸模式,,generic_command,TCL 高频词,P342,True
+新风呼吸模式打开,呼吸模式,,generic_command,TCL 高频词,E343,True
+开启新风呼吸模式,呼吸模式,,generic_command,TCL 高频词,F343,True
+新风呼吸模式开启,呼吸模式,,generic_command,TCL 高频词,G343,True
+开一下呼吸模式,呼吸模式,,generic_command,TCL 高频词,H343,True
+启动呼吸模式,呼吸模式,,generic_command,TCL 高频词,I343,True
+呼吸模式启动,呼吸模式,,generic_command,TCL 高频词,J343,True
+开始呼吸,呼吸模式,,generic_command,TCL 高频词,K343,True
+打开空气呼吸模式,呼吸模式,,generic_command,TCL 高频词,L343,True
+开启空气呼吸模式,呼吸模式,,generic_command,TCL 高频词,M343,True
+空气呼吸模式开启,呼吸模式,,generic_command,TCL 高频词,N343,True
+新风呼吸模式,呼吸模式,,generic_command,TCL 高频词,O343,True
+打开排气模式,排气模式,,generic_command,TCL 高频词,E345,True
+开启排气模式,排气模式,,generic_command,TCL 高频词,F345,True
+开排气模式,排气模式,,generic_command,TCL 高频词,G345,True
+排气模式打开,排气模式,,generic_command,TCL 高频词,H345,True
+排气模式开一下,排气模式,,generic_command,TCL 高频词,I345,True
+排气模式开启,排气模式,,generic_command,TCL 高频词,J345,True
+空调排气模式,排气模式,,generic_command,TCL 高频词,K345,True
+空调排气功能,排气模式,,generic_command,TCL 高频词,L345,True
+空气排气模式,排气模式,,generic_command,TCL 高频词,M345,True
+切换到排气模式,排气模式,,generic_command,TCL 高频词,N345,True
+调整为排气模式,排气模式,,generic_command,TCL 高频词,O345,True
+打开新风排气模式,排气模式,,generic_command,TCL 高频词,P345,True
+新风排气模式打开,排气模式,,generic_command,TCL 高频词,E346,True
+开启新风排气模式,排气模式,,generic_command,TCL 高频词,F346,True
+新风排气模式开启,排气模式,,generic_command,TCL 高频词,G346,True
+开一下排气模式,排气模式,,generic_command,TCL 高频词,H346,True
+启动排气模式,排气模式,,generic_command,TCL 高频词,I346,True
+排气模式启动,排气模式,,generic_command,TCL 高频词,J346,True
+开启排气,排气模式,,generic_command,TCL 高频词,K346,True
+打开空气排气模式,排气模式,,generic_command,TCL 高频词,L346,True
+空气排气模式打开,排气模式,,generic_command,TCL 高频词,M346,True
+开启空气排气模式,排气模式,,generic_command,TCL 高频词,N346,True
+空气排气模式开启,排气模式,,generic_command,TCL 高频词,O346,True
+新风排气模式,排气模式,,generic_command,TCL 高频词,P346,True
+防直吹打开,打开防直吹,,generic_command,TCL 高频词,E348,True
+防直吹模式打开,打开防直吹,,generic_command,TCL 高频词,F348,True
+防直吹功能打开,打开防直吹,,generic_command,TCL 高频词,G348,True
+防直吹开启,打开防直吹,,generic_command,TCL 高频词,H348,True
+防直吹模式开启,打开防直吹,,generic_command,TCL 高频词,I348,True
+防直吹功能开启,打开防直吹,,generic_command,TCL 高频词,J348,True
+开防直吹,打开防直吹,,generic_command,TCL 高频词,K348,True
+开始防直吹,打开防直吹,,generic_command,TCL 高频词,L348,True
+开一下防直吹,打开防直吹,,generic_command,TCL 高频词,M348,True
+不要直吹,打开防直吹,,generic_command,TCL 高频词,O348,True
+别直吹,打开防直吹,,generic_command,TCL 高频词,P348,True
+防直吹模式,打开防直吹,,core_command | generic_command,TCL 高频词,C349 | J349,True
+设为防直吹,打开防直吹,,generic_command,TCL 高频词,E349,True
+防直吹开一下,打开防直吹,,generic_command,TCL 高频词,F349,True
+切换到防直吹,打开防直吹,,generic_command,TCL 高频词,G349,True
+切换防直吹,打开防直吹,,generic_command,TCL 高频词,H349,True
+防直吹,打开防直吹,,generic_command,TCL 高频词,I349,True
+防直吹关闭,关闭防直吹,,generic_command,TCL 高频词,E351,True
+防直吹模式关闭,关闭防直吹,,generic_command,TCL 高频词,F351,True
+防直吹功能关闭,关闭防直吹,,generic_command,TCL 高频词,G351,True
+关防直吹,关闭防直吹,,generic_command,TCL 高频词,H351,True
+退出防直吹,关闭防直吹,,generic_command,TCL 高频词,I351,True
+关一下防直吹,关闭防直吹,,generic_command,TCL 高频词,J351,True
+取消防直吹,关闭防直吹,,generic_command,TCL 高频词,K351,True
+防直吹关一下,关闭防直吹,,generic_command,TCL 高频词,L351,True
+关掉防直吹,关闭防直吹,,generic_command,TCL 高频词,M351,True
+防直吹关掉,关闭防直吹,,generic_command,TCL 高频词,N351,True
+防直吹功能关掉,关闭防直吹,,generic_command,TCL 高频词,O351,True
+防直吹模式关掉,关闭防直吹,,generic_command,TCL 高频词,P351,True
+不要防直吹,关闭防直吹,,generic_command,TCL 高频词,E352,True
+防直吹退出,关闭防直吹,,generic_command,TCL 高频词,F352,True
+结束防直吹,关闭防直吹,,generic_command,TCL 高频词,G352,True
+防直吹结束,关闭防直吹,,generic_command,TCL 高频词,H352,True
+防直吹关了吧,关闭防直吹,,generic_command,TCL 高频词,I352,True
+防直吹取消,关闭防直吹,,generic_command,TCL 高频词,J352,True
+停止防直吹,关闭防直吹,,generic_command,TCL 高频词,K352,True
+防直吹停止,关闭防直吹,,generic_command,TCL 高频词,L352,True
+健康模式,打开健康,,generic_command,TCL 高频词,F354,True
+健康打开,打开健康,,generic_command,TCL 高频词,G354,True
+开启健康,打开健康,,generic_command,TCL 高频词,H354,True
+健康开启,打开健康,,generic_command,TCL 高频词,I354,True
+开一下健康,打开健康,,generic_command,TCL 高频词,J354,True
+健康开一下,打开健康,,generic_command,TCL 高频词,K354,True
+开开健康,打开健康,,generic_command,TCL 高频词,L354,True
+健康开开,打开健康,,generic_command,TCL 高频词,M354,True
+开健康,打开健康,,generic_command,TCL 高频词,N354,True
+启动健康,打开健康,,generic_command,TCL 高频词,O354,True
+健康启动,打开健康,,generic_command,TCL 高频词,P354,True
+健康开起来,打开健康,,generic_command,TCL 高频词,E355,True
+开下健康,打开健康,,generic_command,TCL 高频词,F355,True
+健康开下,打开健康,,generic_command,TCL 高频词,G355,True
+开始健康,打开健康,,generic_command,TCL 高频词,H355,True
+健康开始,打开健康,,generic_command,TCL 高频词,I355,True
+要健康,打开健康,,generic_command,TCL 高频词,J355,True
+健康模式打开,打开健康,,generic_command,TCL 高频词,K355,True
+健康模式开启,打开健康,,generic_command,TCL 高频词,L355,True
+健康模式开一下,打开健康,,generic_command,TCL 高频词,M355,True
+健康模式开开,打开健康,,generic_command,TCL 高频词,N355,True
+健康模式启动,打开健康,,generic_command,TCL 高频词,O355,True
+健康模式开起来,打开健康,,generic_command,TCL 高频词,P355,True
+健康模式开下,打开健康,,generic_command,TCL 高频词,E356,True
+健康模式开始,打开健康,,generic_command,TCL 高频词,F356,True
+开启健康模式,打开健康,,generic_command,TCL 高频词,G356,True
+开一下健康模式,打开健康,,generic_command,TCL 高频词,H356,True
+健康关闭,关闭健康,,generic_command,TCL 高频词,F358,True
+关掉健康,关闭健康,,generic_command,TCL 高频词,G358,True
+健康关掉,关闭健康,,generic_command,TCL 高频词,H358,True
+关一下健康,关闭健康,,generic_command,TCL 高频词,I358,True
+健康关一下,关闭健康,,generic_command,TCL 高频词,J358,True
+关健康,关闭健康,,generic_command,TCL 高频词,K358,True
+取消健康,关闭健康,,generic_command,TCL 高频词,L358,True
+健康取消,关闭健康,,generic_command,TCL 高频词,M358,True
+停止健康,关闭健康,,generic_command,TCL 高频词,N358,True
+健康停止,关闭健康,,generic_command,TCL 高频词,O358,True
+结束健康,关闭健康,,generic_command,TCL 高频词,P358,True
+健康结束,关闭健康,,generic_command,TCL 高频词,E359,True
+不要健康,关闭健康,,generic_command,TCL 高频词,F359,True
+不要打开健康,关闭健康,,generic_command,TCL 高频词,G359,True
+不要开健康,关闭健康,,generic_command,TCL 高频词,H359,True
+健康给关闭,关闭健康,,generic_command,TCL 高频词,I359,True
+健康给关掉,关闭健康,,generic_command,TCL 高频词,J359,True
+健康关了吧,关闭健康,,generic_command,TCL 高频词,K359,True
+健康模式关闭,关闭健康,,generic_command,TCL 高频词,L359,True
+健康模式关掉,关闭健康,,generic_command,TCL 高频词,M359,True
+健康模式关一下,关闭健康,,generic_command,TCL 高频词,N359,True
+健康模式关了吧,关闭健康,,generic_command,TCL 高频词,O359,True
+关闭健康模式,关闭健康,,generic_command,TCL 高频词,P359,True
+取消健康模式,关闭健康,,generic_command,TCL 高频词,E360,True
+健康模式取消,关闭健康,,generic_command,TCL 高频词,F360,True
+除菌模式,打开除菌,,generic_command,TCL 高频词,E362,True
+杀菌模式,打开除菌,,generic_command,TCL 高频词,F362,True
+除菌打开,打开除菌,,generic_command,TCL 高频词,G362,True
+开启除菌,打开除菌,,generic_command,TCL 高频词,H362,True
+除菌开启,打开除菌,,generic_command,TCL 高频词,I362,True
+开一下除菌,打开除菌,,generic_command,TCL 高频词,J362,True
+除菌开一下,打开除菌,,generic_command,TCL 高频词,K362,True
+开开除菌,打开除菌,,generic_command,TCL 高频词,L362,True
+除菌开开,打开除菌,,generic_command,TCL 高频词,M362,True
+开除菌,打开除菌,,generic_command,TCL 高频词,N362,True
+启动除菌,打开除菌,,generic_command,TCL 高频词,O362,True
+除菌启动,打开除菌,,generic_command,TCL 高频词,P362,True
+除菌开起来,打开除菌,,generic_command,TCL 高频词,E363,True
+开下除菌,打开除菌,,generic_command,TCL 高频词,F363,True
+除菌开下,打开除菌,,generic_command,TCL 高频词,G363,True
+开始除菌,打开除菌,,generic_command,TCL 高频词,H363,True
+除菌开始,打开除菌,,generic_command,TCL 高频词,I363,True
+要除菌,打开除菌,,generic_command,TCL 高频词,J363,True
+打开杀菌,打开除菌,,generic_command,TCL 高频词,K363,True
+杀菌打开,打开除菌,,generic_command,TCL 高频词,L363,True
+开启杀菌,打开除菌,,generic_command,TCL 高频词,M363,True
+杀菌开启,打开除菌,,generic_command,TCL 高频词,N363,True
+开一下杀菌,打开除菌,,generic_command,TCL 高频词,O363,True
+杀菌开一下,打开除菌,,generic_command,TCL 高频词,P363,True
+开开杀菌,打开除菌,,generic_command,TCL 高频词,E364,True
+杀菌开开,打开除菌,,generic_command,TCL 高频词,F364,True
+开杀菌,打开除菌,,generic_command,TCL 高频词,G364,True
+启动杀菌,打开除菌,,generic_command,TCL 高频词,H364,True
+杀菌启动,打开除菌,,generic_command,TCL 高频词,I364,True
+杀菌开起来,打开除菌,,generic_command,TCL 高频词,J364,True
+开下杀菌,打开除菌,,generic_command,TCL 高频词,K364,True
+杀菌开下,打开除菌,,generic_command,TCL 高频词,L364,True
+开始杀菌,打开除菌,,generic_command,TCL 高频词,M364,True
+杀菌开始,打开除菌,,generic_command,TCL 高频词,N364,True
+要杀菌,打开除菌,,generic_command,TCL 高频词,O364,True
+除菌模式开始,打开除菌,,generic_command,TCL 高频词,P364,True
+除菌关闭,关闭除菌,,generic_command,TCL 高频词,E366,True
+关掉除菌,关闭除菌,,generic_command,TCL 高频词,F366,True
+除菌关掉,关闭除菌,,generic_command,TCL 高频词,G366,True
+关一下除菌,关闭除菌,,generic_command,TCL 高频词,H366,True
+除菌关一下,关闭除菌,,generic_command,TCL 高频词,I366,True
+关关除菌,关闭除菌,,generic_command,TCL 高频词,J366,True
+除菌关关,关闭除菌,,generic_command,TCL 高频词,K366,True
+关除菌,关闭除菌,,generic_command,TCL 高频词,L366,True
+取消除菌,关闭除菌,,generic_command,TCL 高频词,M366,True
+除菌取消,关闭除菌,,generic_command,TCL 高频词,N366,True
+除菌停止,关闭除菌,,generic_command,TCL 高频词,O366,True
+停止除菌,关闭除菌,,generic_command,TCL 高频词,P366,True
+结束除菌,关闭除菌,,generic_command,TCL 高频词,E367,True
+除菌结束,关闭除菌,,generic_command,TCL 高频词,F367,True
+不要除菌,关闭除菌,,generic_command,TCL 高频词,G367,True
+不要打开除菌,关闭除菌,,generic_command,TCL 高频词,H367,True
+不要开除菌,关闭除菌,,generic_command,TCL 高频词,I367,True
+除菌给关闭,关闭除菌,,generic_command,TCL 高频词,J367,True
+除菌给关掉,关闭除菌,,generic_command,TCL 高频词,K367,True
+除菌关了吧,关闭除菌,,generic_command,TCL 高频词,L367,True
+关闭杀菌,关闭除菌,,generic_command,TCL 高频词,M367,True
+杀菌关闭,关闭除菌,,generic_command,TCL 高频词,N367,True
+关掉杀菌,关闭除菌,,generic_command,TCL 高频词,O367,True
+杀菌关掉,关闭除菌,,generic_command,TCL 高频词,P367,True
+关一下杀菌,关闭除菌,,generic_command,TCL 高频词,E368,True
+杀菌关一下,关闭除菌,,generic_command,TCL 高频词,F368,True
+关杀菌,关闭除菌,,generic_command,TCL 高频词,G368,True
+取消杀菌,关闭除菌,,generic_command,TCL 高频词,H368,True
+杀菌取消,关闭除菌,,generic_command,TCL 高频词,I368,True
+停止杀菌,关闭除菌,,generic_command,TCL 高频词,J368,True
+杀菌停止,关闭除菌,,generic_command,TCL 高频词,K368,True
+结束杀菌,关闭除菌,,generic_command,TCL 高频词,L368,True
+杀菌结束,关闭除菌,,generic_command,TCL 高频词,M368,True
+打开速冷模式,打开速冷,,generic_command,TCL 高频词,E370,True
+速冷模式打开,打开速冷,,generic_command,TCL 高频词,G370,True
+开启速冷模式,打开速冷,,generic_command,TCL 高频词,H370,True
+开启速冷,打开速冷,,generic_command,TCL 高频词,I370,True
+快速制冷,打开速冷,,generic_command,TCL 高频词,J370,True
+开启快速制冷,打开速冷,,generic_command,TCL 高频词,K370,True
+启动快速制冷,打开速冷,,generic_command,TCL 高频词,L370,True
+打开快速制冷,打开速冷,,generic_command,TCL 高频词,M370,True
+速冷打开,打开速冷,,generic_command,TCL 高频词,N370,True
+开一下速冷模式,打开速冷,,generic_command,TCL 高频词,O370,True
+打开速冷功能,打开速冷,,generic_command,TCL 高频词,P370,True
+速冷模式,打开速冷,,core_command,TCL 高频词,C371,True
+速冷功能,打开速冷,,generic_command,TCL 高频词,E371,True
+速冷功能打开,打开速冷,,generic_command,TCL 高频词,F371,True
+关闭速冷模式,关闭速冷,,generic_command,TCL 高频词,E373,True
+速冷模式关闭,关闭速冷,,generic_command,TCL 高频词,G373,True
+关掉速冷模式,关闭速冷,,generic_command,TCL 高频词,H373,True
+停止快速制冷,关闭速冷,,generic_command,TCL 高频词,I373,True
+关闭快速制冷,关闭速冷,,generic_command,TCL 高频词,J373,True
+结束快速制冷,关闭速冷,,generic_command,TCL 高频词,K373,True
+关掉快速制冷,关闭速冷,,generic_command,TCL 高频词,L373,True
+速冷模式关掉,关闭速冷,,generic_command,TCL 高频词,M373,True
+关一下速冷模式,关闭速冷,,generic_command,TCL 高频词,N373,True
+关闭速冷功能,关闭速冷,,generic_command,TCL 高频词,O373,True
+速冷功能关闭,关闭速冷,,generic_command,TCL 高频词,P373,True
+打开爆炒模式,打开爆炒,,generic_command,TCL 高频词,E376,True
+爆炒模式打开,打开爆炒,,generic_command,TCL 高频词,G376,True
+启动爆炒功能,打开爆炒,,generic_command,TCL 高频词,H376,True
+开启爆炒,打开爆炒,,generic_command,TCL 高频词,I376,True
+炒菜模式,打开爆炒,,generic_command,TCL 高频词,J376,True
+打开炒菜模式,打开爆炒,,generic_command,TCL 高频词,K376,True
+开始炒菜,打开爆炒,,generic_command,TCL 高频词,L376,True
+我要炒菜了,打开爆炒,,generic_command,TCL 高频词,M376,True
+开始爆炒,打开爆炒,,generic_command,TCL 高频词,N376,True
+开始煮菜,打开爆炒,,generic_command,TCL 高频词,O376,True
+煮菜模式,打开爆炒,,generic_command,TCL 高频词,P376,True
+爆炒模式,打开爆炒,,core_command,TCL 高频词,C377,True
+爆炒功能,打开爆炒,,generic_command,TCL 高频词,E377,True
+炒菜功能,打开爆炒,,generic_command,TCL 高频词,F377,True
+煮菜功能,打开爆炒,,generic_command,TCL 高频词,G377,True
+开一下爆炒模式,打开爆炒,,generic_command,TCL 高频词,H377,True
+关闭爆炒模式,关闭爆炒,,generic_command,TCL 高频词,E379,True
+爆炒模式关闭,关闭爆炒,,generic_command,TCL 高频词,G379,True
+结束炒菜模式,关闭爆炒,,generic_command,TCL 高频词,H379,True
+爆炒模式关掉,关闭爆炒,,generic_command,TCL 高频词,I379,True
+炒完菜了,关闭爆炒,,generic_command,TCL 高频词,J379,True
+结束爆炒模式,关闭爆炒,,generic_command,TCL 高频词,K379,True
+关掉爆炒模式,关闭爆炒,,generic_command,TCL 高频词,L379,True
+关一下爆炒模式,关闭爆炒,,generic_command,TCL 高频词,M379,True
+关闭炒菜模式,关闭爆炒,,generic_command,TCL 高频词,N379,True
+打开备菜模式,打开备菜,,generic_command,TCL 高频词,E382,True
+备菜模式打开,打开备菜,,generic_command,TCL 高频词,G382,True
+启动备菜功能,打开备菜,,generic_command,TCL 高频词,H382 | J382,True
+开启备菜,打开备菜,,generic_command,TCL 高频词,I382,True
+我在备菜,打开备菜,,generic_command,TCL 高频词,K382,True
+开一下备菜模式,打开备菜,,generic_command,TCL 高频词,L382,True
+备菜功能打开,打开备菜,,generic_command,TCL 高频词,M382,True
+开始备菜,打开备菜,,generic_command,TCL 高频词,N382,True
+开始洗菜,打开备菜,,generic_command,TCL 高频词,O382,True
+我要洗菜了,打开备菜,,generic_command,TCL 高频词,P382,True
+备菜模式,打开备菜,,core_command,TCL 高频词,C383,True
+备菜功能,打开备菜,,generic_command,TCL 高频词,E383,True
+我要备菜了,打开备菜,,generic_command,TCL 高频词,F383,True
+关闭备菜模式,关闭备菜,,generic_command,TCL 高频词,E385,True
+备菜模式关闭,关闭备菜,,generic_command,TCL 高频词,G385,True
+我结束备菜了,关闭备菜,,generic_command,TCL 高频词,H385,True
+结束备菜,关闭备菜,,generic_command,TCL 高频词,I385,True
+我洗完菜了,关闭备菜,,generic_command,TCL 高频词,J385,True
+我备完菜了,关闭备菜,,generic_command,TCL 高频词,K385,True
+备菜模式关掉,关闭备菜,,generic_command,TCL 高频词,L385,True
+停止备菜模式,关闭备菜,,generic_command,TCL 高频词,M385,True
+关一下备菜模式,关闭备菜,,generic_command,TCL 高频词,N385,True
+打开防霉模式,打开防霉,,generic_command,TCL 高频词,F388,True
+启动防霉功能,打开防霉,,generic_command,TCL 高频词,G388,True
+防霉打开,打开防霉,,generic_command,TCL 高频词,H388,True
+开启防霉,打开防霉,,generic_command,TCL 高频词,I388,True
+防霉模式打开,打开防霉,,generic_command,TCL 高频词,J388,True
+防霉功能打开,打开防霉,,generic_command,TCL 高频词,K388,True
+打开防霉功能,打开防霉,,generic_command,TCL 高频词,L388,True
+开一下防霉,打开防霉,,generic_command,TCL 高频词,M388,True
+开一下防霉模式,打开防霉,,generic_command,TCL 高频词,N388,True
+开一下防霉功能,打开防霉,,generic_command,TCL 高频词,O388,True
+防霉功能,打开防霉,,generic_command,TCL 高频词,P388,True
+防霉模式,打开防霉,,core_command,TCL 高频词,C389,True
+关闭防霉模式,关闭防霉,,generic_command,TCL 高频词,F391,True
+防霉关闭,关闭防霉,,generic_command,TCL 高频词,G391,True
+防霉关掉,关闭防霉,,generic_command,TCL 高频词,H391,True
+停止防霉功能,关闭防霉,,generic_command,TCL 高频词,I391,True
+防霉模式关闭,关闭防霉,,generic_command,TCL 高频词,J391,True
+防霉模式关掉,关闭防霉,,generic_command,TCL 高频词,K391,True
+关一下防霉,关闭防霉,,generic_command,TCL 高频词,L391,True
+关一下防霉模式,关闭防霉,,generic_command,TCL 高频词,M391,True
+关一下防霉功能,关闭防霉,,generic_command,TCL 高频词,N391,True
+关闭防霉功能,关闭防霉,,generic_command,TCL 高频词,O391,True
+空调开始配网,空调配网,,core_command,TCL 高频词,C394,True
+连接网络,空调配网,,generic_command,TCL 高频词,E394,True
+配置网络,空调配网,,generic_command,TCL 高频词,F394,True
+连接一下网络,空调配网,,generic_command,TCL 高频词,G394,True
+配置一下网络,空调配网,,generic_command,TCL 高频词,H394,True
+配网模式,空调配网,,generic_command,TCL 高频词,I394,True
+联网模式,空调配网,,generic_command,TCL 高频词,J394,True
+帮我配网,空调配网,,generic_command,TCL 高频词,K394,True
+帮我联网,空调配网,,generic_command,TCL 高频词,L394,True
+开始配网,空调配网,,generic_command,TCL 高频词,M394,True
+开始联网,空调配网,,generic_command,TCL 高频词,N394,True
+进入配网,空调配网,,generic_command,TCL 高频词,O394,True
+进入联网,空调配网,,generic_command,TCL 高频词,P394,True
+空调重新配网,空调配网,,core_command,TCL 高频词,C395,True
+进入配网模式,空调配网,,generic_command,TCL 高频词,E395,True
+进入联网模式,空调配网,,generic_command,TCL 高频词,F395,True
+重新配网,空调配网,,generic_command,TCL 高频词,G395,True
+重新联网,空调配网,,generic_command,TCL 高频词,H395,True
+唤醒词学习,学习唤醒词,,core_command,TCL 高频词,C398,True
+清除唤醒词,删除唤醒词,,core_command,TCL 高频词,C401,True
+命令词学习,学习命令词,,core_command,TCL 高频词,C404,True
+清除命令词,删除命令词,,core_command,TCL 高频词,C407,True
+全部命令词删除,删除全部命令词,,core_command,TCL 高频词,C410,True
+开净化,打开净化模式,,core_command,TCL 高频词,C412,True
+开启净化模式,打开净化模式,,generic_command,TCL 高频词,F412,True
+开净化模式,打开净化模式,,generic_command,TCL 高频词,G412,True
+净化模式打开,打开净化模式,,generic_command,TCL 高频词,H412,True
+净化模式开一下,打开净化模式,,generic_command,TCL 高频词,I412,True
+净化模式开启,打开净化模式,,generic_command,TCL 高频词,J412,True
+空调净化模式,打开净化模式,,generic_command,TCL 高频词,K412,True
+空调净化功能,打开净化模式,,generic_command,TCL 高频词,L412,True
+空气净化模式,打开净化模式,,generic_command,TCL 高频词,M412,True
+切换到净化模式,打开净化模式,,generic_command,TCL 高频词,N412,True
+调整为净化模式,打开净化模式,,generic_command,TCL 高频词,O412,True
+打开新风净化模式,打开净化模式,,generic_command,TCL 高频词,P412,True
+打开净化,打开净化模式,,core_command,TCL 高频词,C413,True
+新风净化模式打开,打开净化模式,,generic_command,TCL 高频词,E413,True
+开启新风净化模式,打开净化模式,,generic_command,TCL 高频词,F413,True
+新风净化模式开启,打开净化模式,,generic_command,TCL 高频词,G413,True
+开一下净化模式,打开净化模式,,generic_command,TCL 高频词,H413,True
+启动净化模式,打开净化模式,,generic_command,TCL 高频词,I413,True
+净化模式启动,打开净化模式,,generic_command,TCL 高频词,J413,True
+开始净化,打开净化模式,,generic_command,TCL 高频词,K413,True
+打开空气净化模式,打开净化模式,,generic_command,TCL 高频词,L413,True
+空气净化模式打开,打开净化模式,,generic_command,TCL 高频词,M413,True
+开启空气净化模式,打开净化模式,,generic_command,TCL 高频词,N413,True
+空气净化模式开启,打开净化模式,,generic_command,TCL 高频词,O413,True
+新风净化模式,打开净化模式,,generic_command,TCL 高频词,P413,True
+净化模式,打开净化模式,,core_command,TCL 高频词,C414,True
+关净化,关闭净化模式,,core_command,TCL 高频词,C415,True
+关闭净化,关闭净化模式,,core_command,TCL 高频词,C416,True
+增大净化,增大净化风速,,core_command,TCL 高频词,C418,True
+调高净化,增大净化风速,,core_command,TCL 高频词,D418,True
+加大净化,增大净化风速,,core_command,TCL 高频词,C419,True
+调大净化,增大净化风速,,core_command,TCL 高频词,C420,True
+减小净化,减小净化风速,,core_command,TCL 高频词,C421,True
+调低净化,减小净化风速,,core_command,TCL 高频词,D421,True
+调小净化,减小净化风速,,core_command,TCL 高频词,C422,True
+降低净化,减小净化风速,,core_command,TCL 高频词,C423,True
+挂断通话,挂断电话,,core_command,TCL 高频词,C443,True
+雷达模式,打开雷达,,generic_command,TCL 高频词,E445,True
+对人吹,风吹人,,core_command | generic_command,TCL 高频词,C451 | M451,True
+向人吹,风吹人,,generic_command,TCL 高频词,E451,True
+向人吹风,风吹人,,generic_command,TCL 高频词,F451,True
+朝人吹风,风吹人,,generic_command,TCL 高频词,G451,True
+对人吹风,风吹人,,generic_command,TCL 高频词,H451,True
+对着人吹,风吹人,,core_command | generic_command,TCL 高频词,C452 | I451,True
+对人摆,风吹人,,generic_command,TCL 高频词,J451,True
+对着人吹风,风吹人,,generic_command,TCL 高频词,K451,True
+朝人吹,风吹人,,generic_command,TCL 高频词,L451,True
+风向人吹,风吹人,,generic_command,TCL 高频词,N451,True
+冲人吹风,风吹人,,generic_command,TCL 高频词,O451,True
+向人送风,风吹人,,generic_command,TCL 高频词,P451,True
+冲人吹,风吹人,,generic_command,TCL 高频词,E452,True
+风向着人吹,风吹人,,generic_command,TCL 高频词,F452,True
+风对着人吹,风吹人,,generic_command,TCL 高频词,G452,True
+关闭风随人动,关闭风吹人,,core_command,TCL 高频词,C455,True
+别吹人,风避人,,core_command,TCL 高频词,C457,True
+不要吹人,风避人,,generic_command,TCL 高频词,E457,True
+不要对人吹,风避人,,generic_command,TCL 高频词,F457 | G458,True
+别对人吹,风避人,,generic_command,TCL 高频词,G457,True
+不要向人吹风,风避人,,generic_command,TCL 高频词,H457,True
+别向人吹风,风避人,,generic_command,TCL 高频词,I457,True
+别对人吹风,风避人,,generic_command,TCL 高频词,J457,True
+不要对着人吹,风避人,,generic_command,TCL 高频词,H458 | K457,True
+别对着人吹,风避人,,generic_command,TCL 高频词,L457,True
+不要对着人吹风,风避人,,generic_command,TCL 高频词,M457,True
+别对着人吹风,风避人,,generic_command,TCL 高频词,N457,True
+避开人吹,风避人,,generic_command,TCL 高频词,O457,True
+别朝人吹,风避人,,generic_command,TCL 高频词,P457,True
+避风模式,风避人,,core_command,TCL 高频词,C458,True
+不向人吹风,风避人,,generic_command,TCL 高频词,E458,True
+别朝人吹风,风避人,,generic_command,TCL 高频词,F458,True
+风不要对着人吹,风避人,,generic_command,TCL 高频词,I458,True
+不要直吹人,风避人,,generic_command,TCL 高频词,J458,True
+风不要向着人吹,风避人,,generic_command,TCL 高频词,K458,True
+风避人吹,风避人,,generic_command,TCL 高频词,L458,True
+不要对人吹风,风避人,,generic_command,TCL 高频词,M458,True
+不要向人吹,风避人,,generic_command,TCL 高频词,N458,True
+关闭人感避开,关闭风避人,,core_command,TCL 高频词,C460,True
+关闭避风模式,关闭风避人,,core_command,TCL 高频词,C461,True
+连接蓝牙,打开蓝牙,,core_command,TCL 高频词,C463,True
+蓝牙关闭,关闭蓝牙,,core_command,TCL 高频词,C467,True
+打开小夜灯,打开夜灯,,core_command,TCL 高频词,C470,True
+关闭小夜灯,关闭夜灯,,core_command,TCL 高频词,C473,True
+调整温度,调温度,,core_command,TCL 高频词,C476,True
+调整风速,调风速,,core_command,TCL 高频词,C479,True
+调整模式,调模式,,core_command,TCL 高频词,C482,True
+调整音量,调音量,,core_command,TCL 高频词,C485,True
+调整风摆,调风摆,,core_command,TCL 高频词,C488,True
+AI模式,打开AI模式,,core_command,TCL 高频词,C490,True
+AI智控,打开AI模式,,core_command,TCL 高频词,C491,True
+关闭AI智控,关闭AI模式,,core_command,TCL 高频词,C494,True
+离家模式,打开离家模式,,core_command,TCL 高频词,C496,True
+全域风,打开全域风,,core_command,TCL 高频词,C502,True
+全域风模式,打开全域风,,core_command,TCL 高频词,D502,True
+到处都要吹,打开全域风,,generic_command,TCL 高频词,E502,True
+吹遍全屋,打开全域风,,generic_command,TCL 高频词,F502,True
+全域有风,打开全域风,,core_command,TCL 高频词,C503,True
+到处都要吹风,打开全域风,,generic_command,TCL 高频词,E503,True
+风吹遍全屋,打开全域风,,generic_command,TCL 高频词,F503,True
+关闭全域有风,关闭全域风,,core_command,TCL 高频词,C506,True
+全域无风,打开全域无风,,core_command,TCL 高频词,C508,True
+风对墙壁吹,打开全域无风,,generic_command,TCL 高频词,E508,True
+对墙壁吹风,打开全域无风,,generic_command,TCL 高频词,F508,True
+吹墙壁,打开全域无风,,generic_command,TCL 高频词,G508,True
+风向两边吹,打开全域无风,,generic_command,TCL 高频词,H508,True
+两边吹风,打开全域无风,,generic_command,TCL 高频词,I508,True
+向两边吹风,打开全域无风,,generic_command,TCL 高频词,J508,True
+向两边吹,打开全域无风,,generic_command,TCL 高频词,K508,True
+全域无风模式,打开全域无风,,core_command,TCL 高频词,C509,True
+风向墙壁吹,打开全域无风,,generic_command,TCL 高频词,E509,True
+向墙壁吹风,打开全域无风,,generic_command,TCL 高频词,F509,True
+风吹墙壁,打开全域无风,,generic_command,TCL 高频词,G509,True
+风对两边吹,打开全域无风,,generic_command,TCL 高频词,H509,True
+两边吹,打开全域无风,,generic_command,TCL 高频词,I509,True
+对两边吹风,打开全域无风,,generic_command,TCL 高频词,J509,True
+对两边吹,打开全域无风,,generic_command,TCL 高频词,K509,True
+关闭全面无风,关闭全域无风,,core_command,TCL 高频词,C512,True
+靠近吹柔风,打开人近风柔,,generic_command,TCL 高频词,E514,True
+靠近后风变柔,打开人近风柔,,generic_command,TCL 高频词,F514,True
+靠近变柔风,打开人近风柔,,generic_command,TCL 高频词,G514,True
+人近开柔风,打开人近风柔,,generic_command,TCL 高频词,H514,True
+打开人远强风,打开人远风强,,core_command,TCL 高频词,C521,True
+关闭人远强风,关闭人远风强,,core_command,TCL 高频词,C524,True
+没人就节能,打开人走节能,,generic_command,TCL 高频词,E526,True
+无人状态自动节能,打开人走节能,,generic_command,TCL 高频词,F526,True
+人离开后开节能,打开人走节能,,generic_command,TCL 高频词,G526,True
+打开无人节能,打开人走节能,,core_command,TCL 高频词,C527,True
+关闭无人节能,关闭人走节能,,core_command,TCL 高频词,C530,True
+向我吹风,对我吹,dui wo chui,doa_command,DOA指令词,F11:H11,True
+对着我吹,对我吹,dui wo chui,doa_command,DOA指令词,F12:H12,True
+对我吹风,对我吹,dui wo chui,doa_command,DOA指令词,F13:H13,True
+风向我吹,对我吹,dui wo chui,doa_command,DOA指令词,F14:H14,True
+风吹我,对我吹,dui wo chui,doa_command,DOA指令词,F15:H15,True
+我要向我吹风,对我吹,dui wo chui,doa_command,DOA指令词,F16:H16,True
+对着我吹风,对我吹,dui wo chui,doa_command,DOA指令词,F17:H17,True
+风对我吹,对我吹,dui wo chui,doa_command,DOA指令词,F18:H18,True
+向我吹,对我吹,dui wo chui,doa_command,DOA指令词,F19:H19,True
+不要向我吹风,别吹我,bie chui wo,doa_command,DOA指令词,F22:H22,True
+避开我吹风,别吹我,bie chui wo,doa_command,DOA指令词,F23:H23,True
+不要吹我,别吹我,bie chui wo,doa_command,DOA指令词,F24:H24,True
+不要对着我吹,别吹我,bie chui wo,doa_command,DOA指令词,F25:H25,True
+别向我吹风,别吹我,bie chui wo,doa_command,DOA指令词,F26:H26,True
+不要对我吹风,别吹我,bie chui wo,doa_command,DOA指令词,F27:H27,True
+风避我吹,别吹我,bie chui wo,doa_command,DOA指令词,F28:H28,True
+不要对着我吹风,别吹我,bie chui wo,doa_command,DOA指令词,F29:H29,True
+风别吹我,别吹我,bie chui wo,doa_command,DOA指令词,F30:H30,True
