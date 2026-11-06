@@ -36,3 +36,32 @@ python -u scripts\build_audio_manifest.py verify
 - 不改名或覆盖既有音频来迎合测试结果。
 - 新增、替换或删除音频后必须重建 manifest，并同步词表覆盖统计。
 - 不把运行时临时音频写回 `audio/generated/`；临时产物放调用者工作区 `result/`。
+
+## 重生成（lstts / IndexTTS）
+
+原语料只读：不重生成、不重编码、不改名。需要补录或比对时，用 `scripts/regen_audio.py` 把同一批文本重新合成到 `result/audio_regen/<日期>/`，产出独立 manifest，人工比对后再决定是否人工替换原文件。
+
+安装 / 更新 lstts：
+
+```bash
+pip install "lstts-core @ git+https://github.com/zjashanda/lstts.git@main"
+pip install -U --force-reinstall --no-cache-dir "lstts-core @ git+https://github.com/zjashanda/lstts.git@main"
+python -c "import lstts_core; print(lstts_core.__version__)"
+```
+
+清单直接复用 `audio/manifests/audio_manifest.csv` 的 `text` 列（2778 条），无需另写词表：
+
+```bash
+# 只看计划，不装 lstts、不访问网络
+python scripts/regen_audio.py plan
+
+# 实际合成前 5 条到 result/audio_regen/<时间戳>/
+python scripts/regen_audio.py build --limit 5
+```
+
+规则：
+
+- 输出目录默认 `result/audio_regen/<时间戳>/`，`--corpus-dir audio/generated` 命中即拒绝，避免覆盖静态语料。
+- 每条产物写 `regen_manifest.json` / `.csv`：文本、音色、采样率、时长、响度、体积、SHA-256、状态。
+- 凭据只用 `LSTTS_TTS_TOKEN`（兼容旧 `LSTEST_TTS_TOKEN`），不写进仓库和日志。
+- 离线自测：`python -m unittest discover -s tests`（桩替换 lstts_core，不访问网络）。
