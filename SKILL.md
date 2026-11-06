@@ -11,6 +11,16 @@ description: "TCL 双麦空调语音验证与压测项目 Skill。Use when 在�
 
 先读 [references/capability-matrix.md](references/capability-matrix.md)，不要把需求矩阵中的全部场景误报为已实现能力。音频范围、规格和校验方法见 [references/audio-assets.md](references/audio-assets.md)。
 
+## 适用设备
+
+| 项 | 本 skill 的适用值 | 说明 |
+|---|---|---|
+| 项目 | TCL 双麦空调（`TCL-ac`） | 只服务 TCL 项目；词表与音频按该项目录制 |
+| 日志串口 | CSK AP `COM20@921600`、上位机 `COM22@921600` | 端口可改，但必须同时具备 CSK 日志与上位机日志两个来源 |
+| 播报声卡 | `VID_8765&PID_5678:9_387C0FC7_0_0000` | 每次运行前 probe；显式声卡不存在或多义即停，不回退默认设备 |
+| 语料 | `audio/` 2778 条 MP3 + 489 条核心命令词表 | 语料只对 TCL 项目有效，不可移植到其他项目 |
+| 不适用 | 非双麦空调形态、无 CSK AP 日志口的设备 | 烧录用 `cskflashtest` / `mideaSmoke`，通用真机 BDD 用 `Polaris`，奥普项目用 `arcs-aopu-test` |
+
 ## 已实现入口
 
 | 目标 | 统一模式 | 实际脚本 |
