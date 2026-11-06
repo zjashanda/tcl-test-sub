@@ -49,6 +49,7 @@ python -u scripts\tcl_test_sub.py preflight --mode all
 - 播放工具：`~/.codex/skills/listenai-play/scripts/listenai_play.py`。
 - 核心命令：`testdata/lexicon/complete_core_commands.csv`，当前 489 条。
 - 音频：`audio/generated/` 2774 条、`audio/online_interaction/` 4 条；全部由 manifest 校验。
+- 重生成只允许输出到 `result/audio_regen/<日期>/`，不覆盖内置音频；入口 `scripts/regen_audio.py`，见 [references/audio-assets.md](references/audio-assets.md)。
 
 串口被占用时判为 `BLOCKED`，不得擅自关闭用户程序。显式声卡不存在、重复或映射异常时停止，禁止回退到默认声卡。
 
